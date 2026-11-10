@@ -64,6 +64,7 @@ function parseRoute() {
   const parts = path.split('/').filter(Boolean).map(decodeURIComponent);
   const q = new URLSearchParams(qs || '');
   if (!parts.length) return { view: 'overview' };
+  if (parts[0] === 'financials' && parts.length === 1) return { view: 'financials', hide: q.get('hide'), rev: q.get('rev') };
   if (parts[0] === 'e' && parts[1] && parts.length === 2) return { view: 'entity', slug: parts[1], scan: q.get('scan') };
   if (parts[0] === 'e' && parts[1] && parts[2] === 'brief' && parts.length === 3) return { view: 'brief', slug: parts[1], scan: q.get('scan') };
   return { view: 'missing' };
@@ -85,8 +86,10 @@ async function route() {
       el('p', { class: 'muted', text: String(e.message || e) })));
   }
   document.getElementById('updated').textContent = fmtDate(manifest.updated);
+  document.querySelectorAll('[data-nav]').forEach(a => { const on = a.dataset.nav === (r.view === 'financials' ? 'fin' : 'home'); if (on) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current'); });
   try {
     if (r.view === 'overview') await viewOverview();
+    else if (r.view === 'financials') await viewFinancials(r);
     else if (r.view === 'missing') viewMissing('This address does not match any page.');
     else {
       const ent = manifest.entities.find(x => x.slug === r.slug);
