@@ -11,372 +11,396 @@
       "name": "Epiroc",
       "segment": "Group",
       "reporting_currency": "SEK",
-      "profit_metric": "Adjusted operating profit (Adj. operating profit, EBIT)",
+      "profit_metric": "EBITA",
       "fiscal_year_note": null,
       "latest_quarter": "2026Q3",
       "next_report_date": "2027-01-26",
       "notes": [
-        "Reports in SEK, calendar fiscal year; fx_rate_to_sek = 1.0 for all quarters.",
-        "Metric choice: Epiroc does not report adjusted EBITA. It reports EBITA only from the Q1 2024 interim report (with 2023 comparatives), so EBITA is not available for 2021Q1–2022Q4; the highest metric reported for every quarter from 2021Q1 is adjusted operating profit (operating profit/EBIT excluding items affecting comparability, incl. change in provision for share-based LTI programs).",
-        "2021Q1 and 2021Q2: no interim report prints the adjusted operating profit in MSEK for these quarters, so it is calculated as reported Operating profit + reported Items affecting comparability (Q4 2022 report p.21, IAC shown with reverse sign): 1,867+149=2,016 and 2,182+15=2,197. Both match the reported adjusted operating margins (23.0% and 22.6%). All other quarters use a printed adjusted operating profit figure.",
-        "No restatement of Group revenues or adjusted operating profit was found: comparatives in later reports match the original figures (checked 2021–2025). The September 2025 change to two business areas (Equipment & Service, Tools & Attachments) does not affect Group figures.",
-        "Epiroc's historical key-figures Excel on epirocgroup.com is blocked by a Cloudflare challenge (not bypassed), so the series comes from the interim report PDFs on Epiroc's official Cision newsroom (mb.cision.com/Main/16899/...)."
+        "Profit metric changed from 'Adj. operating profit, EBIT' (previous run) to 'EBITA' so Epiroc compares like-for-like with competitors on the EBITA basis. Epiroc's EBITA is unadjusted: per its definitions table, EBITA = operating profit (EBIT) plus amortization and impairment of intangible assets; it therefore includes items affecting comparability (e.g. 2024Q3 EBITA 3 896 includes a +554 revaluation gain on ASI Mining shares, with the 346 impairment of acquired intangibles added back).",
+        "Adjusted EBITA (higher in the priority list) was not used: the Group interim reports print no adjusted-EBITA figure (only text mentions about the Stanley Infrastructure acquisition), the key-figures file shows 'Adjusted EBITA' only from 2023Q1 with no published definition, so it can neither be sourced nor derived for 2021-2022.",
+        "Reported EBITA: 2024Q1-2026Q3 from each quarter's own interim report (p.3 Financial overview); 2023Q1-Q4 from the 2024 interim reports' prior-year comparatives (EBITA was introduced in the Q1 2024 report); 2022Q1-Q4 from Epiroc's own historical key-figures file (Epiroc Key Figures Q3 2026, sheet 'Key figures', row '* EBITA'), which reports EBITA quarterly from 2022Q1.",
+        "Derived quarters 2021Q1-2021Q4 (profit_derived=true): EBITA = Operating profit, EBIT (printed p.3 of that quarter's interim report) + amortization and impairment of intangible assets (Epiroc Key Figures Q3 2026, sheet 'Cash flow', row 55 'Intangible assets'; the interim reports print only total depreciation, amortization and impairment). EBIT values in the reports equal the key-figures file ('APMs calculated' row 10).",
+        "Formula proof on overlap quarters where Epiroc reports EBITA (EBIT + intangible D&A vs reported EBITA): 2022Q1: 2631 + 124 = 2755 vs reported 2755 (+0.00%); 2022Q2: 2381 + 132 = 2513 vs reported 2513 (+0.00%); 2022Q3: 2900 + 140 = 3040 vs reported 3040 (+0.00%); 2022Q4: 3235 + 232 = 3467 vs reported 3467 (+0.00%); 2023Q1: 3161 + 213 = 3374 vs reported 3374 (+0.00%); 2023Q2: 3413 + 192 = 3605 vs reported 3605 (+0.00%); 2023Q3: 3260 + 273 = 3533 vs reported 3533 (+0.00%); 2023Q4: 3349 + 217 = 3566 vs reported 3566 (+0.00%); 2024Q1: 2760 + 216 = 2976 vs reported 2976 (+0.00%). All within 0.5% (max deviation on all overlap quarters 2022Q1-2026Q3: 0.05%).",
+        "No restatement of Group revenue/EBIT found for 2021-2026 (restatements of 2022/2023 relate only to business-area splits and to orders received, which are not used here). Values are MSEK as reported; reported_margin_pct is Epiroc's printed EBITA margin (one decimal) and null for derived quarters."
       ],
       "quarters": [
         {
           "quarter": "2021Q1",
           "period_end": "2021-03-31",
           "revenue": 8773.0,
-          "profit": 2016.0,
-          "reported_margin_pct": 23.0,
+          "profit": 1939.0,
+          "profit_derived": true,
+          "reported_margin_pct": null,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 8773.0,
-          "profit_msek": 2016.0,
+          "profit_msek": 1939.0,
           "source": {
-            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
-            "title": "Epiroc AB Interim Report Q4 2022",
-            "locator": "p.21 'Condensed segments quarterly', Epiroc Group: Revenues 8,773; adjusted operating profit derived = Operating profit 1,867 + items affecting comparability 149 (table shows IAC with reverse sign); Adjusted operating margin 23.0%"
+            "url": "https://mb.cision.com/Main/16899/3335514/1408989.pdf",
+            "title": "Epiroc AB Interim Report January – March 2021 (Q1 2021)",
+            "locator": "Revenues 8 773 and Operating profit (EBIT) 1 867: p.3 'Financial overview' table, Q1 2021 column of this report; amortization and impairment of intangible assets 72: Epiroc Key Figures Q3 2026 (Excel, last updated October 28, 2026) (https://epiroc.scene7.com/is/content/epiroc/Epiroc+Key+Figures+Q326), sheet 'Cash flow', row 55 'Intangible assets', cell AD55; derived EBITA = 1 867 + 72 = 1 939"
           }
         },
         {
           "quarter": "2021Q2",
           "period_end": "2021-06-30",
           "revenue": 9733.0,
-          "profit": 2197.0,
-          "reported_margin_pct": 22.6,
+          "profit": 2271.0,
+          "profit_derived": true,
+          "reported_margin_pct": null,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 9733.0,
-          "profit_msek": 2197.0,
+          "profit_msek": 2271.0,
           "source": {
-            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
-            "title": "Epiroc AB Interim Report Q4 2022",
-            "locator": "p.21 'Condensed segments quarterly', Epiroc Group: Revenues 9,733; adjusted operating profit derived = Operating profit 2,182 + items affecting comparability 15 (table shows IAC with reverse sign); Adjusted operating margin 22.6%"
+            "url": "https://mb.cision.com/Main/16899/3387485/1446810.pdf",
+            "title": "Epiroc AB Interim Report January – June 2021 (Q2 2021)",
+            "locator": "Revenues 9 733 and Operating profit (EBIT) 2 182: p.3 'Financial overview' table, Q2 2021 column of this report; amortization and impairment of intangible assets 89: Epiroc Key Figures Q3 2026 (Excel, last updated October 28, 2026) (https://epiroc.scene7.com/is/content/epiroc/Epiroc+Key+Figures+Q326), sheet 'Cash flow', row 55 'Intangible assets', cell AE55; derived EBITA = 2 182 + 89 = 2 271"
           }
         },
         {
           "quarter": "2021Q3",
           "period_end": "2021-09-30",
           "revenue": 9966.0,
-          "profit": 2331.0,
-          "reported_margin_pct": 23.4,
+          "profit": 2470.0,
+          "profit_derived": true,
+          "reported_margin_pct": null,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 9966.0,
-          "profit_msek": 2331.0,
+          "profit_msek": 2470.0,
           "source": {
-            "url": "https://mb.cision.com/Main/16899/3655304/1643879.pdf",
-            "title": "Epiroc AB Interim Report Q3 2022",
-            "locator": "p.3 highlights: 'Adjusted operating profit increased 31% to MSEK 3 064 (2 331)' (comparative = Q3 2021); revenues 9 966 (comparative) in p.3 Financial overview; adjusted operating margin 23.4% per Q4 2022 report p.21"
+            "url": "https://mb.cision.com/Main/16899/3437200/1483923.pdf",
+            "title": "Epiroc AB Interim Report January – September 2021 (Q3 2021)",
+            "locator": "Revenues 9 966 and Operating profit (EBIT) 2 352: p.3 'Financial overview' table, Q3 2021 column of this report; amortization and impairment of intangible assets 118: Epiroc Key Figures Q3 2026 (Excel, last updated October 28, 2026) (https://epiroc.scene7.com/is/content/epiroc/Epiroc+Key+Figures+Q326), sheet 'Cash flow', row 55 'Intangible assets', cell AF55; derived EBITA = 2 352 + 118 = 2 470"
           }
         },
         {
           "quarter": "2021Q4",
           "period_end": "2021-12-31",
           "revenue": 11173.0,
-          "profit": 2554.0,
-          "reported_margin_pct": 22.9,
+          "profit": 2748.0,
+          "profit_derived": true,
+          "reported_margin_pct": null,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 11173.0,
-          "profit_msek": 2554.0,
+          "profit_msek": 2748.0,
           "source": {
-            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
-            "title": "Epiroc AB Interim Report Q4 2022",
-            "locator": "p.6 chart 'Adjusted operating profit and margin' (Adj. operating profit, MSEK, Q421–Q422) = 2,554; Revenues 11,173 and Adjusted operating margin 22.9% from p.21 'Condensed segments quarterly', Epiroc Group"
+            "url": "https://mb.cision.com/Main/16899/3492844/1525502.pdf",
+            "title": "Epiroc AB Interim Report January – December 2021 (Q4 2021)",
+            "locator": "Revenues 11 173 and Operating profit (EBIT) 2 594: p.3 'Financial overview' table, Q4 2021 column of this report; amortization and impairment of intangible assets 154: Epiroc Key Figures Q3 2026 (Excel, last updated October 28, 2026) (https://epiroc.scene7.com/is/content/epiroc/Epiroc+Key+Figures+Q326), sheet 'Cash flow', row 55 'Intangible assets', cell AG55; derived EBITA = 2 594 + 154 = 2 748"
           }
         },
         {
           "quarter": "2022Q1",
           "period_end": "2022-03-31",
           "revenue": 11088.0,
-          "profit": 2588.0,
-          "reported_margin_pct": 23.3,
+          "profit": 2755.0,
+          "profit_derived": false,
+          "reported_margin_pct": 24.8,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 11088.0,
-          "profit_msek": 2588.0,
+          "profit_msek": 2755.0,
           "source": {
-            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
-            "title": "Epiroc AB Interim Report Q4 2022",
-            "locator": "p.6 chart 'Adjusted operating profit and margin' (Adj. operating profit, MSEK, Q421–Q422) = 2,588; Revenues 11,088 and Adjusted operating margin 23.3% from p.21 'Condensed segments quarterly', Epiroc Group"
+            "url": "https://epiroc.scene7.com/is/content/epiroc/Epiroc+Key+Figures+Q326",
+            "title": "Epiroc Key Figures Q3 2026 (Excel, last updated October 28, 2026)",
+            "locator": "sheet 'Key figures', row 25 '* EBITA' cell AH25 = 2 755; row 26 '* EBITA margin, %' cell AH26 = 24.8; Revenues 11 088 = sheet 'APMs calculated' cell AD5, also printed p.3 'Financial overview' of the Q1 2022 interim report (https://mb.cision.com/Main/16899/3552270/1568412.pdf)"
           }
         },
         {
           "quarter": "2022Q2",
           "period_end": "2022-06-30",
           "revenue": 11868.0,
-          "profit": 2801.0,
-          "reported_margin_pct": 23.6,
+          "profit": 2513.0,
+          "profit_derived": false,
+          "reported_margin_pct": 21.2,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 11868.0,
-          "profit_msek": 2801.0,
+          "profit_msek": 2513.0,
           "source": {
-            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
-            "title": "Epiroc AB Interim Report Q4 2022",
-            "locator": "p.6 chart 'Adjusted operating profit and margin' (Adj. operating profit, MSEK, Q421–Q422) = 2,801; Revenues 11,868 and Adjusted operating margin 23.6% from p.21 'Condensed segments quarterly', Epiroc Group"
+            "url": "https://epiroc.scene7.com/is/content/epiroc/Epiroc+Key+Figures+Q326",
+            "title": "Epiroc Key Figures Q3 2026 (Excel, last updated October 28, 2026)",
+            "locator": "sheet 'Key figures', row 25 '* EBITA' cell AI25 = 2 513; row 26 '* EBITA margin, %' cell AI26 = 21.2; Revenues 11 868 = sheet 'APMs calculated' cell AE5, also printed p.3 'Financial overview' of the Q2 2022 interim report (https://mb.cision.com/Main/16899/3603521/1606138.pdf)"
           }
         },
         {
           "quarter": "2022Q3",
           "period_end": "2022-09-30",
           "revenue": 12802.0,
-          "profit": 3064.0,
-          "reported_margin_pct": 23.9,
+          "profit": 3040.0,
+          "profit_derived": false,
+          "reported_margin_pct": 23.7,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 12802.0,
-          "profit_msek": 3064.0,
+          "profit_msek": 3040.0,
           "source": {
-            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
-            "title": "Epiroc AB Interim Report Q4 2022",
-            "locator": "p.6 chart 'Adjusted operating profit and margin' (Adj. operating profit, MSEK, Q421–Q422) = 3,064; Revenues 12,802 and Adjusted operating margin 23.9% from p.21 'Condensed segments quarterly', Epiroc Group"
+            "url": "https://epiroc.scene7.com/is/content/epiroc/Epiroc+Key+Figures+Q326",
+            "title": "Epiroc Key Figures Q3 2026 (Excel, last updated October 28, 2026)",
+            "locator": "sheet 'Key figures', row 25 '* EBITA' cell AJ25 = 3 040; row 26 '* EBITA margin, %' cell AJ26 = 23.7; Revenues 12 802 = sheet 'APMs calculated' cell AF5, also printed p.3 'Financial overview' of the Q3 2022 interim report (https://mb.cision.com/Main/16899/3655304/1643879.pdf)"
           }
         },
         {
           "quarter": "2022Q4",
           "period_end": "2022-12-31",
           "revenue": 13936.0,
-          "profit": 3302.0,
-          "reported_margin_pct": 23.7,
+          "profit": 3467.0,
+          "profit_derived": false,
+          "reported_margin_pct": 24.9,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 13936.0,
-          "profit_msek": 3302.0,
+          "profit_msek": 3467.0,
           "source": {
-            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
-            "title": "Epiroc AB Interim Report Q4 2022",
-            "locator": "p.6 chart 'Adjusted operating profit and margin' (Adj. operating profit, MSEK, Q421–Q422) = 3,302; Revenues 13,936 and Adjusted operating margin 23.7% from p.21 'Condensed segments quarterly', Epiroc Group"
+            "url": "https://epiroc.scene7.com/is/content/epiroc/Epiroc+Key+Figures+Q326",
+            "title": "Epiroc Key Figures Q3 2026 (Excel, last updated October 28, 2026)",
+            "locator": "sheet 'Key figures', row 25 '* EBITA' cell AK25 = 3 467; row 26 '* EBITA margin, %' cell AK26 = 24.9; Revenues 13 936 = sheet 'APMs calculated' cell AG5, also printed p.3 'Financial overview' of the Q4 2022 interim report (https://mb.cision.com/Main/16899/3706199/1816410.pdf)"
           }
         },
         {
           "quarter": "2023Q1",
           "period_end": "2023-03-31",
           "revenue": 13868.0,
-          "profit": 3187.0,
-          "reported_margin_pct": 23.0,
+          "profit": 3374.0,
+          "profit_derived": false,
+          "reported_margin_pct": 24.3,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 13868.0,
-          "profit_msek": 3187.0,
+          "profit_msek": 3374.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/3965639/2750652.pdf",
-            "title": "Epiroc AB Interim Report Q1 2024",
-            "locator": "p.5 Group table, comparative (prior-year) column: Revenues 13,868; Adj. operating profit, EBIT 3,187; Adj. operating margin, EBIT 23.0%"
+            "title": "Epiroc AB Interim Report January – March 2024 (Q1 2024)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q1 2023 comparative column (prior-year figures): Revenues 13 868; EBITA 3 374; EBITA margin 24.3%"
           }
         },
         {
           "quarter": "2023Q2",
           "period_end": "2023-06-30",
           "revenue": 15910.0,
-          "profit": 3429.0,
-          "reported_margin_pct": 21.6,
+          "profit": 3605.0,
+          "profit_derived": false,
+          "reported_margin_pct": 22.7,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 15910.0,
-          "profit_msek": 3429.0,
+          "profit_msek": 3605.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4016896/2921992.pdf",
-            "title": "Epiroc AB Interim Report Q2 2024",
-            "locator": "p.5 Group table, comparative (prior-year) column: Revenues 15,910; Adj. operating profit, EBIT 3,429; Adj. operating margin, EBIT 21.6%"
+            "title": "Epiroc AB Interim Report January – June 2024 (Q2 2024)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q2 2023 comparative column (prior-year figures): Revenues 15 910; EBITA 3 605; EBITA margin 22.7%"
           }
         },
         {
           "quarter": "2023Q3",
           "period_end": "2023-09-30",
           "revenue": 14997.0,
-          "profit": 3272.0,
-          "reported_margin_pct": 21.8,
+          "profit": 3533.0,
+          "profit_derived": false,
+          "reported_margin_pct": 23.6,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 14997.0,
-          "profit_msek": 3272.0,
+          "profit_msek": 3533.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4056559/3074713.pdf",
-            "title": "Epiroc AB Interim Report Q3 2024",
-            "locator": "p.5 Group table, comparative (prior-year) column: Revenues 14,997; Adj. operating profit, EBIT 3,272; Adj. operating margin, EBIT 21.8%"
+            "title": "Epiroc AB Interim Report January – September 2024 (Q3 2024)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q3 2023 comparative column (prior-year figures): Revenues 14 997; EBITA 3 533; EBITA margin 23.6%"
           }
         },
         {
           "quarter": "2023Q4",
           "period_end": "2023-12-31",
           "revenue": 15568.0,
-          "profit": 3229.0,
-          "reported_margin_pct": 20.7,
+          "profit": 3566.0,
+          "profit_derived": false,
+          "reported_margin_pct": 22.9,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 15568.0,
-          "profit_msek": 3229.0,
+          "profit_msek": 3566.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4098313/3236648.pdf",
-            "title": "Epiroc AB Interim Report Q4 2024",
-            "locator": "p.5 Group table, comparative (prior-year) column: Revenues 15,568; Adj. operating profit, EBIT 3,229; Adj. operating margin, EBIT 20.7%"
+            "title": "Epiroc AB Interim Report January – December 2024 (Q4 2024)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q4 2023 comparative column (prior-year figures): Revenues 15 568; EBITA 3 566; EBITA margin 22.9%"
           }
         },
         {
           "quarter": "2024Q1",
           "period_end": "2024-03-31",
           "revenue": 14143.0,
-          "profit": 2887.0,
-          "reported_margin_pct": 20.4,
+          "profit": 2976.0,
+          "profit_derived": false,
+          "reported_margin_pct": 21.0,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 14143.0,
-          "profit_msek": 2887.0,
+          "profit_msek": 2976.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/3965639/2750652.pdf",
-            "title": "Epiroc AB Interim Report Q1 2024",
-            "locator": "p.5 Group table, current-quarter column: Revenues 14,143; Adj. operating profit, EBIT 2,887; Adj. operating margin, EBIT 20.4%"
+            "title": "Epiroc AB Interim Report January – March 2024 (Q1 2024)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q1 2024 column: Revenues 14 143; EBITA 2 976; EBITA margin 21.0%"
           }
         },
         {
           "quarter": "2024Q2",
           "period_end": "2024-06-30",
           "revenue": 16511.0,
-          "profit": 3246.0,
-          "reported_margin_pct": 19.7,
+          "profit": 3192.0,
+          "profit_derived": false,
+          "reported_margin_pct": 19.3,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 16511.0,
-          "profit_msek": 3246.0,
+          "profit_msek": 3192.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4016896/2921992.pdf",
-            "title": "Epiroc AB Interim Report Q2 2024",
-            "locator": "p.5 Group table, current-quarter column: Revenues 16,511; Adj. operating profit, EBIT 3,246; Adj. operating margin, EBIT 19.7%"
+            "title": "Epiroc AB Interim Report January – June 2024 (Q2 2024)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q2 2024 column: Revenues 16 511; EBITA 3 192; EBITA margin 19.3%"
           }
         },
         {
           "quarter": "2024Q3",
           "period_end": "2024-09-30",
           "revenue": 15699.0,
-          "profit": 3086.0,
-          "reported_margin_pct": 19.7,
+          "profit": 3896.0,
+          "profit_derived": false,
+          "reported_margin_pct": 24.8,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 15699.0,
-          "profit_msek": 3086.0,
+          "profit_msek": 3896.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4056559/3074713.pdf",
-            "title": "Epiroc AB Interim Report Q3 2024",
-            "locator": "p.5 Group table, current-quarter column: Revenues 15,699; Adj. operating profit, EBIT 3,086; Adj. operating margin, EBIT 19.7%"
+            "title": "Epiroc AB Interim Report January – September 2024 (Q3 2024)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q3 2024 column: Revenues 15 699; EBITA 3 896; EBITA margin 24.8%"
           }
         },
         {
           "quarter": "2024Q4",
           "period_end": "2024-12-31",
           "revenue": 17251.0,
-          "profit": 3405.0,
-          "reported_margin_pct": 19.7,
+          "profit": 3704.0,
+          "profit_derived": false,
+          "reported_margin_pct": 21.5,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 17251.0,
-          "profit_msek": 3405.0,
+          "profit_msek": 3704.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4098313/3236648.pdf",
-            "title": "Epiroc AB Interim Report Q4 2024",
-            "locator": "p.5 Group table, current-quarter column: Revenues 17,251; Adj. operating profit, EBIT 3,405; Adj. operating margin, EBIT 19.7%"
+            "title": "Epiroc AB Interim Report January – December 2024 (Q4 2024)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q4 2024 column: Revenues 17 251; EBITA 3 704; EBITA margin 21.5%"
           }
         },
         {
           "quarter": "2025Q1",
           "period_end": "2025-03-31",
           "revenue": 15536.0,
-          "profit": 3099.0,
-          "reported_margin_pct": 19.9,
+          "profit": 3353.0,
+          "profit_derived": false,
+          "reported_margin_pct": 21.6,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 15536.0,
-          "profit_msek": 3099.0,
+          "profit_msek": 3353.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4141917/3416218.pdf",
-            "title": "Epiroc AB Interim Report Q1 2025",
-            "locator": "p.5 Group table, current-quarter column: Revenues 15,536; Adj. operating profit, EBIT 3,099; Adj. operating margin, EBIT 19.9%"
+            "title": "Epiroc AB Interim Report January – March 2025 (Q1 2025)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q1 2025 column: Revenues 15 536; EBITA 3 353; EBITA margin 21.6%"
           }
         },
         {
           "quarter": "2025Q2",
           "period_end": "2025-06-30",
           "revenue": 15130.0,
-          "profit": 2984.0,
-          "reported_margin_pct": 19.7,
+          "profit": 3083.0,
+          "profit_derived": false,
+          "reported_margin_pct": 20.4,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 15130.0,
-          "profit_msek": 2984.0,
+          "profit_msek": 3083.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4208784/3585253.pdf",
-            "title": "Epiroc AB Interim Report Q2 2025",
-            "locator": "p.5 Group table, current-quarter column: Revenues 15,130; Adj. operating profit, EBIT 2,984; Adj. operating margin, EBIT 19.7%"
+            "title": "Epiroc AB Interim Report January – June 2025 (Q2 2025)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q2 2025 column: Revenues 15 130; EBITA 3 083; EBITA margin 20.4%"
           }
         },
         {
           "quarter": "2025Q3",
           "period_end": "2025-09-30",
           "revenue": 15242.0,
-          "profit": 2896.0,
-          "reported_margin_pct": 19.0,
+          "profit": 3047.0,
+          "profit_derived": false,
+          "reported_margin_pct": 20.0,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 15242.0,
-          "profit_msek": 2896.0,
+          "profit_msek": 3047.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4258152/3750117.pdf",
-            "title": "Epiroc AB Interim Report Q3 2025",
-            "locator": "p.5 Group table, current-quarter column: Revenues 15,242; Adj. operating profit, EBIT 2,896; Adj. operating margin, EBIT 19.0%"
+            "title": "Epiroc AB Interim Report January – September 2025 (Q3 2025)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q3 2025 column: Revenues 15 242; EBITA 3 047; EBITA margin 20.0%"
           }
         },
         {
           "quarter": "2025Q4",
           "period_end": "2025-12-31",
           "revenue": 16090.0,
-          "profit": 3146.0,
-          "reported_margin_pct": 19.6,
+          "profit": 3479.0,
+          "profit_derived": false,
+          "reported_margin_pct": 21.6,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 16090.0,
-          "profit_msek": 3146.0,
+          "profit_msek": 3479.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4297572/3896941.pdf",
-            "title": "Epiroc AB Interim Report Q4 2025",
-            "locator": "p.5 Group table, current-quarter column: Revenues 16,090; Adj. operating profit, EBIT 3,146; Adj. operating margin, EBIT 19.6%"
+            "title": "Epiroc AB Interim Report January – December 2025 (Q4 2025)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q4 2025 column: Revenues 16 090; EBITA 3 479; EBITA margin 21.6%"
           }
         },
         {
           "quarter": "2026Q1",
           "period_end": "2026-03-31",
           "revenue": 14351.0,
-          "profit": 2868.0,
-          "reported_margin_pct": 20.0,
+          "profit": 3103.0,
+          "profit_derived": false,
+          "reported_margin_pct": 21.6,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 14351.0,
-          "profit_msek": 2868.0,
+          "profit_msek": 3103.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4341697/4066139.pdf",
-            "title": "Epiroc AB Interim Report Q1 2026",
-            "locator": "p.5 Group table, current-quarter column: Revenues 14,351; Adj. operating profit, EBIT 2,868; Adj. operating margin, EBIT 20.0%"
+            "title": "Epiroc AB Interim Report January – March 2026 (Q1 2026)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q1 2026 column: Revenues 14 351; EBITA 3 103; EBITA margin 21.6%"
           }
         },
         {
           "quarter": "2026Q2",
           "period_end": "2026-06-30",
           "revenue": 16702.0,
-          "profit": 3349.0,
-          "reported_margin_pct": 20.1,
+          "profit": 3585.0,
+          "profit_derived": false,
+          "reported_margin_pct": 21.5,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 16702.0,
-          "profit_msek": 3349.0,
+          "profit_msek": 3585.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4375716/4197580.pdf",
-            "title": "Epiroc AB Interim Report Q2 2026",
-            "locator": "p.5 Group table, current-quarter column: Revenues 16,702; Adj. operating profit, EBIT 3,349; Adj. operating margin, EBIT 20.1%"
+            "title": "Epiroc AB Interim Report January – June 2026 (Q2 2026)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q2 2026 column: Revenues 16 702; EBITA 3 585; EBITA margin 21.5%"
           }
         },
         {
           "quarter": "2026Q3",
           "period_end": "2026-09-30",
           "revenue": 16775.0,
-          "profit": 3426.0,
-          "reported_margin_pct": 20.4,
+          "profit": 3686.0,
+          "profit_derived": false,
+          "reported_margin_pct": 22.0,
           "fx_rate_to_sek": 1.0,
           "revenue_msek": 16775.0,
-          "profit_msek": 3426.0,
+          "profit_msek": 3686.0,
           "source": {
             "url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
-            "title": "Epiroc AB Interim Report Q3 2026",
-            "locator": "p.5 Group table, current-quarter column: Revenues 16,775; Adj. operating profit, EBIT 3,426; Adj. operating margin, EBIT 20.4%"
+            "title": "Epiroc AB Interim Report January – September 2026 (Q3 2026)",
+            "locator": "p.3 'Financial overview' table (repeated p.5), Q3 2026 column: Revenues 16 775; EBITA 3 686; EBITA margin 22.0%"
           }
         }
       ],
       "comments": {
         "quarter": "2026Q3",
-        "source_url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
         "points": [
-          "Mining demand was strong: mining customers made up 83% (78) of orders, orders rose 12% organically to MSEK 17,467, and infrastructure demand was stable.",
-          "Equipment orders rose 16% organically, with large orders of MSEK 790 including the second-largest order in Epiroc's history (MSEK 610, MMG Khoemacau copper mine, Botswana); service grew 13% organically, driven by mid-life upgrades.",
-          "Adjusted operating margin improved to 20.4% (19.0) on higher volumes and efficiency actions, and Epiroc expects mining demand to remain high and infrastructure demand to remain stable in the near term."
-        ]
+          "Orders received rose 15% to MSEK 17 467 (12% organic), driven by strong mining demand, with mining customers at 83% of Group orders and large orders of MSEK 790 including a MSEK 610 MMG order for the Khoemacau copper mine in Botswana.",
+          "Operating profit rose 22% to MSEK 3 411 and the adjusted operating margin improved to 20.4% (19.0) on higher volumes and efficiency actions, while EBITA reached MSEK 3 686, a 22.0% margin.",
+          "Epiroc expects mining demand to remain high and infrastructure demand to remain stable in the near term, while operating cash flow fell to MSEK 1 438 (2 476) as more inventory was tied up after strong equipment orders."
+        ],
+        "source_url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf"
       }
     },
     {
