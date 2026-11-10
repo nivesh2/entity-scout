@@ -1,0 +1,607 @@
+{
+  "entity": {
+    "name": "Komatsu Ltd.",
+    "type": "competitor"
+  },
+  "scan": {
+    "mode": "baseline",
+    "window_start": "2026-05-10",
+    "window_end": "2026-11-10",
+    "generated": "2026-11-10"
+  },
+  "top_material_changes": [
+    "F01",
+    "F05",
+    "F02",
+    "F03",
+    "F09"
+  ],
+  "areas": [
+    {
+      "area": "Strategy & stated priorities",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Financial performance",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "M&A, investments, divestments",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Restructurings & organizational changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Hiring, talent signals & leadership changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Product launches & portfolio changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Sustainability & ESG disclosures",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Capital market events & reporting calendar",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Share price movements (with market/peer context)",
+      "status": "findings",
+      "reason": null
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "area": "Strategy & stated priorities",
+      "date": "2026-09-11",
+      "title": "Komatsu Report 2026 targets doubling of underground hard-rock sales to US$400m by FY2027",
+      "what_happened": "Komatsu published its integrated report on 11 September 2026. Its KPI table (Strategic Growth Plan FY2025-27) shows hard rock mining business sales of US$198m in FY2025 against a FY2027 target of US$400m; cumulative AHS (FrontRunner) installations of 1,016 against a target of 1,200; Open Technology Platform orders from 8 mine sites against a target of 40; and aftermarket sales growth of -1.6% (FX-fixed, vs FY2024) against a +15% target. The report names underground hard rock mining, the solutions business, components including electrification and forestry as M&A priority areas, says mining is about half of Construction, Mining & Utility Equipment sales, and says Komatsu is bringing distributors under direct management to strengthen aftermarket.",
+      "compared_to_before": "The Strategic Growth Plan launched in April 2025 named advanced automation, a range of power sources and growth in Asia and Africa as priorities, without public mining-specific numbers. The FY2025 results deck (April 2026) listed 'expand lineup and sales network of hard rock products; develop new underground extraction methods' as a task for FY2026 onward. The report now attaches numbers: underground hard rock is to roughly double in two years, and aftermarket growth was negative in FY2025 against a +15% goal.",
+      "why_it_matters": "Underground hard rock is the core of Epiroc's business. US$198m is still small, but a Komatsu target to double it (building on the GHH loader and truck range acquired in 2024), together with M&A openly aimed at this area, points to more price and bundling competition in LHDs, trucks and development equipment. That would be strongest where Komatsu already supplies the surface fleet. Lagging aftermarket growth is a second pressure point: watch for Komatsu pushing service contracts and taking over distributors (direct management) in markets where Epiroc competes for parts and service share.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20260911_2",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu issues Komatsu Report 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/annual/2026/en/kmt_kr26e_print.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu Report 2026 (integrated report, print PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2025/20250428_2",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu Launched New Strategic Growth Plan (FY2025 - FY2027) 'Driving value with ambition'",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy254qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "FY2025 business results presentation (April 28, 2026)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F02",
+      "area": "Strategy & stated priorities",
+      "date": "2026-09-22",
+      "title": "Komatsu says mixed-fleet, multi-OEM autonomy is 'an important part of the future'",
+      "what_happened": "In an International Mining interview, Komatsu's VP Software-Defined Vehicle and Autonomy Platforms (Mike Rikkola) said Komatsu sees mixed-fleet capability as an important part of the future of autonomy. He said Komatsu works with customers on mixed-fleet requirements site by site, while FrontRunner remains integrated with Komatsu electric-drive trucks. He also described 'blended fleet' work (autonomous and manned machines sharing production areas), autonomous operation on trolley lines, and the power-agnostic roadmap, including the Power Agnostic Battery Truck, being developed together with autonomy. Komatsu Report 2026 describes the Open Technology Platform as a framework that connects vehicles, mine sites and whole mining operations.",
+      "compared_to_before": "FrontRunner has been an OEM-tied system: Komatsu trucks, with the 930E alone making up more than 500 of the 1,000 autonomous trucks commissioned by April 2026. Komatsu's public messaging stressed integrated Komatsu solutions and a software-defined vehicle platform built with Applied Intuition. Opening the door to multi-OEM operation (without yet naming a site) softens that closed model.",
+      "why_it_matters": "This moves Komatsu toward the open, OEM-agnostic position Epiroc takes with LinkOA and mixed-fleet automation. If FrontRunner or the Open Technology Platform starts orchestrating third-party machines, Komatsu could compete to be the mine-wide autonomy and traffic-management layer that Epiroc drills and loaders must connect to. That makes interoperability standards and interface agreements with Komatsu a strategic question for Epiroc.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://im-mining.com/2026/09/22/komatsus-ahs-journey-past-present-and-future/",
+          "publisher": "International Mining",
+          "title": "Komatsu's AHS journey - past, present and future",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/annual/2026/en/kmt_kr26e_print.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu Report 2026 (integrated report, print PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20260422",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu becomes first OEM to commission 1,000 ultra-class autonomous haul trucks",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F03",
+      "area": "Strategy & stated priorities",
+      "date": "2026-09-14",
+      "title": "Canada Nickel picks Komatsu and SMS for Crawford autonomous/trolley load-and-haul fleet",
+      "what_happened": "Canada Nickel selected Komatsu and its dealer SMS Equipment to supply the load-and-haul and support mining fleet for the Crawford nickel project (Ontario). According to IM, it chose Komatsu over four vendor proposals for its automation and electrification technologies. The plan is to use DISPATCH fleet management, FrontRunner autonomous haulage and trolley-assisted haulage, with a later move to battery trucks. More than 300 machines with a current value of about C$1.5bn are expected to be bought over the 40-year project life; a construction decision is targeted for 2027 and first production was previously guided for 2029.",
+      "compared_to_before": "Komatsu's FY2025 results and the Komatsu Report present autonomy and trolley/power-agnostic haulage as the main mining differentiators. Crawford is a greenfield critical-minerals win where these were reported as the deciding factors, in a region (Canada) where Komatsu also opened a new parts distribution centre in September.",
+      "why_it_matters": "It shows a bundled autonomy-plus-electrification offer (FMS, AHS, trolley and dealer support) winning a long-life greenfield mine before drilling packages are fixed. Epiroc should check how its surface drill rigs (autonomous and electric) and its fleet-agnostic automation would plug into a DISPATCH/FrontRunner site, and track Crawford's drilling procurement as the project nears a construction decision.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://im-mining.com/2026/09/14/canada-nickel-lays-groundwork-for-autonomous-electric-fleet-at-crawford-with-komatsu-sms-agreement/",
+          "publisher": "International Mining",
+          "title": "Canada Nickel lays groundwork for autonomous, electric fleet at Crawford with Komatsu, SMS agreement",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy254qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "FY2025 business results presentation (April 28, 2026)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F04",
+      "area": "Financial performance",
+      "date": "2026-07-29",
+      "title": "Q1 FY2026: sales +14.7%, mining +2% excluding FX; first guidance upgrade as the Middle East hit shrinks",
+      "what_happened": "Q1 (Apr-Jun 2026): net sales JPY 1,043.1bn (+14.7%), operating income JPY 151.6bn (+8.0%, margin 14.5%, -0.9pt). Construction, Mining & Utility Equipment segment profit was JPY 130.1bn (+6.4%). Mining sales to outside customers were JPY 462.4bn (+13.8%; +2.0% excluding FX): Latin America and Africa up, Asia (coal) and the Middle East down. Komatsu raised FY2026 guidance from the April outlook: sales JPY 4,118bn to 4,302bn, operating income JPY 508bn to 555bn, net income JPY 318bn to 349bn. The estimated Middle East sales hit (linked to the closure of the Strait of Hormuz) was cut from JPY -90.1bn to -46.3bn, and the US tariff cost increase from JPY 37.8bn to 25.8bn.",
+      "compared_to_before": "The April outlook (FY2025 results, 28 April) assumed FY2026 sales -0.4%, operating income -10.5% and mining sales -2.4%. FY2025 itself had sales +0.7% and an operating margin of 13.7% (FY2024: 16.0%). The July update still implied a lower operating income and margin (12.9%) than FY2025.",
+      "why_it_matters": "Most of Komatsu's reported growth is the weak yen (USD/JPY 158.5 vs 145.5): mining was up only 2% at constant currency, which suggests flat underlying mining equipment volumes in Q1. For Epiroc, this points to the copper/gold cycle helping underground and drilling more than the large-truck and coal segments where Komatsu is exposed. A weak yen also gives Komatsu room to price aggressively in USD/AUD markets.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20260729",
+          "publisher": "Komatsu Ltd.",
+          "title": "Consolidated business results for three months of the fiscal year ending March 31, 2027 (U.S. GAAP)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy261qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Business Results for the Three Months Ended June 30, 2026 (presentation)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy254qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "FY2025 business results presentation (April 28, 2026)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F05",
+      "area": "Financial performance",
+      "date": "2026-10-29",
+      "title": "Q2 FY2026: margin falls to 12.1% while FY guidance flips from decline to growth",
+      "what_happened": "Q2 (Jul-Sep 2026): net sales JPY 1,115.5bn (+13.6%), operating income JPY 135.1bn (-1.2%), margin 12.1% (-1.8pt). Construction, Mining & Utility Equipment segment profit fell 4.5% to JPY 114.3bn (11.1% margin vs 13.3%). Mining sales were JPY 502.0bn (+8.5%; -1.4% excluding FX), down in Oceania, the Middle East and Asia and up in Latin America and Africa. Parts sales rose 11.7% to JPY 291.1bn. H1: sales JPY 2,158.6bn (+14.1%), operating income JPY 286.6bn (13.3%), FCF only JPY 20.3bn and inventories JPY 1,694.7bn. FY2026 guidance raised a second time: sales JPY 4,450bn (+7.7%), operating income JPY 585bn (+3.1%, 13.1% margin), net income JPY 382bn (+1.5%), with mining sales JPY 1,996.7bn (+4.8%, +0.9% excluding FX). Komatsu's estimate of FY2026 global mining equipment demand was raised from -5% to -10% (July) to 0% to -5%; Q2 mining demand rose 5%, led by copper in Latin America and gold in Africa and North America.",
+      "compared_to_before": "In April, Komatsu guided to a 10.5% fall in operating income and a 15.5% fall in net income. Guidance now shows growth on both lines, a reversal driven by FX and stronger construction demand (North American rental and data centres). Underneath, Q2 operating profit fell year on year for the first time this fiscal year, and H1 cost headwinds included US tariffs (JPY -39.7bn gross, offset by a JPY 12.8bn IEEPA refund).",
+      "why_it_matters": "Komatsu is growing on FX and price while its mining volumes are flat and margins are being squeezed (tariffs, Middle East procurement, steel). This puts pressure on its 'top profit ratio in the industry' target. Its improved view of mining demand (copper/gold up, coal down) matches Epiroc's own outlook that mining demand stays high. Rising inventories and weak H1 cash flow could lead Komatsu to push volume or discount in H2.",
+      "materiality": "reversal",
+      "sources": [
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20261029_1",
+          "publisher": "Komatsu Ltd.",
+          "title": "Consolidated business results for six months of the fiscal year ending March 31, 2027 (U.S. GAAP)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Business Results for Three and Six Months Ended September 30, 2026 (presentation)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy254qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "FY2025 business results presentation (April 28, 2026)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://asia.nikkei.com/business/companies/komatsu-lifts-profit-outlook-on-construction-mining-demand-in-americas",
+          "publisher": "Nikkei Asia",
+          "title": "Komatsu lifts profit outlook on construction, mining demand in Americas",
+          "type": "media",
+          "access": "headline_only"
+        }
+      ]
+    },
+    {
+      "id": "F06",
+      "area": "M&A, investments, divestments",
+      "date": "2026-09-10",
+      "title": "Aftermarket logistics build-out: new parts distribution centres in Edmonton and Mesa, and a new Peoria haulage HQ",
+      "what_happened": "Komatsu opened a 135,000 sq ft parts distribution centre in St. Albert (Edmonton), Alberta, on 10 September 2026. It doubles Komatsu's warehouse capacity in Canada and offers 24-hour delivery to dealers in much of Western Canada, with support for mining customers among the stated aims. On 9 June it announced a 270,000 sq ft parts distribution hub in Mesa, Arizona (stocking construction, mining, forklift and forestry parts, next-morning delivery to many Western dealers, operational by end-2026). On 11 June it opened a new office and Customer Experience Center in Peoria, Illinois, as its Surface Haulage Headquarters for engineering, sales and manufacturing management supporting the global mining business.",
+      "compared_to_before": "These continue Komatsu's aftermarket and reman push in North America: the SRC of Lexington remanufacturing assets (agreed February 2026) and a reman network of 45 sites in 16 countries. Komatsu Report 2026 shows aftermarket growth of -1.6% in FY2025 against a +15% FY2027 target, which explains the investment in parts availability.",
+      "why_it_matters": "Western Canada (oil sands, Sudbury hard rock and the Ring of Fire) and Arizona/Nevada copper and gold are key Epiroc mining and aftermarket markets. Faster dealer parts availability and denser reman capacity raise the service-level benchmark Epiroc's distribution centres and service contracts are compared against. They also show Komatsu putting capital into aftermarket logistics rather than large acquisitions in this window.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.komatsu.com/en-us/newsroom/2026/komatsu-celebrates-opening-of-edmonton-parts-distribution-center",
+          "publisher": "Komatsu (North America)",
+          "title": "Komatsu celebrates grand opening of new Edmonton parts distribution center",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.com/en-us/newsroom/2026/komatsu-invests-in-mesa-distribution-facility",
+          "publisher": "Komatsu (North America)",
+          "title": "Komatsu to enhance parts availability and support for the Western U.S. with new Arizona parts distribution center",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.com/en-us/newsroom/2026/komatsu-celebrates-grand-opening-of-new-peoria-facility",
+          "publisher": "Komatsu (North America)",
+          "title": "Komatsu celebrates grand opening of new Peoria facility",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/09/11/komatsu-gears-up-for-canadian-growth-with-opening-of-parts-distribution-centre-in-edmonton/",
+          "publisher": "International Mining",
+          "title": "Komatsu gears up for Canadian growth with opening of parts distribution centre in Edmonton",
+          "type": "media",
+          "access": "headline_only"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/annual/2026/en/kmt_kr26e_print.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu Report 2026 (integrated report, print PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F07",
+      "area": "Restructurings & organizational changes",
+      "date": "2026-06-19",
+      "title": "Central AI enablement function, ~500 'AI Transformation Leads' and a Global AI Centre of Excellence plan",
+      "what_happened": "Komatsu announced that it has strengthened its global AI framework (the page is dated 9 June; newsroom URL 19 June). It set up a central AI enablement function in April 2026, appointed about 500 AI Transformation Leads across the organisation in May, and aims to establish a Global AI Centre of Excellence from 2027 onward. AI is to be scaled across product development, manufacturing, sales and service, building on Komtrax, KOM-MICS, AHS and Smart Construction data.",
+      "compared_to_before": "AI work has been under way since FY2023 through use cases, workshops and forums. The Strategic Growth Plan already listed AI and DX under 'transform the business foundation'. The change is an organisational structure with a named network and a CoE timeline. The FY2025 results deck lists rolling out AI tools for on-site mechanics as an FY2026 task.",
+      "why_it_matters": "Komatsu is organising to monetise its large installed-base data (Komtrax, AHS) through AI in service and parts. This could sharpen predictive maintenance and parts forecasting in mining fleets where Epiroc competes for service share. Epiroc may want to benchmark its own AI and digital-service organisation and data-access terms on mixed sites.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20260619",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu strengthens global AI framework and accelerates AI adoption across its value chain",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy261qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Business Results for the Three Months Ended June 30, 2026 (presentation)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy254qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "FY2025 business results presentation (April 28, 2026)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F08",
+      "area": "Hiring, talent signals & leadership changes",
+      "date": "2026-06-23",
+      "title": "Leadership: smaller board after June AGM; CTO Kusaba now Representative Director, new CFO Hosotani",
+      "what_happened": "At the 157th AGM on 23 June 2026, Takeshi Horikoshi retired as Director (announced 16 February). The board now lists Chairman Hiroyuki Ogawa, President and CEO Takuya Imayoshi, CTO Taisuke Kusaba (Representative Director and Senior Executive Officer from 1 April 2026) and Mitsuko Yokomoto (HR, safety, sustainability), plus four outside directors. Hiroshi Hosotani is listed as CFO; in Komatsu Report 2026 he writes that he assumed the role in April 2026. Mining is led by Peter Salditt, Senior Executive Officer, President of the Mining Business Division and CEO of Komatsu Mining Technologies.",
+      "compared_to_before": "Imayoshi has been President and CEO since the 2025 Strategic Growth Plan launch, with Ogawa as Chairman. The 2026 changes complete that handover: the CEO and the CTO are now the only representative directors, and the finance chief changed at the start of FY2026. The mining leadership is unchanged.",
+      "why_it_matters": "There is no sign of a shift in mining strategy from the leadership changes. Making the CTO a representative director fits Komatsu's technology-led positioning (autonomy, SDV, power-agnostic, AI). The new CFO is the first point of contact for capital allocation, so watch the Komatsu IR Day in early December for any change in M&A appetite (underground hard rock and electrification are named priorities).",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://www.komatsu.jp/en/aboutus/management-team",
+          "publisher": "Komatsu Ltd.",
+          "title": "Management team",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.com/en-za/newsroom/2026/notice-of-change-of-representative-directors--positions",
+          "publisher": "Komatsu Ltd.",
+          "title": "Notice of change of Representative Directors' positions (February 16, 2026)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/ir/calendar",
+          "publisher": "Komatsu Ltd.",
+          "title": "IR calendar",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/annual/2026/en/kmt_kr26e_print.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu Report 2026 (integrated report, print PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2025/20250428_2",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu Launched New Strategic Growth Plan (FY2025 - FY2027) 'Driving value with ambition'",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F09",
+      "area": "Product launches & portfolio changes",
+      "date": "2026-07-22",
+      "title": "Komatsu enters wide-body mining trucks in Indonesia with HW70, reportedly built by China's Tonly",
+      "what_happened": "International Mining reported that Komatsu Indonesia rolled out the HW70, a 70 t wide-body mining truck, with distributor United Tractors. The first five units were delivered in July 2026 to contractor PT Riung Mitra Lestari. IM says it understands the HW70 is produced in China by Tonly under a partnership agreement and is largely based on the Tonly TLD93A. IM describes the wide-body segment as dominated by Chinese OEMs (Tonly, LGMG, SANY, XCMG and others), several of which work with OEM-agnostic Chinese autonomy suppliers.",
+      "compared_to_before": "Komatsu's mining trucks have been its own designs (HD rigid trucks from Japan and Indonesia, electric-drive trucks from Peoria). Selling a China-sourced truck under the Komatsu brand would be a new move, made as Komatsu reports weaker demand for coal mining equipment and lower mining sales in Asia.",
+      "why_it_matters": "Komatsu appears to be accepting partnerships with Chinese OEMs to defend share in price-sensitive mining segments. Western OEMs are increasingly partnering with Chinese manufacturers. For Epiroc, the risk is more low-cost, bundled fleet offers to Asian, African and Latin American contractors, and more Chinese OEM content in mixed fleets that Epiroc's drills and tools must serve.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://im-mining.com/2026/07/22/komatsu-indonesia-rolls-out-hw70-wide-body-truck-with-united-tractors/",
+          "publisher": "International Mining",
+          "title": "Komatsu Indonesia rolls out HW70 wide body truck with United Tractors",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Business Results for Three and Six Months Ended September 30, 2026 (presentation)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F10",
+      "area": "Product launches & portfolio changes",
+      "date": "2026-11-10",
+      "title": "Electrification moves to site energy: megawatt mobile ultra-fast charging PoC with DIMAAG-AI",
+      "what_happened": "Komatsu launched proof-of-concept tests that pair a 20-ton electric excavator, modified for ultra-fast charging, with DIMAAG-AI's self-propelled, all-wheel-drive megawatt-level mobile charging system. The stated aim is to supply energy to a wide range of mobile and fixed equipment on construction, mining and forestry sites and to optimise energy use across the whole jobsite. In June 2026, Komatsu also demonstrated an automated megawatt connection device (QCC-5000X, with Stäubli and ABB) at The Electric Mine 2026 for ultra-class electric fleets.",
+      "compared_to_before": "Komatsu's mining electrification has focused on the power-agnostic truck platform: a trolley-connected autonomous truck in 2025, battery truck trials, and the 2023 acquisition of American Battery Solutions. The DIMAAG test widens this from 'electrify the machine' to 'supply energy to the site', including fixed equipment and third-party machines.",
+      "why_it_matters": "Charging and energy management on site is becoming part of OEM competition. A Komatsu-controlled mobile charging and energy layer at mines could favour its own electric fleet, or set the interface standard for battery drill rigs and loaders. Epiroc, with its own electrification and charging offering, should track whether these solutions are OEM-agnostic and how charging standards (MCS/CCS, automated connection) settle.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20261110",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu launches proof-of-concept tests of next-generation on-site energy solutions utilizing DIMAAG-AI's megawatt-level ultra-fast charging system",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/06/09/komatsu-and-partners-committed-to-pushing-the-automated-mw-charging-envelope/",
+          "publisher": "International Mining",
+          "title": "Komatsu and partners committed to pushing the automated MW charging envelope",
+          "type": "media",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F11",
+      "area": "Sustainability & ESG disclosures",
+      "date": "2026-07-03",
+      "title": "Second green bond (JPY 20bn) priced; Komatsu Report shows product-use CO2 lagging target",
+      "what_happened": "Komatsu priced a JPY 20bn, 3-year green bond (1.782%, R&I rating AA, second-party opinion by DNV) on 3 July 2026 to fund rebuilding its ZEB-Ready headquarters. Komatsu Report 2026 shows FY2025 CO2 from production at -48% vs FY2010 (FY2027 target -39% already beaten) and renewable energy use at 36% (target 40%). CO2 from product use was -23% (intensity) against a -32% FY2027 target, and only two carbon-neutral-aimed models (mini excavators PC26E-6 and PC33MRE-6) have been commercialised.",
+      "compared_to_before": "Komatsu issued its first green bond in 2020 and a sustainability-linked bond in FY2022. The 2030 goals (production CO2 -50% vs FY2010, renewables 50%) and the 2050 carbon-neutrality ambition are unchanged. The new data show progress on its own operations but a widening gap on product-use emissions, which are mostly a mining and construction fleet issue.",
+      "why_it_matters": "Product-use emissions are where mining customers make OEMs compete (battery and trolley haulage, electric drills and loaders). Komatsu's lag on its own product-use target, with commercial electric models still limited to compact equipment, leaves room for Epiroc's battery-electric underground fleet and electric surface drills in customer decarbonisation tenders. It also means Komatsu is under pressure to speed up electric mining launches.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20260703",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu announces terms and conditions for green bond issuance",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20260610",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu to issue a green bond",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy261qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Business Results for the Three Months Ended June 30, 2026 (presentation)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/annual/2026/en/kmt_kr26e_print.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Komatsu Report 2026 (integrated report, print PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F12",
+      "area": "Sustainability & ESG disclosures",
+      "date": "2026-09-15",
+      "title": "Governance: data-exposure incidents across group systems (up to ~215k users in one system)",
+      "what_happened": "On 16 June 2026 Komatsu disclosed that a system configuration issue had made registered user data (names, email addresses, user type, access times) visible to other registered users for 139,302 users, possibly since around 2021. The issue was identified on 23 April 2026 and reported to Japan's Personal Information Protection Commission. A follow-up on 15 September, after a group-wide review, disclosed further cases in four systems used by group companies and distributors. These included a portal file with user data on 214,916 users and sales and quality-reporting systems exposing distributor contacts (86,015 and 46,445 users). Komatsu says no passwords were involved, there was no public internet exposure, and no misuse has been identified.",
+      "compared_to_before": "This is the first disclosure of this kind in the window. Komatsu presents itself as a data-driven solutions provider (Komtrax, AHS, Smart Construction) and has just scaled up AI use across the value chain.",
+      "why_it_matters": "The direct impact is limited. However, data governance matters more as fleets become connected and autonomous, and mining customers assess OEMs on it. Epiroc can use strong data governance and certified cyber practices as a differentiator in autonomy and digital tenders.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20260616_3",
+          "publisher": "Komatsu Ltd.",
+          "title": "Notice Regarding Unintentional Visibility of User Data (June 16, 2026)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20260915",
+          "publisher": "Komatsu Ltd.",
+          "title": "Notice Regarding Unintentional Visibility of User Data (Sep. 15, 2026)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F13",
+      "area": "Capital market events & reporting calendar",
+      "date": "2026-09-16",
+      "title": "JPY 100bn buyback completed (1.6% of shares cancelled); dividend kept at JPY 190; IR Day early December",
+      "what_happened": "Komatsu completed its JPY 100bn buyback on 15 September 2026 (15,303,700 shares bought from 30 April) and cancelled all of the repurchased shares on 30 October (1.6% of shares outstanding; 915,036,920 shares remain). On 29 October it confirmed an interim dividend of JPY 95 (annual JPY 190 unchanged; payout ratio 44.2% on the raised guidance). The IR calendar lists the Semi-annual Report in mid-November 2026, Komatsu IR-Day 2026 in early December 2026, and Q3 FY2026 results in late January 2027.",
+      "compared_to_before": "The Strategic Growth Plan policy is a payout ratio of at least 40% plus timely buybacks. FY2025 also included a JPY 100bn buyback. The programme approved in April (up to 25m shares / JPY 100bn by 30 September) was completed early, and all repurchased shares have been cancelled.",
+      "why_it_matters": "Komatsu is keeping shareholder returns steady despite weak H1 FCF (JPY 20.3bn) and rising inventories, which suggests confidence in H2 cash conversion. The December IR Day is the next chance to see mining-specific targets (hard rock, AHS, aftermarket) and any M&A signal relevant to Epiroc.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20260428_2",
+          "publisher": "Komatsu Ltd.",
+          "title": "Notice regarding share buyback and cancellation of treasury stock (April 28, 2026)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20260916",
+          "publisher": "Komatsu Ltd.",
+          "title": "Notice regarding the status and completion of share buyback",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20261030_3",
+          "publisher": "Komatsu Ltd.",
+          "title": "Notice regarding completion of cancellation of treasury stock",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/newsroom/2026/20261029_2",
+          "publisher": "Komatsu Ltd.",
+          "title": "Notice regarding dividends from retained earnings",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/ir/calendar",
+          "publisher": "Komatsu Ltd.",
+          "title": "IR calendar",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "Business Results for Three and Six Months Ended September 30, 2026 (presentation)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy254qpresentation.pdf",
+          "publisher": "Komatsu Ltd.",
+          "title": "FY2025 business results presentation (April 28, 2026)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F14",
+      "area": "Share price movements (with market/peer context)",
+      "date": "2026-11-10",
+      "title": "Shares -6.6% over the window vs Nikkei -3.6%; October high erased after Q2 results",
+      "what_happened": "Komatsu (6301.T) closed at JPY 6,566 on 8 May 2026 and at JPY 6,130 on 10 November 2026 (-6.6%). Over the same period the Nikkei 225 fell 3.6%, the TOPIX ETF (1306.T) rose 1.1%, Hitachi Construction Machinery fell 9.9% and Caterpillar fell 33.3% (to 9 November). Epiroc A fell 6.1% and Sandvik rose 0.6%. Komatsu hit a window high of JPY 7,829 on 7 October. It rose 7.6% on the Q1 results day (29 July; Nikkei -1.5%) and fell 7.6% on the Q2 results day (29 October; Nikkei +1.1%) and another 1.9% the next day. The window low of JPY 5,801 came on 6 November (-7.5% that day, Nikkei -6.0%).",
+      "compared_to_before": "The two guidance upgrades did not stop a de-rating: the market reacted to the Q2 margin decline and flat mining volumes at constant currency rather than to the higher FX-driven forecast. Weakness across the sector (Hitachi CM, Caterpillar) may mean investors are also pricing a peak in the machinery cycle.",
+      "why_it_matters": "Investors are treating heavy mining and construction OEMs as late-cycle. Epiroc's share price moved in line with Komatsu over the window. Komatsu's lower valuation and weak yen give it pricing room in USD markets but less currency to spend on large acquisitions. Report-day reactions show the market now focuses on margins and constant-currency mining volumes, which is also how Epiroc's Q4 will be read.",
+      "materiality": "reversal",
+      "sources": [
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/6301.T?interval=1d&range=1y",
+          "publisher": "Yahoo Finance",
+          "title": "Komatsu Ltd. (6301.T) daily price history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EN225?interval=1d&range=1y",
+          "publisher": "Yahoo Finance",
+          "title": "Nikkei 225 (^N225) daily history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/1306.T?interval=1d&range=1y",
+          "publisher": "Yahoo Finance",
+          "title": "NEXT FUNDS TOPIX ETF (1306.T) daily history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/6305.T?interval=1d&range=1y",
+          "publisher": "Yahoo Finance",
+          "title": "Hitachi Construction Machinery (6305.T) daily history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/CAT?interval=1d&range=1y",
+          "publisher": "Yahoo Finance",
+          "title": "Caterpillar (CAT) daily history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/EPI-A.ST?interval=1d&range=1y",
+          "publisher": "Yahoo Finance",
+          "title": "Epiroc A (EPI-A.ST) daily history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/SAND.ST?interval=1d&range=1y",
+          "publisher": "Yahoo Finance",
+          "title": "Sandvik (SAND.ST) daily history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        }
+      ]
+    }
+  ]
+}
