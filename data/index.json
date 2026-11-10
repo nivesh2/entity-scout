@@ -51,8 +51,24 @@
       "slug": "caterpillar",
       "name": "Caterpillar",
       "type": "competitor",
-      "latest": null,
-      "history": []
+      "latest": {
+        "generated": "2026-11-10",
+        "mode": "baseline",
+        "window_start": "2026-05-10",
+        "window_end": "2026-11-10",
+        "findings": 13,
+        "top": 5,
+        "json": "data/caterpillar/latest.json",
+        "brief": "data/caterpillar/latest.md"
+      },
+      "history": [
+        {
+          "generated": "2026-11-10",
+          "mode": "baseline",
+          "json": "data/caterpillar/2026-11-10.json",
+          "brief": "data/caterpillar/2026-11-10.md"
+        }
+      ]
     },
     {
       "slug": "komatsu",
