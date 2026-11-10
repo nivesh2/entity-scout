@@ -1,0 +1,696 @@
+{
+  "entity": {
+    "name": "Sandvik",
+    "type": "competitor"
+  },
+  "scan": {
+    "mode": "baseline",
+    "window_start": "2026-05-10",
+    "window_end": "2026-11-10",
+    "generated": "2026-11-10"
+  },
+  "top_material_changes": [
+    "F02",
+    "F04",
+    "F05",
+    "F11",
+    "F15"
+  ],
+  "areas": [
+    {
+      "area": "Strategy & stated priorities",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Financial performance",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "M&A, investments, divestments",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Restructurings & organizational changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Hiring, talent signals & leadership changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Product launches & portfolio changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Sustainability & ESG disclosures",
+      "status": "no_material_change",
+      "reason": null
+    },
+    {
+      "area": "Capital market events & reporting calendar",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Share price movements (with market/peer context)",
+      "status": "findings",
+      "reason": null
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "area": "Strategy & stated priorities",
+      "date": "2026-10-22",
+      "title": "Advancing to 2030 targets re-confirmed while margin runs above the range",
+      "what_happened": "Sandvik's Q3 report re-confirms its four long-term financial targets for 2025-2030: 7% growth through a cycle (organic and M&A), an adjusted EBITA margin of 20-22% through a cycle, a 50% dividend payout of adjusted EPS, and financial net debt/EBITDA below 1.5 (excluding transformational M&A). The group again gives no market outlook, only non-operational guidance for Q4 2026 (currency +SEK 0.6bn on adjusted EBITA, tariff refund cutting orders and revenues by about SEK 0.4bn in Machining with no EBITA effect, 2026 capex SEK 4.0-4.5bn, tax 23-25%). The Annual Report 2025 adds a net working capital/revenue target of 25% and a 2030 digital revenue target of SEK 13bn (SEK 5.5bn in 2025).",
+      "compared_to_before": "The 2030 strategy and the targets were set at the May 2025 Capital Markets Day, where the 7% growth and 20-22% EBITA targets were reconfirmed. The group margin was 19.3% in FY2025 (below the range) but is 22.6% in Q2 and 22.5% in Q3 2026, above the range, and 21.8% year to date. Net working capital is 27.2% of revenue against the 25% target.",
+      "why_it_matters": "For Epiroc: the group-level margin is now above Sandvik's own ceiling, but it is lifted by tungsten timing effects in Machining (SEK 550m in Q2, SEK 104m in Q3); Sandvik Mining itself earned 20.5% (Q2) and 21.8% (Q3) on adjusted EBITA. Expect the 24-25 November Capital Markets Day to be the venue where Sandvik is asked to raise the margin range, set a higher growth ambition or put numbers on digital and aftermarket. The strategic frame (automation, electrification, digital, aftermarket, bolt-on M&A) is unchanged, so competitive intent against Epiroc is steady rather than shifting.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+          "publisher": "Sandvik",
+          "title": "Interim report third quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.annualreport.sandvik/en/2025/strategy-and-targets/advancing-to-2030-strategy.html",
+          "publisher": "Sandvik",
+          "title": "Advancing to 2030 strategy — Annual Report 2025",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.home.sandvik/en/news-and-media/news/2025/05/sandvik-capital-markets-day-advancing-to-2030/",
+          "publisher": "Sandvik",
+          "title": "Sandvik Capital Markets Day: Advancing to 2030 (2025-05-20)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F02",
+      "area": "Financial performance",
+      "date": "2026-10-22",
+      "title": "Q3 2026: revenue +25% organic and 22.5% margin; Mining equipment orders flat, aftermarket +16%",
+      "what_happened": "Group: order intake SEK 36,948m (+20%, +17% organic), revenues SEK 37,728m (+25% organic), adjusted EBITA SEK 8,477m (22.5% vs 19.0%), free operating cash flow a record SEK 7,167m, net debt/EBITDA 0.9, book-to-bill 98%. Mining: orders SEK 19,402m (+11% organic; aftermarket +16%, equipment flat, +23% excluding major orders; only two major orders totalling SEK 0.7bn vs SEK 1.6bn a year ago), revenues SEK 19,525m (+23% organic), adjusted EBITA SEK 4,259m, margin 21.8% (20.1%); aftermarket was 67% of Mining revenues (71%); Mining headcount 19,333 (+7%). Rock Processing: organic orders -8%, equipment -27%. Management says it expanded delivery capacity over the past 18 months and converted backlog efficiently.",
+      "compared_to_before": "Adjusted EBITA beat consensus (SEK 8,265m FactSet; SEK 8,329m Infront), organic revenue growth beat (25% vs 23.4% expected) and orders were in line (SEK 36,948m vs 37,065m). Year to date free operating cash flow is SEK 14,371m (-1% year on year) although adjusted EBITA is +35%, because net working capital rose to SEK 44.1bn (+30%) and inventories to SEK 44.2bn. Q2 Mining margin was 20.5%.",
+      "why_it_matters": "Sandvik Mining is growing revenue faster than orders as its capacity ramp-up converts backlog, and it is leaning on aftermarket (+16%) while equipment orders are flat on tough comparables. This points to intensifying head-to-head competition with Epiroc for aftermarket share and delivery slots. Sandvik Mining's margin (21.8% adjusted EBITA in Sandvik's report; EFN quotes 21.2% against Epiroc's 20.4%) is now at or above Epiroc's group adjusted margin, but the definitions differ (EBITA vs EBIT), so compare like-for-like before drawing conclusions. The sequential orders decline and 98% book-to-bill are the soft spot the market focused on.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+          "publisher": "Sandvik",
+          "title": "Interim report third quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/interim-report-third-quarter-2026,c4413645",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report third quarter 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.privataaffarer.se/placeringar/aktier/sandvik-nagot-over-forvantningarna/",
+          "publisher": "Privata Affärer (Direkt)",
+          "title": "Sandvik redovisar justerat ebita på 8.477 miljoner kronor",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://borsvarlden.com/artiklar/efn-sandvik-har-overtaget-mot-epiroc-i-gruvsektorn",
+          "publisher": "Börsvärlden (Finwire/EFN)",
+          "title": "EFN: Sandvik har övertaget mot Epiroc i gruvsektorn",
+          "type": "media",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F03",
+      "area": "Financial performance",
+      "date": "2026-07-17",
+      "title": "Q2 2026: record profits, but orders miss and cash conversion drops to 46%",
+      "what_happened": "Group: order intake SEK 37,799m (+17% organic), revenues SEK 36,752m (+23% organic), adjusted EBITA SEK 8,306m (22.6% vs 19.0%); items affecting comparability SEK -582m (impairments for Additive Manufacturing and ZeroTouch, Machining and Mining restructuring, M&A costs); free operating cash flow SEK 3,590m (5,090), cash conversion 46%. Mining: orders SEK 20,053m (+11% organic; aftermarket +17%, equipment +2%; five major orders worth SEK 2.1bn), revenues +18% organic, adjusted EBITA SEK 3,793m (20.5%), held back by one-offs including litigation costs and costs related to a mine closure. Machining margin of 28.7% included a SEK 550m (380 bp) temporary tungsten timing effect.",
+      "compared_to_before": "Orders missed consensus (SEK 37,799m vs 39,232m per Infront) while adjusted EBITA beat (SEK 8,306m vs 7,983m). Q1 2026 had a 20.0% margin and organic order growth of 23%, so Q2 marks a slowdown in order momentum even as margins rose.",
+      "why_it_matters": "Equipment order growth of only 2% in Sandvik Mining (on high comparables) suggests that Sandvik's equipment order surge is normalising; aftermarket is carrying growth. The weak cash conversion (working capital build) shows the capacity ramp is capital-hungry. Within Mining, aftermarket orders held up (+17%) while equipment was the soft spot (+2%), so the read-across for Epiroc is equipment order timing rather than aftermarket demand.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://mb.cision.com/Main/208/4375736/4197623.pdf",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report second quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/interim-report-second-quarter-2026,c4375736",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report second quarter 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/interim-report-first-quarter-2026,c4338427",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report first quarter 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.privataaffarer.se/placeringar/aktier/tungt-rapportfall-i-sandvik/",
+          "publisher": "Privata Affärer (Direkt)",
+          "title": "Sandviks orderingång lägre än väntat – aktien faller",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://efn.se/sandvik-faller-efter-ordermiss",
+          "publisher": "EFN",
+          "title": "Sandvik faller efter ordermiss",
+          "type": "media",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F04",
+      "area": "Financial performance",
+      "date": "2026-06-04",
+      "title": "Run of SEK 175-650m orders; Sandvik wins at Khoemacau, the same mine Epiroc supplies",
+      "what_happened": "Sandvik announced: Khoemacau Copper Mine, Botswana, about SEK 650m from contractor JCHX Mining Management (loaders, trucks, drills, Remote Monitoring Service, AutoMine on loaders and part of the drills; deliveries 2026-2028; 2026-06-04); Barminco / Bellevue Gold, Australia, about SEK 350m (2026-06-15); CoMinVi, Mexico, about SEK 340m (2026-07-03); Kamoa-Kakula, DRC, about SEK 275m with two AutoMine-equipped loaders (2026-08-25); and LKAB's Malmberget sorting plant, about SEK 175m of crushing and screening (2026-06-25). On 2026-09-01 Epiroc announced a SEK 610m order for underground equipment at the same Khoemacau expansion, from MMG and its contractors China Huaye and 23MCC.",
+      "compared_to_before": "Q2 had five major Mining orders worth SEK 2.1bn (SEK 2.1bn a year earlier); Q3 had two worth SEK 0.7bn (SEK 1.6bn), so large-order flow is lighter in Q3 than a year ago, although orders excluding major orders were up 18%.",
+      "why_it_matters": "Khoemacau shows Chinese-owned contractors splitting one expansion between Sandvik (JCHX) and Epiroc (MMG, China Huaye, 23MCC), so the contest is decided by contractor and owner relationships and by bundles. Sandvik is consistently bundling AutoMine and remote monitoring into fleet orders in copper and gold (Khoemacau, Kamoa-Kakula, Barminco), so Epiroc's automation-ready fleet offers are being tested head-to-head in the same copper belt where Epiroc is building out aftermarket facilities in Botswana (per its own Khoemacau announcement).",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://news.cision.com/sandvik/r/sandvik-wins-major-order-for-khoemacau-copper-mine-in-botswana,c4357818",
+          "publisher": "Sandvik (Cision)",
+          "title": "Sandvik wins major order for Khoemacau Copper Mine in Botswana",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/sandvik-wins-sek-350-million-mining-equipment-order-in-australia,c4363696",
+          "publisher": "Sandvik (Cision)",
+          "title": "Sandvik wins SEK 350 million mining equipment order in Australia",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/sandvik-wins-large-underground-equipment-order-in-mexico-from-mining-contractor-cominvi,c4370486",
+          "publisher": "Sandvik (Cision)",
+          "title": "Sandvik wins large underground equipment order in Mexico from mining contractor CoMinVi",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/sandvik-wins-large-mining-equipment-order-in-the-democratic-republic-of-the-congo,c4387368",
+          "publisher": "Sandvik (Cision)",
+          "title": "Sandvik wins large mining equipment order in the Democratic Republic of the Congo",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/09/01/epiroc-banks-large-order-for-mmgs-khoemacau-copper-mine/",
+          "publisher": "International Mining",
+          "title": "Epiroc banks large order for MMG's Khoemacau Copper Mine",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+          "publisher": "Sandvik",
+          "title": "Interim report third quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F05",
+      "area": "M&A, investments, divestments",
+      "date": "2026-06-22",
+      "title": "Sandvik enters filtration: agrees to buy Diemme Filtration (closed 1 September, SEK 4.7bn)",
+      "what_happened": "Sandvik signed an agreement to acquire Italy-based Diemme Filtration, a provider of filtration and dewatering solutions (high-performance filter presses) for mining. Estimated 2026 revenues about SEK 1.1bn, about 200 employees, EBITA margin accretive to Rock Processing, a sizeable aftermarket and remote-monitoring software; addressable market over SEK 20bn growing in the low double digits; returns expected at cost of capital within three years. Price was undisclosed at signing; the Q3 report shows purchase consideration of SEK 4,736m (net cash outflow SEK 4,653m, goodwill SEK 3,391m). The deal closed on 2026-09-01 and is reported as a new Filtration division.",
+      "compared_to_before": "Sandvik previously had no filtration offering (the release says it 'enters' the segment); its earlier downstream moves were SP Mining (2023) and OSA Demolition (July 2025). The implied price is roughly 4.3 times estimated 2026 revenue (our calculation). It is by far the largest of nine acquisitions in 2026 (SEK 5,545m total purchase price).",
+      "why_it_matters": "Sandvik is extending from rock drilling and crushing into the whole mineral-processing flowsheet, tying in with its stated strategy of attractive niches in downstream mining and aftermarket growth. As far as public sources show, Epiroc has no comparable processing or filtration offer, so Sandvik gains share of wallet with miners that Epiroc cannot match with its drilling, loading and tools portfolio; the same logic (aftermarket-rich bolt-ons) is what Epiroc applies in Eventspec and Aramine. Net debt/EBITDA remains 0.9, so more M&A capacity exists.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://news.cision.com/sandvik/r/sandvik-to-acquire-filter-press-manufacturer-diemme--filtration,c4365575",
+          "publisher": "Sandvik (Cision)",
+          "title": "Sandvik to acquire filter press manufacturer Diemme Filtration",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/sandvik-completes-the-acquisition-of-filter-press-manufacturer-diemme--filtration,c4390381",
+          "publisher": "Sandvik (Cision)",
+          "title": "Sandvik completes the acquisition of filter press manufacturer Diemme Filtration",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+          "publisher": "Sandvik",
+          "title": "Interim report third quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/208/4375736/4197623.pdf",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report second quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.annualreport.sandvik/en/2025/our-operations/rock-processing/strategic-progress.html",
+          "publisher": "Sandvik",
+          "title": "Rock Processing strategic progress — Annual Report 2025",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F06",
+      "area": "M&A, investments, divestments",
+      "date": "2026-11-03",
+      "title": "ThoroughTec Simulation acquisition completed: OEM-agnostic operator-training simulators join Mining aftermarket",
+      "what_happened": "Sandvik completed the acquisition of ThoroughTec Simulation (Durban, South Africa), a provider of equipment simulators and simulator-based training for global mining. More than 200 employees; 2025 revenues about SEK 170m with a strong, accretive EBITA margin; price undisclosed. It will be reported in Parts and Services, the aftermarket division of business area Mining.",
+      "compared_to_before": "At signing the deal was expected to close in the second quarter of 2026, so completion came about four months after the guided Q2 2026 window (reason not disclosed). Mining aftermarket is already 67% of Mining revenue. ThoroughTec's simulators are described as independent of original equipment manufacturers.",
+      "why_it_matters": "Training and operator upskilling support adoption of automation and battery-electric fleets, and add recurring revenue to Sandvik's service offer. Because ThoroughTec serves other OEMs, Epiroc should check whether any of its own simulator supply (Epiroc's Khoemacau order, for instance, includes simulators) relies on ThoroughTec and whether Sandvik now gets visibility into competitor-fleet training. The public record does not say.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://news.cision.com/sandvik/r/sandvik-completes-the-acquisition-of-thoroughtec-simulation,c4419040",
+          "publisher": "Sandvik (Cision)",
+          "title": "Sandvik completes the acquisition of ThoroughTec Simulation",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.mining-technology.com/news/sandvik-to-buy-thoroughtec-simulation/",
+          "publisher": "Mining Technology",
+          "title": "Sandvik agrees to buy ThoroughTec Simulation in South Africa",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/09/01/epiroc-banks-large-order-for-mmgs-khoemacau-copper-mine/",
+          "publisher": "International Mining",
+          "title": "Epiroc banks large order for MMG's Khoemacau Copper Mine",
+          "type": "media",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F07",
+      "area": "M&A, investments, divestments",
+      "date": "2026-05-29",
+      "title": "Portfolio pruning: Additive Manufacturing and ZeroTouch divested while bolt-on buying continues",
+      "what_happened": "Sandvik agreed to divest its Additive Manufacturing business unit (Machining) to Swedish investor Mimir, with an impairment of about SEK 230m and closing expected in Q3 2026. In July it divested Industrial Metrology Solutions (ZeroTouch) at a SEK 45m capital loss and SEK -80m cash effect. The Q3 report also records a further SEK 9m write-down on Additive and shows nine acquisitions completed in 2026 (about SEK 5.5bn in total purchase price), nearly all software/CAM resellers and tool niches, plus Diemme.",
+      "compared_to_before": "Sandvik says it continuously evaluates its portfolio on market position, growth and investment needs. It had already divested Advanced Theodolite Technology (Intelligent Manufacturing) in October 2025.",
+      "why_it_matters": "Capital is being recycled out of non-core Machining niches into mining downstream, aftermarket and software. Little direct overlap with Epiroc (Additive and metrology are not Epiroc markets), but it shows an active, pruning-and-buying portfolio approach and ample balance sheet capacity that can be redirected to mining acquisitions.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://news.cision.com/sandvik/r/sandvik-to-divest-the-business-unit-additive-manufacturing,c4355017",
+          "publisher": "Sandvik (Cision)",
+          "title": "Sandvik to divest the business unit Additive Manufacturing",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+          "publisher": "Sandvik",
+          "title": "Interim report third quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/208/4375736/4197623.pdf",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report second quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F08",
+      "area": "Restructurings & organizational changes",
+      "date": "2026-07-17",
+      "title": "Restructuring costs reach the Mining business area for the first time in 2026",
+      "what_happened": "The Q2 2026 report shows items affecting comparability within Mining of SEK -89m, including SEK -68m of restructuring initiative costs (the report does not describe the scope), on top of Mining one-offs from litigation costs and costs related to a mine closure that depressed operating leverage to 25%. In Q3 Mining benefited from a released earn-out (a lower-than-expected outcome of an earlier acquisition). Mining reported IAC of SEK 114m (Q3 2025), SEK 26m (Q4 2025) and SEK -18m (Q1 2026) in the preceding quarters.",
+      "compared_to_before": "Until now the group's announced restructuring programme (SEK 3bn of costs and SEK 1bn run-rate savings by 2030, announced May 2025, second phase SEK 315m in Q1 2026) concerned only Machining. A Mining restructuring item is new, although small. At the same time Sandvik reports expanding rock-drill manufacturing capacity in Tampere and service/training capabilities in Argentina.",
+      "why_it_matters": "Small today, but worth watching: Sandvik may be reshaping its Mining footprint or organisation while ramping capacity, which could affect delivery performance, service coverage or cost position against Epiroc. The scope should be asked about at the 24-25 November Capital Markets Day, which is hosted at Sandvik Mining's Tampere site.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://mb.cision.com/Main/208/4375736/4197623.pdf",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report second quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+          "publisher": "Sandvik",
+          "title": "Interim report third quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.home.sandvik/en/news-and-media/news/2025/05/sandvik-capital-markets-day-advancing-to-2030/",
+          "publisher": "Sandvik",
+          "title": "Sandvik Capital Markets Day: Advancing to 2030 (2025-05-20)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F09",
+      "area": "Hiring, talent signals & leadership changes",
+      "date": "2026-07-01",
+      "title": "Patrick Murphy takes over as President of Sandvik's Mining business area",
+      "what_happened": "Patrick Murphy (Canadian, joined Sandvik in 2001, previously President of the Rotary Drilling division and earlier head of Underground Drilling and the rock drills/digital division) became President of business area Mining and a Group Executive Management member on 2026-07-01, succeeding Mats Eriksson, who steps down ahead of his planned retirement in 2027. The appointment was announced on 2026-04-27, before the window.",
+      "compared_to_before": "Eriksson's departure had been announced earlier; Murphy is an internal successor from drilling and digital, not an outsider. In an interview with International Mining he stressed integrated equipment, aftermarket and digital offers, flexible solutions that can work across mixed fleets, further growth in surface, and targeted acquisitions in digital and lifecycle services.",
+      "why_it_matters": "A drilling and digital specialist leading the Mining business area points to continued emphasis on surface drilling, automation and software, areas where Epiroc also competes. His first public statements as President are the Kamoa order (2026-08-25) and the surface concept machine (2026-09-01). Continuity of strategy, but expect sharper surface and mixed-fleet positioning from him.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://news.cision.com/sandvik/r/sandvik-appoints-new-president-of-business-area-mining,c4340391",
+          "publisher": "Sandvik (Cision)",
+          "title": "Sandvik appoints new President of business area Mining",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/05/01/a-new-mining-leader-for-sandvik/",
+          "publisher": "International Mining",
+          "title": "A new mining leader for Sandvik",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/208/4375736/4197623.pdf",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report second quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F10",
+      "area": "Hiring, talent signals & leadership changes",
+      "date": "2026-09-09",
+      "title": "Machining president Nadine Crauwels to leave; successor sought by year-end",
+      "what_happened": "Sandvik announced that Nadine Crauwels, President of business area Machining (with Sandvik since 2000), will leave. She stays until a successor is in place and then acts as adviser; the aim is to have a new president in place before the end of 2026.",
+      "compared_to_before": "Machining became a stand-alone business area on 2026-01-01 after the split from Manufacturing and Machining Solutions and is in the middle of a 2025-2030 restructuring programme. It is the second business-area president change within about two months, after Mining on 1 July.",
+      "why_it_matters": "Limited direct competitive relevance for Epiroc (Machining is cutting tools; Epiroc's overlap is in rock tools, which sit in Sandvik Mining), but it signals executive churn at the group-management level ahead of the Capital Markets Day and a possible change in how Machining margins (currently lifted by tungsten) are managed. The successor announcement is a watch item.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://news.cision.com/sandvik/r/nadine-crauwels--president-machining--to-leave-sandvik,c4393555",
+          "publisher": "Sandvik (Cision)",
+          "title": "Nadine Crauwels, President Machining, to leave Sandvik",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+          "publisher": "Sandvik",
+          "title": "Interim report third quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.privataaffarer.se/placeringar/aktier/tungt-rapportfall-i-sandvik/",
+          "publisher": "Privata Affärer (Direkt)",
+          "title": "Sandviks orderingång lägre än väntat – aktien faller",
+          "type": "media",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F11",
+      "area": "Product launches & portfolio changes",
+      "date": "2026-05-26",
+      "title": "AutoMine Aura: Sandvik rebuilds its underground automation platform around 3D perception",
+      "what_happened": "Sandvik launched AutoMine Aura, described as the most significant evolution of AutoMine in over 20 years: a new navigation system with 3D perception and adaptive intelligence, said to move over 15% more material in a validated customer mine, integrating with existing networks and access control without infrastructure changes. It launches first on underground loaders and will extend to other product lines, with AutoMine in more than 140 mines according to its automation head. Q2 also brought the DD423i and DD423iE battery-electric development drills and the Commando DC310RiE, Sandvik's first electric top-hammer surface rig, plus Deswik Nova for surface planning.",
+      "compared_to_before": "Previous AutoMine generations were the established automation offer; Sandvik describes Aura as a new platform rather than the next version, and said it would be presented at Future of Mining on 1-3 September.",
+      "why_it_matters": "This goes straight at Epiroc's automation and mixed-fleet proposition: a vendor-validated +15% productivity claim, loaders first, no infrastructure change. Epiroc should benchmark its own productivity evidence and 3D-perception roadmap against it, and watch whether Aura is bundled in new fleet orders (the Khoemacau and Kamoa orders already bundle AutoMine). The electric top-hammer rig extends Sandvik's electric surface offer.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://www.mining.sandvik/en/news-and-media/news-archive/2026/05/sandvik-launches-automine-aura-a-first-of-its-kind-automation-platform-for-the-future-of-mining/",
+          "publisher": "Sandvik Mining",
+          "title": "Sandvik launches AutoMine Aura, a first-of-its-kind automation platform for the future of mining",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/05/26/sandvik-launches-automine-aura-first-of-its-kind-automation-platform/",
+          "publisher": "International Mining",
+          "title": "Sandvik launches AutoMine Aura 'first-of-its-kind' automation platform",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/208/4375736/4197623.pdf",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report second quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F12",
+      "area": "Product launches & portfolio changes",
+      "date": "2026-09-01",
+      "title": "Future of Mining 2026: autonomous, battery-electric surface drill concept with an AI agent",
+      "what_happened": "At its Future of Mining event in Tampere (1-3 September, 600 customers according to the Q3 report) Sandvik unveiled 'Sami', a concept surface drill on a boom-drill platform that is fully autonomous, battery-electric and cabin-less; it carries bits, collar pipes and hammers onboard and uses an integrated robotic manipulator to change them. It is managed by 'Sandi', an AI agent connected to a mine-wide digital twin that assigns drilling tasks in natural language. Sandvik stresses it is a concept, not a product, with technology scalable to the wider surface drilling range including rotary blasthole drills. The Q3 report also lists the Toro TH663i Gen2 underground truck and xCell Banshee and Hydra ground-support monitoring solutions.",
+      "compared_to_before": "Sandvik has shown a series of concept platforms spanning underground and surface since the AutoMine Concept Loader in 2020. For surface, Murphy has said Sandvik has strengthened competitiveness but sees further opportunity to grow relative to underground.",
+      "why_it_matters": "Sets a narrative for the surface drilling segment where Epiroc competes and where autonomy, electrification and AI orchestration are becoming the differentiators. No timeline or pricing, so it is positioning, not near-term competition; the machine will be demonstrated live to investors at the Capital Markets Day, so expect it to feature in Sandvik's equity story.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://www.mining.sandvik/en/news-and-media/news-archive/2026/09/sandvik-introduces-autonomous-electric-concept-drill-for-the-future-of-surface-mining/",
+          "publisher": "Sandvik Mining",
+          "title": "Sandvik introduces autonomous electric concept drill for the future of surface mining",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/09/01/sandvik-introduces-autonomous-electric-concept-drill-for-the-future-of-surface-mining/",
+          "publisher": "International Mining",
+          "title": "Sandvik introduces autonomous electric concept drill for the 'future of surface mining'",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+          "publisher": "Sandvik",
+          "title": "Interim report third quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/05/01/a-new-mining-leader-for-sandvik/",
+          "publisher": "International Mining",
+          "title": "A new mining leader for Sandvik",
+          "type": "media",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F13",
+      "area": "Capital market events & reporting calendar",
+      "date": "2026-06-29",
+      "title": "Capital Markets Day set for 24-25 November at Sandvik Mining's Tampere site",
+      "what_happened": "Sandvik will hold a Capital Markets Day on 2026-11-24/25 at Sandvik Mining's site in Tampere, Finland, with presentations by CEO Stefan Widing, CFO Cecilia Felton and business-area management, and guided tours on new technologies, digitalisation and automation (save-the-date reminder 2026-06-29, invitations 2026-09-02 and 2026-10-01). Reporting calendar: Q4 2026 on 2027-01-27, Q1 2027 on 2027-04-21, AGM on 2027-04-28 in Sandviken, Q2 2027 on 2027-07-16, Q3 2027 on 2027-10-21.",
+      "compared_to_before": "The previous Capital Markets Day was on 2025-05-20/21 in Gimo (a Machining site), where the 2030 strategy, the split of Machining and Intelligent Manufacturing and the Machining restructuring programme were presented. A second event after about 18 months, now at the Mining site, with margins above the 20-22% range.",
+      "why_it_matters": "A rare chance to see Sandvik's targets, Mining strategy, automation roadmap and capacity plans in one event; Epiroc's strategy team should plan to monitor it (possible target changes, Mining margin ambition, aftermarket and digital revenue ambitions, surface concept demo). Read-across to Epiroc's own multiples and sentiment is likely, as brokers already compare the two.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://news.cision.com/sandvik/r/reminder-to-save-the-date--sandvik-capital-markets-day-november-24-25--2026,c4365527",
+          "publisher": "Sandvik (Cision)",
+          "title": "Reminder to save the date: Sandvik Capital Markets Day November 24-25, 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/invitation--sandvik-capital-markets-day-november-24-25--2026,c4391145",
+          "publisher": "Sandvik (Cision)",
+          "title": "Invitation: Sandvik Capital Markets Day November 24-25, 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+          "publisher": "Sandvik",
+          "title": "Interim report third quarter 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.home.sandvik/en/news-and-media/news/2025/05/sandvik-capital-markets-day-advancing-to-2030/",
+          "publisher": "Sandvik",
+          "title": "Sandvik Capital Markets Day: Advancing to 2030 (2025-05-20)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F14",
+      "area": "Capital market events & reporting calendar",
+      "date": "2026-10-28",
+      "title": "Industrivärden crosses 15% of Sandvik; Lundbergs also buying",
+      "what_happened": "Industrivärden bought 1 million Sandvik shares on 2026-10-28 and now holds 188.5 million shares, just over 15% of the capital, crossing the flagging threshold; a day earlier it emerged that Lundbergs, Industrivärden's largest owner and Sandvik's fifth largest, bought 1 million Sandvik shares (3.5% of Sandvik). Industrivärden and Lundbergs both sit on the Nomination Committee for the 2027 AGM, chaired by Fredrik Lundberg of Industrivärden.",
+      "compared_to_before": "Both buyers added after the Q3 report-day share price fall. The Nomination Committee for the 2027 AGM was announced on 2026-09-21.",
+      "why_it_matters": "Anchor owners are adding on weakness, which supports Sandvik's valuation and capacity to keep investing in M&A, and signals no near-term governance change; the same investors have an influence on Sandvik's board refresh at the 2027 AGM.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://efn.se/industrivarden-flaggar-upp-i-sandvik",
+          "publisher": "EFN",
+          "title": "Industrivärden flaggar upp i Sandvik",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/sandvik-ab---nomination-committee-for-the-2027-annual-general-meeting,c4398561",
+          "publisher": "Sandvik (Cision)",
+          "title": "Sandvik AB – Nomination Committee for the 2027 Annual General Meeting",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F15",
+      "area": "Share price movements (with market/peer context)",
+      "date": "2026-07-17",
+      "title": "Shares -3% in six months vs OMXS30 +6%; two sharp report-day drops despite record profits",
+      "what_happened": "Sandvik closed at SEK 357.4 on 2026-11-06 vs SEK 369.0 on 2026-05-08 (-3.1%), against the OMXS30 at +6.3% (3,073.7 to 3,267.9). Window high SEK 411.8 (2026-07-03), low SEK 335.5 (2026-07-20); a 2026-11-10 intraday print was around SEK 369.8. Report days: Q2 (07-17) -9.3% (OMXS30 -0.1%; Epiroc A -6.0%, SKF B -5.6%, Atlas Copco A +0.2%); Q3 (10-22) -4.9% (OMXS30 -2.5%; Epiroc A -3.9%, Atlas Copco A -7.7%, SKF B -2.9%). Over the full window: Epiroc A -9.1%, Atlas Copco A +2.1%, Volvo B -3.4%, SKF B +14.0% (Yahoo Finance closes, 2026-05-08 to 2026-11-06). Swedish media tie the Q2 fall to the orders miss (SEK 37.8bn vs 39.2bn expected), while on Q3 orders were in line with consensus (SEK 36.9bn vs 37.1bn) but lower than Q2 with book-to-bill at 98% (Sandvik report). Bloomberg's headline on 2026-07-17 grouped Sandvik and Epiroc as falling as orders slow (headline only). EFN noted on 2026-10-28 that Sandvik Mining has outperformed Epiroc and that the two valuations have converged (2027 P/E Epiroc 20 vs Sandvik 18).",
+      "compared_to_before": "Sandvik fell about 18.5% from its 2026-07-03 high to the 2026-07-20 low, and on 2026-10-22 closed (SEK 336.5) back near that low, even though adjusted EBITA beat consensus in both quarters. Both Sandvik and Epiroc lagged the index over the window.",
+      "why_it_matters": "Sandvik and Epiroc trade in tandem on mining order news (both fell on 2026-07-17), but Sandvik has held up better than Epiroc over the window, possibly helped by group diversification (Machining margins, tungsten). EFN's valuation convergence raises the bar for Epiroc to show orders and margin delivery relative to Sandvik; the Capital Markets Day on 24-25 November is the next catalyst.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/quote/SAND.ST/history/",
+          "publisher": "Yahoo Finance",
+          "title": "Sandvik AB (SAND.ST) historical prices",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://finance.yahoo.com/quote/%5EOMX/history/",
+          "publisher": "Yahoo Finance",
+          "title": "OMX Stockholm 30 (^OMX) historical prices",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://finance.yahoo.com/quote/EPI-A.ST/history/",
+          "publisher": "Yahoo Finance",
+          "title": "Epiroc A (EPI-A.ST) historical prices",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://finance.yahoo.com/quote/ATCO-A.ST/history/",
+          "publisher": "Yahoo Finance",
+          "title": "Atlas Copco A (ATCO-A.ST) historical prices",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://finance.yahoo.com/quote/SKF-B.ST/history/",
+          "publisher": "Yahoo Finance",
+          "title": "SKF B (SKF-B.ST) historical prices",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://finance.yahoo.com/quote/VOLV-B.ST/history/",
+          "publisher": "Yahoo Finance",
+          "title": "Volvo B (VOLV-B.ST) historical prices",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://www.privataaffarer.se/placeringar/aktier/tungt-rapportfall-i-sandvik/",
+          "publisher": "Privata Affärer (Direkt)",
+          "title": "Sandviks orderingång lägre än väntat – aktien faller",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.privataaffarer.se/placeringar/aktier/sandvik-nagot-over-forvantningarna/",
+          "publisher": "Privata Affärer (Direkt)",
+          "title": "Sandvik redovisar justerat ebita på 8.477 miljoner kronor",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://efn.se/sandvik-faller-efter-ordermiss",
+          "publisher": "EFN",
+          "title": "Sandvik faller efter ordermiss",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://borsvarlden.com/artiklar/efn-sandvik-har-overtaget-mot-epiroc-i-gruvsektorn",
+          "publisher": "Börsvärlden (Finwire/EFN)",
+          "title": "EFN: Sandvik har övertaget mot Epiroc i gruvsektorn",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.bloomberg.com/news/articles/2026-07-17/mining-equipment-makers-sandvik-epiroc-fall-as-orders-slow",
+          "publisher": "Bloomberg",
+          "title": "Mining Equipment Makers Sandvik, Epiroc Fall as Orders Slow",
+          "type": "media",
+          "access": "headline_only"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/interim-report-second-quarter-2026,c4375736",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report second quarter 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/sandvik/r/interim-report-third-quarter-2026,c4413645",
+          "publisher": "Sandvik (Cision)",
+          "title": "Interim report third quarter 2026",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    }
+  ]
+}
