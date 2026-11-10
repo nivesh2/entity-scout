@@ -1,0 +1,581 @@
+{
+  "entity": {
+    "name": "Caterpillar",
+    "type": "competitor"
+  },
+  "scan": {
+    "mode": "baseline",
+    "window_start": "2026-05-10",
+    "window_end": "2026-11-10",
+    "generated": "2026-11-10"
+  },
+  "top_material_changes": [
+    "F04",
+    "F05",
+    "F10",
+    "F09",
+    "F08"
+  ],
+  "areas": [
+    {
+      "area": "Strategy & stated priorities",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Financial performance",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "M&A, investments, divestments",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Restructurings & organizational changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Hiring, talent signals & leadership changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Product launches & portfolio changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Sustainability & ESG disclosures",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Capital market events & reporting calendar",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Share price movements (with market/peer context)",
+      "status": "findings",
+      "reason": null
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "area": "Strategy & stated priorities",
+      "date": "2026-05-12",
+      "title": "2025 Annual Report: refreshed three-pillar strategy, but Resource Industries profit fell 22% on tariffs and negative pricing",
+      "what_happened": "Caterpillar published its 2025 Annual and Sustainability Reports on 12 May 2026, organising the refreshed enterprise strategy around three pillars: Commercial Excellence, Advanced Technology Leader and Transform How We Work. The annual report shows Resource Industries (RI) 2025 sales of $12.474bn (about flat on 2024) and RI profit of $1.988bn, down 22%, with the RI margin falling to 15.9% from 20.4%. The drivers were unfavourable manufacturing costs of $302m (largely higher tariffs) and unfavourable price realization of $272m. The report also gives 827 autonomous haul trucks in operation at end-2025, a first mixed-fleet autonomy customer agreement, and the RPMGlobal mining-software acquisition at about $790m. Group headcount rose to about 118,000 (112,900).",
+      "compared_to_before": "In 2024 RI earned a 20.4% margin. In 2025 Caterpillar gave up price in mining equipment ($272m negative price realization) and absorbed tariffs. At the November 2025 Investor Day the RI priorities were framed as commercial excellence, autonomy and 'precision mining', with a target to triple autonomous trucks by 2030 against 690 at end-2024. Tripling implies about 2,070 trucks by 2030. The 827 at end-2025 are about 40% of that level, but 2025 added only 137 trucks with about 1,240 still to add by 2030, so adoption has to accelerate sharply.",
+      "why_it_matters": "This is the baseline for monitoring Caterpillar in mining. Its mining segment now earns a lower margin than Epiroc (Epiroc 2025 adjusted operating margin 19.6%, per Epiroc's own reporting). In 2025 Caterpillar also showed it would concede price in mining equipment. Expect tough pricing in tenders where Cat and Epiroc overlap: surface drills, underground loaders and trucks, and autonomy packages. Caterpillar's strategy explicitly ties mining growth to technology (autonomy, software), which is where Epiroc is also positioning itself.",
+      "materiality": "reversal",
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/18230/000130817926000360/cat015318-ars.pdf",
+          "publisher": "Caterpillar Inc. (SEC filing)",
+          "title": "Caterpillar Inc. 2025 Annual Report",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-inc-releases-2025-annual-and-sustainability-reports-302768765.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Inc. Releases 2025 Annual and Sustainability Reports",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://s25.q4cdn.com/358376879/files/doc_events/2025/11-4-25-Investor-Day-Transcript.pdf",
+          "publisher": "Caterpillar Inc. (investor relations)",
+          "title": "2025 Investor Day transcript (4 Nov 2025)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://reports.epirocgroup.com/annual-and-sustainability-report-2025/the-business/2025-in-brief/",
+          "publisher": "Epiroc AB (peer comparison)",
+          "title": "Epiroc Annual and Sustainability Report 2025 – 2025 in brief",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F02",
+      "area": "Strategy & stated priorities",
+      "date": "2026-10-29",
+      "title": "Growth capital tilts to data-centre power and compact construction; mining capacity is debottlenecked 'inside our four walls'",
+      "what_happened": "On the Q3 call (29 Oct 2026) management said bringing capacity online is the main pacing factor for growth. It plans to repurpose part of its Winston-Salem (locomotive-engine) plant as a second assembly and test site for 3600 large engines, supporting the plan to raise large reciprocating-engine capacity to nearly 3x the 2024 level by 2030. On 30 Sep 2026 Caterpillar announced about $1bn for a new Cat Compact plant in Sanford, North Carolina. In Q2 it repurposed a Wamego, Kansas work-tool plant to package PGM130 data-centre power modules and restarted its 10 MW medium-speed gas engine. For Resource Industries, the CEO described adding large-mining-truck capacity within existing factories and with suppliers, and called the ramp 'normal growing pains'.",
+      "compared_to_before": "At the November 2025 Investor Day Caterpillar targeted a 5–7% group sales CAGR to 2030. The CFO said that if Power & Energy grows faster than that range, the other segments, Resource Industries included, grow 'slightly lower'. The new announcements in the window extend that pattern. The large-capacity investments go to engines, turbines and compact construction. RI growth leans on debottlenecking and on software and autonomy acquisitions, not on new mining plants.",
+      "why_it_matters": "Caterpillar's incremental capital and management attention are going mostly to Power & Energy and compact construction. In mining it relies on existing plants, and Q3 already showed delivery and commissioning slippage. If this persists while copper and gold miners order, Epiroc can compete on lead time and delivery reliability, especially in loading and haulage for underground and mid-size surface mines. Cat's group cash generation still funds aggressive mining-technology spending, so the pressure on Epiroc in autonomy and digital does not ease.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/29/caterpillar-cat-q3-2026-earnings-call-transcript/",
+          "publisher": "The Motley Fool",
+          "title": "Caterpillar (CAT) Q3 2026 Earnings Call Transcript",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://s25.q4cdn.com/358376879/files/doc_financials/2026/q2/2Q-2026-Earnings-Call-Transcript.pdf",
+          "publisher": "Caterpillar Inc. (investor relations)",
+          "title": "Q2 2026 Caterpillar Earnings Call transcript (4 Aug 2026)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-to-invest-1-billion-in-north-carolina-to-expand-cat-compact-manufacturing-capacity-302894208.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar to Invest $1 Billion in North Carolina to Expand Cat Compact Manufacturing Capacity",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://s25.q4cdn.com/358376879/files/doc_events/2025/11-4-25-Investor-Day-Transcript.pdf",
+          "publisher": "Caterpillar Inc. (investor relations)",
+          "title": "2025 Investor Day transcript (4 Nov 2025)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F03",
+      "area": "Financial performance",
+      "date": "2026-08-04",
+      "title": "Q2 2026: first $20bn quarter; Resource Industries sales +20% and full-year guidance raised",
+      "what_happened": "Q2 2026 sales and revenues were $20.543bn (+24%), the first quarter above $20bn. Adjusted operating margin was 21.9%, including $392m of expected IEEPA tariff recoveries, and adjusted EPS was $8.17. RI sales were $4.648bn (+20%), driven by higher sales of equipment to end users and better-than-expected services revenue. RI profit was $693m (+23%), a 14.9% margin (+40bp). RI sales to users grew 17%, higher in mining and in heavy construction and quarry & aggregates. The backlog reached a record $72bn, with 59% expected to ship within 12 months. Full-year 2026 guidance was raised to mid-to-high-teens sales growth, with full-year tariff costs of about $2.2bn. For RI in Q3, management guided a similar year-on-year margin, citing tariffs and higher SG&A and R&D, including autonomy.",
+      "compared_to_before": "Full-year guidance moved up from the April outlook, and services revenue is expected to grow faster than previously guided. RI margin improved year on year but stayed well below the 20.4% RI earned in 2024. Caterpillar described RI orders as robust, with backlog growth driven by copper and gold.",
+      "why_it_matters": "This confirms a broad mining upcycle led by copper and gold, which should also support demand for Epiroc's drill rigs, loaders and consumables. Caterpillar is spending more on autonomy R&D in RI, a direct signal that the autonomy race in surface haulage and loading is intensifying.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-reports-second-quarter-2026-results-302841940.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Reports Second-Quarter 2026 Results",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://s25.q4cdn.com/358376879/files/doc_financials/2026/q2/2Q-2026-Earnings-Call-Transcript.pdf",
+          "publisher": "Caterpillar Inc. (investor relations)",
+          "title": "Q2 2026 Caterpillar Earnings Call transcript (4 Aug 2026)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F04",
+      "area": "Financial performance",
+      "date": "2026-10-29",
+      "title": "Q3 2026: mining sales-to-users miss as large-truck ramp and commissioning slip; RI margin flat at 13.5%",
+      "what_happened": "Q3 2026 sales and revenues were $20.682bn (+17%), with an adjusted operating margin of 20.6% and a record backlog of $78bn. RI sales rose 15% to $4.615bn (volume +$478m, price +$96m). RI profit was $622m (+14%), but the margin was 13.5% against 13.6% a year earlier, as unfavourable manufacturing costs of $208m (higher material costs including tariffs) offset volume and price. RI sales to users rose only 4%, which management called 'below our expectations'. Mining was lower because of shipping and commissioning delays, and RI sales were lifted by changes in dealer inventories. The CEO cited three strong RI order quarters in a row (copper, gold, Canadian oil sands) and 'growing pains' in ramping large mining trucks. Management expects the delayed commissioning to catch up in Q4, with a higher RI margin year on year. Group full-year guidance was kept at mid-to-high-teens growth. The adjusted margin (excluding IEEPA recoveries) is near the bottom of the target range, restructuring costs are about $300m and capex is about $3.3bn (previously $3.5bn).",
+      "compared_to_before": "On the Q2 call Caterpillar expected strong RI sales growth in Q3 on higher sales to users. Actual sales to users grew 4%, and the RI margin fell from 14.9% in Q2 to 13.5%. RI sales growth slowed from +20% to +15%. Part of the Q3 RI revenue came from dealer restocking rather than end-user deliveries.",
+      "why_it_matters": "Caterpillar's mining orders are strong, but it is not converting them on time. Large-truck supply, commissioning capacity and tariff-driven cost inflation are holding back both volume and margin. Customers facing truck delays may phase projects differently. Epiroc's equipment margin (Equipment & Service 23.8% in Q3, per Epiroc) is far above Cat RI's 13.5%, which gives Epiroc room on price. The demand signal (copper, gold, oil sands) is the same one driving Epiroc's mining orders.",
+      "materiality": "inconsistency",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-reports-third-quarter-2026-results-302922760.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Reports Third-Quarter 2026 Results",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/29/caterpillar-cat-q3-2026-earnings-call-transcript/",
+          "publisher": "The Motley Fool",
+          "title": "Caterpillar (CAT) Q3 2026 Earnings Call Transcript",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://s25.q4cdn.com/358376879/files/doc_financials/2026/q2/2Q-2026-Earnings-Call-Transcript.pdf",
+          "publisher": "Caterpillar Inc. (investor relations)",
+          "title": "Q2 2026 Caterpillar Earnings Call transcript (4 Aug 2026)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
+          "publisher": "Epiroc AB (peer comparison)",
+          "title": "Epiroc interim report Q3 2026",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F05",
+      "area": "M&A, investments, divestments",
+      "date": "2026-07-07",
+      "title": "Skycatch acquisition: second mining-software deal in five months builds a planning-to-execution 'precision mining' stack",
+      "what_happened": "On 7 Jul 2026 Caterpillar announced it had acquired Skycatch, a provider of spatial data capture, processing and AI analytics for mining. Terms were not disclosed. Skycatch's near-real-time, high-resolution spatial data and digital-twin capability will be integrated into both RPMGlobal (mine planning, maintenance and simulation software) and Cat MineStar, for staffed and autonomous fleets. The release was issued by RI group president Denise Johnson.",
+      "compared_to_before": "This follows the RPMGlobal acquisition (about $790m purchase price, approved in February 2026). At the November 2025 Investor Day, Caterpillar described 'precision mining' as an end-to-end value-chain solution to be built from internal capability, venture capital and acquisitions, starting from its strength in load-and-haul. Skycatch is the second step in that build-out within one year.",
+      "why_it_matters": "Caterpillar is moving from machines and haulage autonomy towards owning the mine-planning and site-data layer. RPM is already used by many miners and dealers, including at sites running non-Cat fleets. Pairing it with a live digital twin and MineStar could make Cat software the system of record that orchestrates mixed fleets. That would challenge Epiroc's OEM-agnostic automation and digital offers and could lock out non-Cat drill and loader data. Epiroc should track whether RPM and Skycatch stay open to other OEMs.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-expands-mining-technology-capabilities-with-skycatch-acquisition-302818907.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar expands mining technology capabilities with Skycatch acquisition",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.mining.com/caterpillar-buys-skycatch-to-boost-ai-mine-technology/",
+          "publisher": "MINING.COM",
+          "title": "Caterpillar buys Skycatch to boost AI mine technology",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/18230/000130817926000360/cat015318-ars.pdf",
+          "publisher": "Caterpillar Inc. (SEC filing)",
+          "title": "Caterpillar Inc. 2025 Annual Report",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://s25.q4cdn.com/358376879/files/doc_events/2025/11-4-25-Investor-Day-Transcript.pdf",
+          "publisher": "Caterpillar Inc. (investor relations)",
+          "title": "2025 Investor Day transcript (4 Nov 2025)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F06",
+      "area": "M&A, investments, divestments",
+      "date": "2026-09-29",
+      "title": "Caterpillar buys its own dealer: Fabick Cat (37 locations) acquired and run by a Caterpillar SVP",
+      "what_happened": "On 29 Sep 2026 Caterpillar agreed to acquire John Fabick Tractor Company, the Cat dealer for all of Wisconsin, Michigan's Upper Peninsula and parts of Missouri and Illinois, with 37 locations. The deal closed on 2 Nov 2026. Caterpillar senior vice president Steve Ferguson, whose past roles include mining, became CEO and dealer principal. Caterpillar described the deal as supporting 'a seamless transition of Fabick ownership'. No price was disclosed.",
+      "compared_to_before": "Caterpillar's model relies on independently owned dealers. Equipment World reported (seen as snippet only) that the last US dealer Caterpillar bought was Carter Machinery in 1988, which was later sold back to its management in 2011, and that Fabick had a long ownership dispute.",
+      "why_it_matters": "This is a rare move: the OEM steps directly into distribution and aftermarket when a dealer's succession breaks down. Caterpillar captures dealer-level service and parts margin and customer data in that territory. It shows Caterpillar will protect its aftermarket channel at almost any cost. For Epiroc, which sells mostly direct, the comparison is a reminder that Cat's dealer network is its biggest aftermarket moat, and that Caterpillar is ready to run it itself.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-inc-enters-into-agreement-to-acquire-fabick-cat-dealership-302892025.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Inc. Enters into Agreement to Acquire Fabick Cat Dealership",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-inc-acquires-fabick-cat-dealership-302924153.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Inc. Acquires Fabick Cat Dealership",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.equipmentworld.com/dealers/article/15836215/caterpillar-to-acquire-fabick-cat-dealership",
+          "publisher": "Equipment World",
+          "title": "Caterpillar to Acquire Fabick Cat Dealership",
+          "type": "media",
+          "access": "headline_only"
+        }
+      ]
+    },
+    {
+      "id": "F07",
+      "area": "Restructurings & organizational changes",
+      "date": "2026-08-04",
+      "title": "$139m loss on divesting 'certain non-U.S. entities' lifts 2026 restructuring; full-year cost now about $300m",
+      "what_happened": "Q2 2026 restructuring costs included $139m of losses on the divestiture of certain non-U.S. entities, with no related tax benefit, plus $63m of other restructuring costs. Together they were about $0.40 of EPS, against $0.10 a year earlier. Caterpillar did not name the entities. On the Q2 call it guided $300–350m of restructuring costs for 2026. On the Q3 call it narrowed this to about $300m, the low end. Q3 restructuring costs were $41m.",
+      "compared_to_before": "Restructuring in Q2 2025 was $56m. The 2026 programme adds a portfolio and footprint element (exiting non-U.S. entities) that was not flagged at the November 2025 Investor Day.",
+      "why_it_matters": "The divested entities and their segment are undisclosed. If they include mining-related operations outside the US (manufacturing, remanufacturing or distribution), local service capacity could change and open room for Epiroc. Next step: check the 10-Q segment notes and local news to identify the entities.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-reports-second-quarter-2026-results-302841940.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Reports Second-Quarter 2026 Results",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://s25.q4cdn.com/358376879/files/doc_financials/2026/q2/2Q-2026-Earnings-Call-Transcript.pdf",
+          "publisher": "Caterpillar Inc. (investor relations)",
+          "title": "Q2 2026 Caterpillar Earnings Call transcript (4 Aug 2026)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/29/caterpillar-cat-q3-2026-earnings-call-transcript/",
+          "publisher": "The Motley Fool",
+          "title": "Caterpillar (CAT) Q3 2026 Earnings Call Transcript",
+          "type": "media",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F08",
+      "area": "Hiring, talent signals & leadership changes",
+      "date": "2026-10-15",
+      "title": "Resource Industries leadership change: Solar Turbines chief Derrick York replaces Denise Johnson",
+      "what_happened": "On 15 Oct 2026 Caterpillar announced that Denise Johnson, RI group president since 2016, will retire on 1 Feb 2027. Derrick York, president of Solar Turbines and a senior vice president, became RI group president on 1 Nov 2026, with Johnson in an advisory role until she retires. York's background is gas turbines and compressors, the Oil & Gas and Marine division, finance and corporate development, and banking.",
+      "compared_to_before": "Johnson led RI through the 2016 mining downturn, returned it to profitability and built the autonomy, DET and electrification agenda and the RPMGlobal and Skycatch deals. This is the third top-level leadership change at Caterpillar in 2026. Construction Industries (Rod Shurman, group president from 1 February) and the CFO role (Kyle Epley, from 1 May) changed before the window.",
+      "why_it_matters": "Caterpillar's mining business now has a leader from finance and the power and energy side, not mining. Expect continuity on autonomy, but possibly a sharper focus on capital efficiency, services and capacity discipline, and on links between mining and Cat's power offer (microgrids, gensets for mine electrification). Watch for early strategic signals, such as RI targets in January 2027 and any portfolio pruning. Changes in key customer relationships during the transition can create openings for Epiroc.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-announces-leadership-transition-in-resource-industries-302910111.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Announces Leadership Transition in Resource Industries",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/10/15/caterpillar-announces-leadership-transition-in-resource-industries/",
+          "publisher": "International Mining",
+          "title": "Caterpillar announces leadership transition in Resource Industries",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-elects-new-chief-financial-officer-302737430.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Elects New Chief Financial Officer",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-announces-leadership-transition-in-construction-industries-302661609.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Announces Leadership Transition in Construction Industries",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F09",
+      "area": "Product launches & portfolio changes",
+      "date": "2026-06-23",
+      "title": "Battery-electric 793 XE trial goes live at BHP's Jimblebar with Rio Tinto; next phase is dynamic charging (DET)",
+      "what_happened": "On 23 Jun 2026 BHP, Rio Tinto and Caterpillar launched a mine-site trial of two Cat 793 XE Early Learner battery-electric haul trucks at BHP's Jimblebar iron-ore mine in the Pilbara, after three months of on-site testing. Jimblebar holds two of the seven Early Learner battery-electric trucks being tested worldwide. The next phase will evaluate charging in motion via an energy-transfer system. Cat RI VP of product management Thad Litkenhus said the work validates battery-electric trucks and charging infrastructure in real customer conditions.",
+      "compared_to_before": "At the November 2025 Investor Day, Caterpillar said it had four 793 XE Early Learners being validated in the field and that Cat Dynamic Energy Transfer (DET) was expected to be commercially available in Q4 2026. The fleet has since grown to seven test trucks, and the Pilbara tests are moving towards DET.",
+      "why_it_matters": "Caterpillar is now validating battery-electric large surface trucks at customer sites and pairing them with its own in-motion charging system and Command autonomy. That bundle (truck, energy transfer, autonomy) is a site-energy-system offer. Epiroc's battery-electric and trolley strategy for underground, and its electric and autonomous surface drills, must interoperate with it or compete against it at the same mines. Watch whether DET launches commercially in Q4 2026 as promised.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://im-mining.com/2026/06/23/bhp-rio-tinto-and-caterpillar-to-progress-to-dynamic-energy-transfer-testing-on-cat-793-xe-early-learners-at-jimblebar/",
+          "publisher": "International Mining",
+          "title": "BHP, Rio Tinto and Caterpillar to progress to Dynamic Energy Transfer testing on Cat 793 XE Early Learners at Jimblebar",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://s25.q4cdn.com/358376879/files/doc_events/2025/11-4-25-Investor-Day-Transcript.pdf",
+          "publisher": "Caterpillar Inc. (investor relations)",
+          "title": "2025 Investor Day transcript (4 Nov 2025)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F10",
+      "area": "Product launches & portfolio changes",
+      "date": "2026-09-14",
+      "title": "Command for hauling moves down to the 775: Luck Stone expands quarry autonomy to two more sites",
+      "what_happened": "On 14 Sep 2026 Caterpillar and Luck Stone announced the expansion of autonomous hauling to two more Virginia quarries, Boscobel and Bealeton. It is the first deployment of Cat MineStar Command for hauling on the Cat 775, a key quarry truck class. Loader and site technologies come with it, and dealer Carter Machinery provides support. The pilot at Bull Run had hauled more than 3.5 million tons since November 2024. Caterpillar says its autonomous trucks have hauled more than 13 billion tonnes in total. On the Q3 call the CEO called this a step towards the goal of tripling Cat autonomous trucks by 2030 compared with 2024.",
+      "compared_to_before": "Until now, quarry autonomy was a single pilot site with four 777 trucks. At the Investor Day Caterpillar said it expected 'a healthy uptick in autonomy adoption in the quarry space' and offered flexible, OpEx-style pricing and mixed-fleet autonomy. The autonomous fleet was 827 trucks at end-2025 against 690 at end-2024.",
+      "why_it_matters": "Caterpillar is pushing autonomy into smaller trucks and aggregates customers. Aggregates is a core Epiroc segment (surface drill rigs, rock tools, hydraulic attachments). Once a quarry runs Cat autonomy and site orchestration, Cat sits at the centre of the site's data and traffic management. Epiroc's autonomous surface drills and OEM-agnostic automation need to integrate there, or offer a competing site layer.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/luck-stone-builds-on-autonomous-hauling-success-with-caterpillar-302878933.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Luck Stone Builds on Autonomous Hauling Success with Caterpillar",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/09/16/caterpillar-to-deploy-ahs-on-775-trucks-for-first-time-as-part-of-expansion-with-luck-stone-to-two-more-sites/",
+          "publisher": "International Mining",
+          "title": "Caterpillar to deploy AHS on 775 trucks for first time as part of expansion with Luck Stone to two more sites",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/29/caterpillar-cat-q3-2026-earnings-call-transcript/",
+          "publisher": "The Motley Fool",
+          "title": "Caterpillar (CAT) Q3 2026 Earnings Call Transcript",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://s25.q4cdn.com/358376879/files/doc_events/2025/11-4-25-Investor-Day-Transcript.pdf",
+          "publisher": "Caterpillar Inc. (investor relations)",
+          "title": "2025 Investor Day transcript (4 Nov 2025)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F11",
+      "area": "Sustainability & ESG disclosures",
+      "date": "2026-05-12",
+      "title": "2025 Sustainability Report: operational emissions tick up for the first time in the series; Scope 3 use-phase emissions rose and are guided to keep rising",
+      "what_happened": "The 2025 Sustainability Report, published 12 May 2026, shows absolute Scope 1+2 emissions of 1.38 Mt CO2e in 2025 against 1.37 Mt in 2024. Scope 1 rose from 0.68 to 0.74 Mt, while market-based Scope 2 fell from 0.69 to 0.64 Mt. Emissions remain 34% below the 2018 baseline (2.08 Mt), ahead of the science-based goal of -30% by 2030. Scope 3 Category 11 (use of sold products), more than 95% of the total footprint, increased. The report attributes this to end-market strength, mix and continuous-run energy applications, and says Caterpillar estimates Scope 3 emissions 'to increase to support customer demand'. Remanufacturing sales and revenues are up 41% since 2018 (goal +25%), and landfill intensity is down 48% (goal -50%).",
+      "compared_to_before": "Scope 1+2 fell every year in the reported series, from 1.52 Mt (2021) to 1.37 Mt (2024), before the 2025 uptick. The company's positioning has shifted towards 'practical' sustainability: remanufacturing, rebuilds and customer choice. It has not set a product-use (Scope 3) reduction target. It keeps the goal that 100% of new products are more sustainable than the previous generation.",
+      "why_it_matters": "Caterpillar is openly guiding to higher use-phase emissions as its power-generation business grows, and is leaning on remanufacturing and rebuilds as its circularity story. Epiroc can stand out with miners that have hard decarbonisation targets through battery-electric underground fleets and lower-emission surface drilling. Cat's rebuild and reman strength (+41%) is a benchmark for Epiroc's own aftermarket circularity offers.",
+      "materiality": "reversal",
+      "sources": [
+        {
+          "url": "https://s7d2.scene7.com/is/content/Caterpillar/CM20260508-cac43-ec231",
+          "publisher": "Caterpillar Inc.",
+          "title": "Caterpillar Inc. Sustainability Report 2025",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-inc-releases-2025-annual-and-sustainability-reports-302768765.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Inc. Releases 2025 Annual and Sustainability Reports",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F12",
+      "area": "Capital market events & reporting calendar",
+      "date": "2026-06-10",
+      "title": "Dividend raised 8% to $1.63 at virtual AGM; buybacks slow sharply after Q1; 2027 outlook promised for January",
+      "what_happened": "On 10 Jun 2026, alongside the virtual 2026 annual meeting, the board raised the quarterly dividend 8% to $1.63 (from $1.51), payable 19 Aug 2026. This is the 32nd consecutive year of higher annual dividends. Caterpillar reiterated its aim to return substantially all MP&E free cash flow over time. Share repurchases were $1.5bn in Q2 and $1.2bn in Q3, against about $5bn in Q1 (Q1 figure seen only in a Zacks article snippet on Yahoo). MP&E free cash flow is guided in the top half of the $6–15bn target range. Management said it would give its view of 2027 with the Q4 2026 results in January 2027; the exact date had not been announced at the time of writing.",
+      "compared_to_before": "The 8% rise matches the pattern of recent years (the CFO called it the sixth consecutive year of high-single-digit quarterly dividend increases on the Q2 and Q3 calls). Buybacks slowed sharply after a very large Q1, while capex was trimmed to about $3.3bn.",
+      "why_it_matters": "Caterpillar keeps strong capital-return discipline while funding capacity growth and mining-technology M&A (RPMGlobal, Skycatch). January 2027 is the next key date for Epiroc to read Caterpillar's mining outlook and any RI targets under the new RI leadership.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-inc-increases-dividend-302797237.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Inc. Increases Dividend",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-reports-second-quarter-2026-results-302841940.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Reports Second-Quarter 2026 Results",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-reports-third-quarter-2026-results-302922760.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Reports Third-Quarter 2026 Results",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/10/29/caterpillar-cat-q3-2026-earnings-call-transcript/",
+          "publisher": "The Motley Fool",
+          "title": "Caterpillar (CAT) Q3 2026 Earnings Call Transcript",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://finance.yahoo.com/markets/stocks/articles/does-caterpillars-8-dividend-hike-155500262.html",
+          "publisher": "Yahoo Finance (Zacks)",
+          "title": "Does Caterpillar's 8% Dividend Hike Signal More Growth Ahead?",
+          "type": "media",
+          "access": "headline_only"
+        }
+      ]
+    },
+    {
+      "id": "F13",
+      "area": "Share price movements (with market/peer context)",
+      "date": "2026-10-29",
+      "title": "CAT shares -33% in the window and about -44% from the June peak, against S&P 500 +2% and Deere +20%",
+      "what_happened": "CAT closed at $897.45 on 8 May 2026, the last close before the window, and at $598.88 on 9 Nov 2026, down 33.3%. The window high was $1,064.90 (30 Jun) and the low $553.64 (5 Nov), so the trough was about 48% below the peak. The largest single-day move was -9.3% on Q3 results day (29 Oct), after which the stock kept falling. Q2 results day (4 Aug) was +5.6%. Over the same window: S&P 500 +2.0%, Dow Jones +5.6%, Deere +20.3%, Komatsu (Tokyo) -6.6%, Epiroc A -6.2%, Sandvik +0.6% (Yahoo Finance closes). Trefis noted the shares fell 22.4% from the close before the Q3 report to 5 Nov, against -5.0% for the S&P 500. Media reports (Trefis, Investing.com) attribute the slide to reaffirmed rather than raised guidance, margins near the bottom of the range, and post-results analyst target cuts (Investing.com snippet: Citi to $800, Morgan Stanley to $675). The trailing P/E was about 21.5x after the fall, according to Trefis.",
+      "compared_to_before": "The stock had re-rated on the data-centre power story, with an all-time high above $1,000 in mid-2026. The window reverses most of that re-rating. The decline is company-specific: Caterpillar fell far more than US indices, machinery peer Deere and the Nordic mining-equipment peers.",
+      "why_it_matters": "Caterpillar's valuation now depends on Power & Energy delivery and margin recovery, not on mining. A cheaper Cat currency and pressure to show margin progress could make Caterpillar more disciplined on mining-equipment pricing, a positive for Epiroc. It could also push Cat towards cost actions, including in RI. The shares fell much further than Epiroc's, so investors are not treating this as a sector-wide mining-equipment de-rating.",
+      "materiality": "reversal",
+      "sources": [
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/CAT?period1=1778112000&period2=1794355200&interval=1d",
+          "publisher": "Yahoo Finance",
+          "title": "Caterpillar Inc. (CAT) daily price history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/caterpillar-reports-third-quarter-2026-results-302922760.html",
+          "publisher": "Caterpillar Inc. (via PR Newswire)",
+          "title": "Caterpillar Reports Third-Quarter 2026 Results",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?period1=1778112000&period2=1794355200&interval=1d",
+          "publisher": "Yahoo Finance",
+          "title": "S&P 500 (^GSPC) daily price history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/DE?period1=1778112000&period2=1794355200&interval=1d",
+          "publisher": "Yahoo Finance",
+          "title": "Deere & Company (DE) daily price history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/6301.T?period1=1778112000&period2=1794355200&interval=1d",
+          "publisher": "Yahoo Finance",
+          "title": "Komatsu (6301.T) daily price history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/EPI-A.ST?period1=1778112000&period2=1794355200&interval=1d",
+          "publisher": "Yahoo Finance",
+          "title": "Epiroc A (EPI-A.ST) daily price history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EDJI?period1=1778112000&period2=1794355200&interval=1d",
+          "publisher": "Yahoo Finance",
+          "title": "Dow Jones Industrial Average (^DJI) daily price history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/SAND.ST?period1=1778112000&period2=1794355200&interval=1d",
+          "publisher": "Yahoo Finance",
+          "title": "Sandvik (SAND.ST) daily price history (chart API)",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://www.trefis.com/stock/cat/articles/623254/what-mattered-most-in-caterpillars-latest-quarter/2026-11-06",
+          "publisher": "Trefis",
+          "title": "What Mattered Most In Caterpillar's Latest Quarter?",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://ca.investing.com/news/stock-market-news/why-is-caterpillar-stock-sliding-today-93CH-4930501",
+          "publisher": "Investing.com",
+          "title": "Why is Caterpillar stock sliding today?",
+          "type": "media",
+          "access": "headline_only"
+        }
+      ]
+    }
+  ]
+}
