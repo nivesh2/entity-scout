@@ -28,8 +28,24 @@
       "slug": "sandvik",
       "name": "Sandvik",
       "type": "competitor",
-      "latest": null,
-      "history": []
+      "latest": {
+        "generated": "2026-11-10",
+        "mode": "baseline",
+        "window_start": "2026-05-10",
+        "window_end": "2026-11-10",
+        "findings": 15,
+        "top": 5,
+        "json": "data/sandvik/latest.json",
+        "brief": "data/sandvik/latest.md"
+      },
+      "history": [
+        {
+          "generated": "2026-11-10",
+          "mode": "baseline",
+          "json": "data/sandvik/2026-11-10.json",
+          "brief": "data/sandvik/2026-11-10.md"
+        }
+      ]
     },
     {
       "slug": "caterpillar",
