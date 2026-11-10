@@ -1,0 +1,598 @@
+{
+  "entity": {
+    "name": "Epiroc",
+    "type": "own_company"
+  },
+  "scan": {
+    "mode": "baseline",
+    "window_start": "2026-05-10",
+    "window_end": "2026-11-10",
+    "generated": "2026-11-10"
+  },
+  "top_material_changes": [
+    "F04",
+    "F15",
+    "F06",
+    "F02",
+    "F13"
+  ],
+  "areas": [
+    {
+      "area": "Strategy & stated priorities",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Financial performance",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "M&A, investments, divestments",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Restructurings & organizational changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Hiring, talent signals & leadership changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Product launches & portfolio changes",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Sustainability & ESG disclosures",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Capital market events & reporting calendar",
+      "status": "findings",
+      "reason": null
+    },
+    {
+      "area": "Share price movements (with market/peer context)",
+      "status": "findings",
+      "reason": null
+    }
+  ],
+  "findings": [
+    {
+      "id": "F01",
+      "area": "Strategy & stated priorities",
+      "date": "2026-06-08",
+      "title": "Capital Markets Day reconfirms goals and recasts Epiroc as a 'productivity and technology partner'",
+      "what_happened": "At its Capital Markets Day in Örebro, Epiroc reconfirmed its financial goals (8% annual revenue growth over a business cycle, industry-best operating margin, dividend of 50% of net profit over the cycle) and its near-term outlook. The CEO described a move 'from being an equipment supplier to becoming a strong productivity and technology partner'. The day covered five strategic areas: attractive niches, innovation, aftermarket, operational excellence and outperformance. It also covered automation including mixed fleet, exploration (rolling 12-month exploration orders of SEK 3.1bn, about 4.7% of Group orders, at 31 March 2026), and a multi-brand approach that pairs premium positioning with broader reach, for example the GIA brand in China.",
+      "compared_to_before": "No new targets. The goals and the 'attractive niches, innovation, aftermarket, operational excellence' strategy are the same as in the 2025 annual report and the quarterly reports. The new emphasis is on exploration as a growth line, multi-brand reach with different value propositions (GIA) and automation of other OEMs' machines. In the 2025 annual report, the CEO noted that the exploration business grew especially strongly in H2 2025.",
+      "why_it_matters": "This is the reference for the strategy team. External readers will judge every later quarter against an unchanged 8% growth goal and 'industry-best margin' claim. Publicly naming a multi-brand play with different value propositions (GIA in China) tells peers and investors that Epiroc will compete beyond the premium segment, so competitors may answer with their own mid-tier offers.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-capital-markets-day--innovation-and-global-presence-for-profitable-growth,c4358787",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc Capital Markets Day: Innovation and global presence for profitable growth",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.privataaffarer.se/artikel/epiroc-bekraftar-finansiella-mal-upprepar-utsikter/",
+          "publisher": "Privata Affärer (Nyhetsbyrån Direkt)",
+          "title": "Epiroc bekräftar finansiella mål – upprepar utsikter",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://reports.epirocgroup.com/annual-and-sustainability-report-2025/the-business/ceo-comments/",
+          "publisher": "Epiroc",
+          "title": "Annual and Sustainability Report 2025 — CEO comments",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F02",
+      "area": "Strategy & stated priorities",
+      "date": "2026-05-26",
+      "title": "Global partnership with China's SANY Group in attachments and mining electrification",
+      "what_happened": "Epiroc signed a strategic partnership with SANY Group. It covers cross-brand packages that combine Epiroc hydraulic breakers, specialty attachments and ground engaging tools with SANY excavators and loaders. In mining, it combines Epiroc electrified equipment, charging and service with SANY's expertise in electric microgrids and green energy. The signing took place at SANY Industrial Park in Changsha and was attended by Tools & Attachments President José Manuel Sánchez.",
+      "compared_to_before": "An OEM-level global partnership with a Chinese heavy-equipment maker has not appeared in Epiroc's 2025 annual report or its 2026 quarterly reports, so it is new to the disclosed strategy. Before this, Epiroc's China strategy was presented mainly through its own multi-brand approach (GIA). In Q3 Epiroc also highlighted that it is a 'trusted partner to Chinese mining companies as they expand and operate internationally' (the MMG order).",
+      "why_it_matters": "This could open a carrier-OEM channel for attachments, a segment where infrastructure demand has been weak. It also signals a stance of working with Chinese OEMs rather than only competing with them. Sandvik and other peers, and Western carrier OEMs, may read it as a shift in Epiroc's channel strategy. Watch for any exclusivity or volume disclosures.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-and-sany-group-sign-global-partnership-agreement,c4353224",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc and SANY Group sign global partnership agreement",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4375716/4197580.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–June 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F03",
+      "area": "Financial performance",
+      "date": "2026-07-17",
+      "title": "Q2 2026: double-digit organic growth and margin up, but below consensus",
+      "what_happened": "Q2 orders were SEK 17,305m (+13%, +13% organic; equipment orders +30% organic; large orders SEK 720m vs 230m). Revenues were SEK 16,702m (+11% organic). Adjusted EBIT margin was 20.1% (19.7), and currency hurt the margin by 1.0 pp. Operating cash flow was SEK 1,902m (1,104). The outlook said infrastructure demand would 'increase somewhat'. According to Nyhetsbyrån Direkt/Infront consensus, adjusted EBIT of SEK 3,349m missed the expected SEK 3,421m, and organic order growth of 13% missed the expected 16.8%. Revenue beat consensus.",
+      "compared_to_before": "Q2 followed a very strong Q1 (organic orders +23%, equipment +44%). Orders fell 9% organically quarter on quarter as large orders normalised. The margin was still higher than a year earlier.",
+      "why_it_matters": "The report shows growth is converting into revenue as production ramps up. However, the market judged Epiroc against higher expectations after Q1 (see share price finding F15).",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-interim-report-q2-2026,c4375716",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc interim report Q2 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4375716/4197580.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–June 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.privataaffarer.se/artikel/rapportnedgang-i-epiroc/",
+          "publisher": "Privata Affärer (Nyhetsbyrån Direkt)",
+          "title": "Rapportnedgång i Epiroc",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4341697/4066139.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–March 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F04",
+      "area": "Financial performance",
+      "date": "2026-10-28",
+      "title": "Q3 2026: record margin profile but cash conversion falls to 78% and infrastructure outlook cut to 'stable'",
+      "what_happened": "Q3 orders were SEK 17,467m (+15%, +12% organic; mining 83% of orders). Revenues were SEK 16,775m (+7% organic). EBIT was SEK 3,411m (+22%), with an adjusted margin of 20.4% (19.0). Equipment & Service adjusted margin was 23.8% (21.9) and Tools & Attachments 13.2% (11.6). Operating cash flow fell to SEK 1,438m (2,476) and rolling 12-month cash conversion dropped to 78% (105). Net working capital rose 22% to SEK 27,504m because more inventory was tied up. The near-term outlook for infrastructure changed to 'remain stable'. Per Infront consensus (Nyhetsbyrån Direkt), revenue was 3% below the expected SEK 17,380m, adjusted EBIT was SEK 3,426m vs 3,525m expected, and organic order growth was 12% vs 14.4% expected.",
+      "compared_to_before": "In the Q2 report and at the CMD, the outlook said infrastructure/construction demand would 'increase somewhat'. Q3 lowers this to 'stable'. Cash conversion was 93% in Q2 and 105% a year earlier. The 2025 annual report had highlighted 'strong cash flow'. Margins are the best in the recent series (adjusted 20.0% in Q1, 20.1% in Q2, 20.4% in Q3).",
+      "why_it_matters": "The margin progress supports the stated 'industry-best margin' goal. The external debate is now about cash conversion and turning backlog into revenue, plus a softer attachments/infrastructure outlook. According to an earnings-call transcript summary (headline only), management pointed to a strong copper pipeline for Q4 2026 and Q1 2027.",
+      "materiality": "reversal",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-interim-report-q3-2026,c4416462",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc interim report Q3 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–September 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://www.privataaffarer.se/artikel/epiroc-backar-pa-rapport-bommar-forvantningarna/",
+          "publisher": "Privata Affärer (Nyhetsbyrån Direkt)",
+          "title": "Epiroc backar på rapport – bommar förväntningarna",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-interim-report-q2-2026,c4375716",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc interim report Q2 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://ca.investing.com/news/stock-market-news/earnings-call-transcript-epiroc-posts-strong-q3-2026-orders-shares-slip-93CH-4909439",
+          "publisher": "Investing.com",
+          "title": "Earnings call transcript: Epiroc posts strong Q3 2026 orders, shares slip",
+          "type": "media",
+          "access": "headline_only"
+        }
+      ]
+    },
+    {
+      "id": "F05",
+      "area": "Financial performance",
+      "date": "2026-09-01",
+      "title": "MMG Khoemacau order (SEK 610m) — Epiroc's second-largest equipment order ever",
+      "what_happened": "MMG (whose major shareholder is China Minmetals) and the Minmetals contractors China Huaye and 23MCC ordered an underground fleet worth about SEK 610m (USD 64m) for the Khoemacau copper mine expansion in Botswana. The fleet includes Boomer M20 S, Simba E70 S, Cabletec M10 S, Scooptram ST18 S and Minetruck MT65 S, plus remote control, parts and service. The order was booked in Q3. Deliveries run from Q4 2026 to Q2 2028. Other in-window large orders: Peru SEK 210m (15 July, booked in Q2) and an unvalued order from Sibanye-Stillwater for low-profile AARD-derived equipment (30 September).",
+      "compared_to_before": "The only larger order is the ~SEK 2.2bn five-year Fortescue contract from 2025. Large orders were SEK 790m in Q3 vs 470m a year earlier. In 2025, total large equipment orders above SEK 100m were SEK 2,370m. Epiroc is also expanding aftermarket facilities in Botswana.",
+      "why_it_matters": "This shows Epiroc can win full underground fleets for Chinese state-owned miners' projects outside China. It also adds to multi-year backlog and to installed base for service. Competitors in African copper will notice.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-wins-large-equipment-order-for-copper-mine-in-botswana,c4390125",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc wins large equipment order for copper mine in Botswana",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-wins-large-equipment-order-for-platinum-mine-in-south-africa,c4402273",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc wins large equipment order for platinum mine in South Africa",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4375716/4197580.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–June 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–September 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://reports.epirocgroup.com/annual-and-sustainability-report-2025/the-business/ceo-comments/",
+          "publisher": "Epiroc",
+          "title": "Annual and Sustainability Report 2025 — CEO comments",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F06",
+      "area": "M&A, investments, divestments",
+      "date": "2026-11-06",
+      "title": "Agreement to acquire Aramine (France) — underground mining spare parts and rebuilds",
+      "what_happened": "Epiroc agreed to acquire Aramine SAS (Aix-en-Provence). The company supplies spare parts, component remanufacturing and machine rebuilds for underground mining, with about 65 employees, customers in more than 70 countries and revenues of about EUR 31m (SEK 340m) for the 12 months to 30 September 2026. Aramine's newly created underground-equipment company, ARAMAC, is excluded from the deal. Closing is expected in Q4 2026. The business will sit in Equipment & Service and be reported as Service revenue.",
+      "compared_to_before": "This is the second aftermarket bolt-on in 2026, after Eventspec in South Africa (agreed in March, closed in August). It is consistent with the stated financial goal that growth is organic, supported by selective acquisitions. Q3 cash outflow for acquisitions was SEK 285m.",
+      "why_it_matters": "Epiroc is building a multi-brand/OEM-agnostic parts and rebuild capability, which lets it capture service revenue on other OEMs' underground fleets. Competitors may see this as Epiroc targeting their installed base.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-to-acquire-mining-spare-parts-supplier-aramine,c4420877",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc to acquire mining spare parts supplier Aramine",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–September 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F07",
+      "area": "M&A, investments, divestments",
+      "date": "2026-08-04",
+      "title": "Eventspec (South Africa) acquisition completed",
+      "what_happened": "Epiroc completed the acquisition of the business of Eventspec Proprietary Limited (Johannesburg). Eventspec makes parts for drill rigs, mine trucks and loaders and provides rebuilds, repairs and service. It has about 125 employees and 2025 revenues of about ZAR 280m (SEK 160m). It is reported in Equipment & Service under Service revenue.",
+      "compared_to_before": "The deal was announced on 9 March 2026 (Q1 report). The Q2 report expected completion in Q3, so it closed on schedule. Together with the Sibanye-Stillwater order and the AARD platform, it deepens Epiroc's South African aftermarket and underground presence.",
+      "why_it_matters": "Small, but it confirms the pattern of aftermarket bolt-ons in key mining regions that Aramine continues. It adds local manufacturing and rebuild capacity in South Africa.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-completes-acquisition-of-the-business-of-mining-aftermarket-solutions-provider-in-south-afric,c4379576",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc completes acquisition of the business of mining aftermarket solutions provider in South Africa",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4375716/4197580.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–June 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F08",
+      "area": "Restructurings & organizational changes",
+      "date": "2026-09-09",
+      "title": "Footprint consolidation: expanded Kalmar attachments plant inaugurated; Langley closure nearing completion",
+      "what_happened": "Epiroc inaugurated an expanded, highly automated hydraulic-attachments plant in Kalmar, Sweden (more than 8,000 m²; about 175 staff, about 40 of them added). This follows its decision to consolidate European production of hydraulic attachment tools in Sweden. The plant now makes the full breaker range. In the Q3 report, Epiroc said the move of tools production from Langley (Canada) to Matehuala (Mexico) is proceeding according to plan. It also said expansion in Nashik (India) and a new distribution centre in Örebro (Sweden) are progressing well.",
+      "compared_to_before": "The Langley closure was announced in May 2025 (about 65 employees affected, ~SEK 70m restructuring cost, consolidation to be completed by Q1 2027). The 2025 annual report mentioned the consolidation of several Stanley Infrastructure sites. In-window items affecting comparability came only from incentive-programme provisions, and no new restructuring charges were announced.",
+      "why_it_matters": "Tools & Attachments margins have improved (13.2% in Q3). The consolidation should add further efficiency, and capacity is now in place in case attachments demand recovers. However, the Q3 outlook keeps infrastructure demand only 'stable'.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-inaugurates-expanded-manufacturing-facility-for-hydraulic-attachments-in-sweden,c4393381",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc inaugurates expanded manufacturing facility for hydraulic attachments in Sweden",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-interim-report-q3-2026,c4416462",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc interim report Q3 2026",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-to-consolidate-north-american-drilling-tools-manufacturing,c4153074",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc to consolidate North American drilling tools manufacturing (21 May 2025)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F09",
+      "area": "Hiring, talent signals & leadership changes",
+      "date": "2026-07-02",
+      "title": "Group Management expanded from six to seven; long-serving HR/Comms SVP retires",
+      "what_happened": "Nadim Penser, SVP Brand & Communications and Human Resources, is retiring after almost 35 years in the Group, and his role is split in two. Katarina Nilsson becomes SVP People & Leadership from 1 September 2026; she is promoted internally from the Underground division and is ex-General Counsel at Northvolt and SCA. Ulrika Areskog Lilja, ex-Head of Brand, Marketing and Communications at SEB, becomes SVP Brand & Communications from 2 November 2026. Group Management grows from six to seven members.",
+      "compared_to_before": "In August 2025, Epiroc cut Group Management from 13 to 6 positions when it introduced the two Business Areas. Adding a seventh seat for People & Leadership slightly reverses that slimming, and gives HR/talent its own seat at Group Management level. The CEO (Helena Hedblom, since 2020) and CFO (Håkan Folin) are unchanged.",
+      "why_it_matters": "This suggests talent and leadership are now treated as a separate executive priority while headcount grows (see the headcount finding). It also brings an external brand leader from financial services. Low market impact.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-announces-changes-to-group-management,c4370218",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc announces changes to Group Management",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-announces-changes-to-group-management-and-implements-business-areas,c4215037",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc announces changes to Group Management and implements Business Areas (6 Aug 2025)",
+          "type": "official",
+          "access": "headline_only"
+        }
+      ]
+    },
+    {
+      "id": "F10",
+      "area": "Hiring, talent signals & leadership changes",
+      "date": "2026-10-28",
+      "title": "Headcount and external workforce rising with production ramp-up; share of women managers dips",
+      "what_happened": "At the end of Q3, Epiroc had 19,902 employees (19,067 a year earlier, +4.4%), mainly in production and service. The external workforce rose to 1,988 (1,568, +27%). The share of women employees rose to 20.7% (20.3), while the share of women managers fell to 24.2% (24.9). TRIFR was 4.0 (4.1).",
+      "compared_to_before": "Headcount was roughly flat from Q3 2025 to Q1 2026 (19,067; 19,055 at end-2025; 19,086 at end-Q1 2026), then rose to 19,398 in Q2 and 19,902 in Q3. Much of the growth uses flexible external staff.",
+      "why_it_matters": "Relying on contractors keeps the cost base flexible if the cycle turns. The dip in women managers is a People KPI moving the wrong way, and a disclosure peers and ESG raters can compare.",
+      "materiality": "acceleration",
+      "sources": [
+        {
+          "url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–September 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4375716/4197580.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–June 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4341697/4066139.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–March 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F11",
+      "area": "Product launches & portfolio changes",
+      "date": "2026-09-03",
+      "title": "Deep Automation extended from underground to surface haulage using 3D LiDAR",
+      "what_happened": "Epiroc extended its Deep Automation system so autonomous underground mine trucks can continue onto surface haul roads. The system uses 3D LiDAR for localisation, mapping and obstacle detection, enabling end-to-end autonomous hauling and dumping cycles. It was demonstrated live at Epiroc World Expo in June 2026 and announced to trade media in early September. In the Q3 report, Epiroc cited roughly 10–30% productivity gains for autonomous haulage systems compared with conventional operations.",
+      "compared_to_before": "This builds on 3D ramp visualisation and the MT65 S automation rollout. It complements LinkOA, the OEM-agnostic surface autonomy platform. At end-2025, Epiroc had about 3,900 machines running with its automation (+13%).",
+      "why_it_matters": "Epiroc moves into the underground-to-surface handover, where trade press notes that Sandvik offers AutoMine for Trucks with dedicated handover technology. A single automation layer across both environments supports Epiroc's claim to be the largest enabler of autonomous mining machines.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–September 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://im-mining.com/2026/09/03/epirocs-enables-underground-mining-truck-surface-operation-with-3d-lidar-technology/",
+          "publisher": "International Mining",
+          "title": "Epiroc enables underground mining truck surface operation with 3D LiDAR technology",
+          "type": "media",
+          "access": "headline_only"
+        },
+        {
+          "url": "https://www.epiroc.com/en/newsroom/2026/epiroc-deep-automation-introduces-seamless-underground-to-surface-truck-automation-with-3d-lidar-technology",
+          "publisher": "Epiroc",
+          "title": "Epiroc's Deep Automation introduces seamless underground-to-surface truck automation with 3D LiDAR technology",
+          "type": "official",
+          "access": "headline_only"
+        },
+        {
+          "url": "https://constructionequipmentmag.com/news/114377-epiroc-advances-autonomous-mining-with-seamless-underground-to-surface-truck-operations",
+          "publisher": "Construction Equipment International",
+          "title": "Epiroc Advances Autonomous Mining with Seamless Underground-to-Surface Truck Operations",
+          "type": "media",
+          "access": "headline_only"
+        },
+        {
+          "url": "https://reports.epirocgroup.com/annual-and-sustainability-report-2025/the-business/ceo-comments/",
+          "publisher": "Epiroc",
+          "title": "Annual and Sustainability Report 2025 — CEO comments",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F12",
+      "area": "Product launches & portfolio changes",
+      "date": "2026-06-04",
+      "title": "LinkOA autonomy extended to aggregates: Heidelberg Materials proof-of-concept in Australia",
+      "what_happened": "Heidelberg Materials ordered a proof-of-concept deployment of LinkOA, Epiroc's OEM-agnostic autonomy platform. It will automate Komatsu HD605 haul trucks working with loaders and auxiliary vehicles in mixed fleet at a Western Australian quarry. The order value was not disclosed. Heidelberg aims for about 30 autonomous vehicles in 2026 and more than 100 by end-2028.",
+      "compared_to_before": "Until now, LinkOA was proven in large mining, notably at Roy Hill, where 78 trucks were automated and the mine became the world's largest OEM-agnostic fully autonomous mine. This is the first extension of LinkOA autonomous haulage to the aggregates sector. It follows the autonomous SmartROC D65 deployment at Luck Stone in 2025.",
+      "why_it_matters": "This opens a new, larger customer base (quarries) for retrofit autonomy on competitors' trucks, here Komatsu's. Building automation revenue on rivals' installed base is a strategic edge, and OEMs may respond.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-wins-order-for-linkoa--extending-its-autonomous-haulage-system-to-aggregates-sector,c4357405",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc wins order for LinkOA, extending its autonomous haulage system to aggregates sector",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://reports.epirocgroup.com/annual-and-sustainability-report-2025/the-business/ceo-comments/",
+          "publisher": "Epiroc",
+          "title": "Annual and Sustainability Report 2025 — CEO comments",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F13",
+      "area": "Sustainability & ESG disclosures",
+      "date": "2026-10-28",
+      "title": "Transport CO2e up 17% while operational emissions fall 14% — tension with 2030 halving goal",
+      "what_happened": "Rolling 12-month CO2e from transport (comparable units) rose 17% to 135,440 tonnes (116,094). Epiroc attributes this to higher volumes, more air freight and new transport routes. Emissions from operations fell 14% to 43,822 tonnes (50,722), helped by renewable energy and efficiency measures. On 2 September, Epiroc received an EcoVadis Gold medal for the second year (top 2%), and it restated its SBTi-validated 1.5°C targets, including halving CO2e by 2030.",
+      "compared_to_before": "Rolling 12-month transport emissions were about 116,000 tonnes in Q3 and Q4 2025, then rose to 125,000 (Q1 2026), 126,600 (Q2) and 135,400 (Q3). This rising trend contradicts the 2030 halving ambition that Epiroc restated in the same period. Operational emissions continue to improve.",
+      "why_it_matters": "Transport emissions are now about three times operational emissions and are moving the wrong way, partly because of air freight used to support the production ramp-up. This gives critics and ESG raters a clear inconsistency to point at, and is a logistics cost signal as well.",
+      "materiality": "inconsistency",
+      "sources": [
+        {
+          "url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–September 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-s-sustainability-work-earns-gold-medal-again-from-ecovadis,c4390810",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc's sustainability work earns Gold Medal again from EcoVadis",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F14",
+      "area": "Capital market events & reporting calendar",
+      "date": "2026-10-16",
+      "title": "AGM 2027 set for 5 May; Investor AB chairs Nomination Committee; 2027 reporting dates published",
+      "what_happened": "The Nomination Committee for AGM 2027 is chaired by Sebastian Tham (Investor AB). Its other members are Swedbank Robur, Handelsbanken Fonder, Nordea Funds and Board Chair Ronnie Leten. Proposals are due by 5 February 2027. The AGM is on 5 May 2027. The Q3 report published the 2027 calendar: Q4 2026 on 26 January 2027, Q1 2027 on 28 April, Q2 2027 on 16 July and Q3 2027 on 26 October. The second SEK 1.90 instalment of the SEK 3.80 dividend had a record date of 19 October 2026 and was expected to be paid on 22 October.",
+      "compared_to_before": "The governance set-up is unchanged, with Investor AB as anchor owner. AGM 2026 (5 May) re-elected Ronnie Leten as Chair and added Eeva Sipilä and Andrew Walker to the Board. During the window, Epiroc also held its CMD (8 June) and published Q2 (17 July) and Q3 (28 October) on the announced dates.",
+      "why_it_matters": "These are the next checkpoints for the strategy team. The Q4 2026 report on 26 January 2027 will be the first test of the copper-pipeline and cash-conversion narrative. Board composition is a lever to watch before AGM 2027.",
+      "materiality": "new",
+      "sources": [
+        {
+          "url": "https://news.cision.com/epiroc/r/epiroc-ab-s-nomination-committee-for-the-annual-general-meeting-2027,c4409558",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Epiroc AB's Nomination Committee for the Annual General Meeting 2027",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
+          "publisher": "Epiroc",
+          "title": "Epiroc AB Interim Report January–September 2026 (PDF)",
+          "type": "official",
+          "access": "full"
+        },
+        {
+          "url": "https://news.cision.com/epiroc/r/report-from-epiroc-s-annual-general-meeting-2026,c4344484",
+          "publisher": "Epiroc (Cision newsroom)",
+          "title": "Report from Epiroc's Annual General Meeting 2026",
+          "type": "official",
+          "access": "full"
+        }
+      ]
+    },
+    {
+      "id": "F15",
+      "area": "Share price movements (with market/peer context)",
+      "date": "2026-07-17",
+      "title": "EPI A down ~8% over the window while OMXS30 rose ~8% — report days drove the underperformance",
+      "what_happened": "EPI A closed at SEK 247.00 on 9 November 2026, down 7.8% from SEK 267.90 on 8 May, the last close before the window. EPI B fell 10.1% (232.0 to 208.6). Over the same period, the OMX Stockholm 30 rose 7.7% (3,073.7 to 3,309.8), Sandvik fell 1.7% (369.0 to 362.9) and Atlas Copco A rose 4.0%. The window high was SEK 278.20 on 4 June and the low SEK 232.70 on 20 July. On the Q2 report day (17 July), EPI A fell 6.0% to 235.00 while OMXS30 was flat (-0.1%). Sandvik, reporting the same day, fell 9.3%. On the Q3 report day (28 October), EPI A fell 1.7% to 247.80 and OMXS30 rose 0.3%. Direkt reported that the stock dropped right after the Q3 release and then recovered part of the loss.",
+      "compared_to_before": "Before the window, the shares rallied after a strong Q1 (+7.0% on 29 April; about SEK 218 on 20 March). In the window that momentum reversed even though margins were the strongest in the recent series. Both report-day drops followed consensus misses on orders and EBIT (Infront).",
+      "why_it_matters": "Epiroc underperformed the Swedish large-cap index by about 15 percentage points and Sandvik by about 6. The market is pricing in concerns about the pace of growth and cash conversion, as well as high expectations. This matters for acquisition currency and for how investors see Epiroc versus its closest listed peer.",
+      "materiality": "reversal",
+      "sources": [
+        {
+          "url": "https://finance.yahoo.com/quote/EPI-A.ST/history/",
+          "publisher": "Yahoo Finance",
+          "title": "Epiroc AB ser. A (EPI-A.ST) historical prices",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://finance.yahoo.com/quote/%5EOMX/history/",
+          "publisher": "Yahoo Finance",
+          "title": "OMX Stockholm 30 Index (^OMX) historical prices",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://finance.yahoo.com/quote/SAND.ST/history/",
+          "publisher": "Yahoo Finance",
+          "title": "Sandvik AB (SAND.ST) historical prices",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://finance.yahoo.com/quote/ATCO-A.ST/history/",
+          "publisher": "Yahoo Finance",
+          "title": "Atlas Copco AB ser. A (ATCO-A.ST) historical prices",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://mfn.se/all/a/epiroc",
+          "publisher": "MFN.se",
+          "title": "Epiroc — press releases with share price on release day",
+          "type": "market_data",
+          "access": "full"
+        },
+        {
+          "url": "https://www.privataaffarer.se/artikel/rapportnedgang-i-epiroc/",
+          "publisher": "Privata Affärer (Nyhetsbyrån Direkt)",
+          "title": "Rapportnedgång i Epiroc",
+          "type": "media",
+          "access": "full"
+        },
+        {
+          "url": "https://www.privataaffarer.se/artikel/epiroc-backar-pa-rapport-bommar-forvantningarna/",
+          "publisher": "Privata Affärer (Nyhetsbyrån Direkt)",
+          "title": "Epiroc backar på rapport – bommar förväntningarna",
+          "type": "media",
+          "access": "full"
+        }
+      ]
+    }
+  ]
+}

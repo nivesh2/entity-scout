@@ -1,0 +1,63 @@
+{
+  "updated": "2026-11-10",
+  "entities": [
+    {
+      "slug": "epiroc",
+      "name": "Epiroc",
+      "type": "own_company",
+      "latest": {
+        "generated": "2026-11-10",
+        "mode": "baseline",
+        "window_start": "2026-05-10",
+        "window_end": "2026-11-10",
+        "findings": 15,
+        "top": 5,
+        "json": "data/epiroc/latest.json",
+        "brief": "data/epiroc/latest.md"
+      },
+      "history": [
+        {
+          "generated": "2026-11-10",
+          "mode": "baseline",
+          "json": "data/epiroc/2026-11-10.json",
+          "brief": "data/epiroc/2026-11-10.md"
+        }
+      ]
+    },
+    {
+      "slug": "sandvik",
+      "name": "Sandvik",
+      "type": "competitor",
+      "latest": null,
+      "history": []
+    },
+    {
+      "slug": "caterpillar",
+      "name": "Caterpillar",
+      "type": "competitor",
+      "latest": null,
+      "history": []
+    },
+    {
+      "slug": "komatsu",
+      "name": "Komatsu",
+      "type": "competitor",
+      "latest": null,
+      "history": []
+    },
+    {
+      "slug": "boart-longyear",
+      "name": "Boart Longyear",
+      "type": "competitor",
+      "latest": null,
+      "history": []
+    },
+    {
+      "slug": "normet",
+      "name": "Normet",
+      "type": "competitor",
+      "latest": null,
+      "history": []
+    }
+  ]
+}
