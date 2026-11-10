@@ -74,8 +74,24 @@
       "slug": "komatsu",
       "name": "Komatsu",
       "type": "competitor",
-      "latest": null,
-      "history": []
+      "latest": {
+        "generated": "2026-11-10",
+        "mode": "baseline",
+        "window_start": "2026-05-10",
+        "window_end": "2026-11-10",
+        "findings": 14,
+        "top": 5,
+        "json": "data/komatsu/latest.json",
+        "brief": "data/komatsu/latest.md"
+      },
+      "history": [
+        {
+          "generated": "2026-11-10",
+          "mode": "baseline",
+          "json": "data/komatsu/2026-11-10.json",
+          "brief": "data/komatsu/2026-11-10.md"
+        }
+      ]
     },
     {
       "slug": "boart-longyear",
