@@ -775,6 +775,803 @@
           "Adjusted EBITA rose to SEK 4,259 million, a 21.8% (20.1) margin, driven by 31% organic operating leverage despite a 40 bp margin dilution from currency."
         ]
       }
+    },
+    {
+      "slug": "caterpillar",
+      "name": "Caterpillar",
+      "segment": "Resource Industries",
+      "reporting_currency": "USD",
+      "profit_metric": "Segment Profit",
+      "fiscal_year_note": null,
+      "latest_quarter": "2026Q3",
+      "next_report_date": null,
+      "notes": [
+        "Profit metric: Caterpillar reports no EBITA, adjusted EBITA, adjusted EBIT or EBIT at segment level; Resource Industries 'Segment Profit' is the highest metric in the priority list that is available, so it is used for every quarter. It is the company's segment measure: restructuring costs, corporate costs, timing and methodology differences are excluded and sit in the reconciliation to consolidated profit.",
+        "Revenue = Resource Industries 'Total Sales' including inter-segment sales; Caterpillar's printed 'Segment Profit Margin' is computed on this figure.",
+        "Restatement (recast, used): Form 8-K of 2026-03-26 (Ex. 99.1) recast 2024Q1–2025Q4 Resource Industries sales and segment profit for the Rail division move from Power & Energy into Resource Industries (effective 2026-01-01) and for responsibility transfers first disclosed in the Q3 2025 10-Q: wear and maintenance components moved in from the All Other Segment, while electronics/control systems and autonomy/automation R&D moved out to the All Other Segment. 2024Q1–2024Q4 and 2025Q4 come from that 8-K, which prints no margin, so reported_margin_pct is null. 2025Q1–Q3 come from the recast prior-year columns of the 2026 earnings releases, which are identical to the 8-K and do print margins.",
+        "Structural break: Caterpillar has published no Rail recast for 2021–2023, so 2021Q1–2023Q4 are on the pre-2026 segment basis (excluding Rail, before the 2025 responsibility transfers) and are not like-for-like with 2024Q1 onward. On the recast basis, 2024Q1 sales are 4,015 versus 3,193 originally reported.",
+        "Restatement (recast, used): 2021 segment information was recast in 2022 for a methodology change in how intersegment sales and segment profit from technology products are assigned (Q1 2022 Form 10-Q, note 16). 2021 quarters therefore use the prior-year columns of the 2022 earnings releases (e.g. 2021Q1 2,178 / 312 versus 2,216 / 328 originally). 2022 and 2023 quarters use the prior-year columns of the 2023 and 2024 releases, which equal the original figures.",
+        "All quarters are single calendar quarters as printed; no YTD derivation was needed. Nothing is derived (profit_derived=false throughout).",
+        "Next report date: Caterpillar has said Q4 2026 results and the 2027 outlook come in January 2027, but had not announced an exact date as of 2026-11-10, so next_report_date is null.",
+        "FX: Riksbank quarterly average SEK per 1 USD (series SEKUSDPMI)."
+      ],
+      "quarters": [
+        {
+          "quarter": "2021Q1",
+          "period_end": "2021-03-31",
+          "revenue": 2178.0,
+          "profit": 312.0,
+          "profit_derived": false,
+          "reported_margin_pct": 14.3,
+          "fx_rate_to_sek": 8.3995,
+          "revenue_msek": 18294.1,
+          "profit_msek": 2620.6,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823022000107/ex991toformcat1q2022earnin.htm",
+            "title": "Caterpillar 1Q 2022 earnings release (Form 8-K Ex. 99.1, filed 2022-04-28)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $2,178m; 'Segment Profit' = $312m; 'Segment Profit Margin' = 14.3% — First Quarter 2021 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2021Q2",
+          "period_end": "2021-06-30",
+          "revenue": 2547.0,
+          "profit": 349.0,
+          "profit_derived": false,
+          "reported_margin_pct": 13.7,
+          "fx_rate_to_sek": 8.40829,
+          "revenue_msek": 21415.9,
+          "profit_msek": 2934.5,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823022000178/ex991toformcat2q2022earnin.htm",
+            "title": "Caterpillar 2Q 2022 earnings release (Form 8-K Ex. 99.1, filed 2022-08-02)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $2,547m; 'Segment Profit' = $349m; 'Segment Profit Margin' = 13.7% — Second Quarter 2021 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2021Q3",
+          "period_end": "2021-09-30",
+          "revenue": 2366.0,
+          "profit": 280.0,
+          "profit_derived": false,
+          "reported_margin_pct": 11.8,
+          "fx_rate_to_sek": 8.64811,
+          "revenue_msek": 20461.4,
+          "profit_msek": 2421.5,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823022000216/ex991toformcat3q2022earnin.htm",
+            "title": "Caterpillar 3Q 2022 earnings release (Form 8-K Ex. 99.1, filed 2022-10-27)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $2,366m; 'Segment Profit' = $280m; 'Segment Profit Margin' = 11.8% — Third Quarter 2021 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2021Q4",
+          "period_end": "2021-12-31",
+          "revenue": 2719.0,
+          "profit": 288.0,
+          "profit_derived": false,
+          "reported_margin_pct": 10.6,
+          "fx_rate_to_sek": 8.85426,
+          "revenue_msek": 24074.7,
+          "profit_msek": 2550.0,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823023000005/cat_exx991x4qx2022xearning.htm",
+            "title": "Caterpillar 4Q 2022 earnings release (Form 8-K Ex. 99.1, filed 2023-01-31)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $2,719m; 'Segment Profit' = $288m; 'Segment Profit Margin' = 10.6% — Fourth Quarter 2021 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2022Q1",
+          "period_end": "2022-03-31",
+          "revenue": 2830.0,
+          "profit": 361.0,
+          "profit_derived": false,
+          "reported_margin_pct": 12.8,
+          "fx_rate_to_sek": 9.34496,
+          "revenue_msek": 26446.2,
+          "profit_msek": 3373.5,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823023000017/ex991toformcat1q2023earnin.htm",
+            "title": "Caterpillar 1Q 2023 earnings release (Form 8-K Ex. 99.1, filed 2023-04-27)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $2,830m; 'Segment Profit' = $361m; 'Segment Profit Margin' = 12.8% — First Quarter 2022 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2022Q2",
+          "period_end": "2022-06-30",
+          "revenue": 2961.0,
+          "profit": 355.0,
+          "profit_derived": false,
+          "reported_margin_pct": 12.0,
+          "fx_rate_to_sek": 9.83824,
+          "revenue_msek": 29131.0,
+          "profit_msek": 3492.6,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823023000044/ex991toformcat2q2023earnin.htm",
+            "title": "Caterpillar 2Q 2023 earnings release (Form 8-K Ex. 99.1, filed 2023-08-01)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $2,961m; 'Segment Profit' = $355m; 'Segment Profit Margin' = 12.0% — Second Quarter 2022 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2022Q3",
+          "period_end": "2022-09-30",
+          "revenue": 3087.0,
+          "profit": 506.0,
+          "profit_derived": false,
+          "reported_margin_pct": 16.4,
+          "fx_rate_to_sek": 10.54695,
+          "revenue_msek": 32558.4,
+          "profit_msek": 5336.8,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823023000054/ex991toformcat3q2023earnin.htm",
+            "title": "Caterpillar 3Q 2023 earnings release (Form 8-K Ex. 99.1, filed 2023-10-31)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $3,087m; 'Segment Profit' = $506m; 'Segment Profit Margin' = 16.4% — Third Quarter 2022 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2022Q4",
+          "period_end": "2022-12-31",
+          "revenue": 3436.0,
+          "profit": 605.0,
+          "profit_derived": false,
+          "reported_margin_pct": 17.6,
+          "fx_rate_to_sek": 10.7245,
+          "revenue_msek": 36849.4,
+          "profit_msek": 6488.3,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823024000005/cat_exx991x4qx2023xearning.htm",
+            "title": "Caterpillar 4Q 2023 earnings release (Form 8-K Ex. 99.1, filed 2024-02-05)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $3,436m; 'Segment Profit' = $605m; 'Segment Profit Margin' = 17.6% — Fourth Quarter 2022 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2023Q1",
+          "period_end": "2023-03-31",
+          "revenue": 3427.0,
+          "profit": 764.0,
+          "profit_derived": false,
+          "reported_margin_pct": 22.3,
+          "fx_rate_to_sek": 10.42795,
+          "revenue_msek": 35736.6,
+          "profit_msek": 7967.0,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823024000016/ex991toformcat1q2024earnin.htm",
+            "title": "Caterpillar 1Q 2024 earnings release (Form 8-K Ex. 99.1, filed 2024-04-25)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $3,427m; 'Segment Profit' = $764m; 'Segment Profit Margin' = 22.3% — First Quarter 2023 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2023Q2",
+          "period_end": "2023-06-30",
+          "revenue": 3563.0,
+          "profit": 740.0,
+          "profit_derived": false,
+          "reported_margin_pct": 20.8,
+          "fx_rate_to_sek": 10.51936,
+          "revenue_msek": 37480.5,
+          "profit_msek": 7784.3,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823024000042/ex991toformcat2q2024earnin.htm",
+            "title": "Caterpillar 2Q 2024 earnings release (Form 8-K Ex. 99.1, filed 2024-08-06)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $3,563m; 'Segment Profit' = $740m; 'Segment Profit Margin' = 20.8% — Second Quarter 2023 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2023Q3",
+          "period_end": "2023-09-30",
+          "revenue": 3351.0,
+          "profit": 730.0,
+          "profit_derived": false,
+          "reported_margin_pct": 21.8,
+          "fx_rate_to_sek": 10.80982,
+          "revenue_msek": 36223.7,
+          "profit_msek": 7891.2,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823024000050/ex991toformcat3q2024earnin.htm",
+            "title": "Caterpillar 3Q 2024 earnings release (Form 8-K Ex. 99.1, filed 2024-10-30)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $3,351m; 'Segment Profit' = $730m; 'Segment Profit Margin' = 21.8% — Third Quarter 2023 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2023Q4",
+          "period_end": "2023-12-31",
+          "revenue": 3242.0,
+          "profit": 600.0,
+          "profit_derived": false,
+          "reported_margin_pct": 18.5,
+          "fx_rate_to_sek": 10.68496,
+          "revenue_msek": 34640.6,
+          "profit_msek": 6411.0,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823025000004/cat_exx991x4qx2024xearning.htm",
+            "title": "Caterpillar 4Q 2024 earnings release (Form 8-K Ex. 99.1, filed 2025-01-30)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $3,242m; 'Segment Profit' = $600m; 'Segment Profit Margin' = 18.5% — Fourth Quarter 2023 (prior-year comparative column (latest published/recast figure))"
+          }
+        },
+        {
+          "quarter": "2024Q1",
+          "period_end": "2024-03-31",
+          "revenue": 4015.0,
+          "profit": 752.0,
+          "profit_derived": false,
+          "reported_margin_pct": null,
+          "fx_rate_to_sek": 10.38855,
+          "revenue_msek": 41710.0,
+          "profit_msek": 7812.2,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000013/cat-20260326_d2.htm",
+            "title": "Caterpillar Form 8-K 2026-03-26, Ex. 99.1 'Unaudited Historical Financial Information' (segment recast for Rail realignment)",
+            "locator": "Ex. 99.1 segment tables (recast): 'Sales and Revenues by Geographic Region', Three months ended March 31, 2024, Resource Industries 'Total Sales and Revenues' = 4,015; 'Segment Profit' table, Three months ended March 31, 2024, Resource Industries column Segment Profit = 752. No margin printed."
+          }
+        },
+        {
+          "quarter": "2024Q2",
+          "period_end": "2024-06-30",
+          "revenue": 4030.0,
+          "profit": 763.0,
+          "profit_derived": false,
+          "reported_margin_pct": null,
+          "fx_rate_to_sek": 10.68809,
+          "revenue_msek": 43073.0,
+          "profit_msek": 8155.0,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000013/cat-20260326_d2.htm",
+            "title": "Caterpillar Form 8-K 2026-03-26, Ex. 99.1 'Unaudited Historical Financial Information' (segment recast for Rail realignment)",
+            "locator": "Ex. 99.1 segment tables (recast): 'Sales and Revenues by Geographic Region', Three months ended June 30, 2024, Resource Industries 'Total Sales and Revenues' = 4,030; 'Segment Profit' table, Three months ended June 30, 2024, Resource Industries column Segment Profit = 763. No margin printed."
+          }
+        },
+        {
+          "quarter": "2024Q3",
+          "period_end": "2024-09-30",
+          "revenue": 3828.0,
+          "profit": 653.0,
+          "profit_derived": false,
+          "reported_margin_pct": null,
+          "fx_rate_to_sek": 10.42818,
+          "revenue_msek": 39919.1,
+          "profit_msek": 6809.6,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000013/cat-20260326_d2.htm",
+            "title": "Caterpillar Form 8-K 2026-03-26, Ex. 99.1 'Unaudited Historical Financial Information' (segment recast for Rail realignment)",
+            "locator": "Ex. 99.1 segment tables (recast): 'Sales and Revenues by Geographic Region', Three months ended September 30, 2024, Resource Industries 'Total Sales and Revenues' = 3,828; 'Segment Profit' table, Three months ended September 30, 2024, Resource Industries column Segment Profit = 653. No margin printed."
+          }
+        },
+        {
+          "quarter": "2024Q4",
+          "period_end": "2024-12-31",
+          "revenue": 3872.0,
+          "profit": 508.0,
+          "profit_derived": false,
+          "reported_margin_pct": null,
+          "fx_rate_to_sek": 10.75613,
+          "revenue_msek": 41647.7,
+          "profit_msek": 5464.1,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000013/cat-20260326_d2.htm",
+            "title": "Caterpillar Form 8-K 2026-03-26, Ex. 99.1 'Unaudited Historical Financial Information' (segment recast for Rail realignment)",
+            "locator": "Ex. 99.1 segment tables (recast): 'Sales and Revenues by Geographic Region', Three months ended December 31, 2024, Resource Industries 'Total Sales and Revenues' = 3,872; 'Segment Profit' table, Three months ended December 31, 2024, Resource Industries column Segment Profit = 508. No margin printed."
+          }
+        },
+        {
+          "quarter": "2025Q1",
+          "period_end": "2025-03-31",
+          "revenue": 3661.0,
+          "profit": 623.0,
+          "profit_derived": false,
+          "reported_margin_pct": 17.0,
+          "fx_rate_to_sek": 10.67982,
+          "revenue_msek": 39098.8,
+          "profit_msek": 6653.5,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000017/ex991toformcat1q2026earnin.htm",
+            "title": "Caterpillar 1Q 2026 earnings release (Form 8-K Ex. 99.1, filed 2026-04-30)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $3,661m; 'Segment Profit' = $623m; 'Segment Profit Margin' = 17.0% — First Quarter 2025 (current-quarter column)"
+          }
+        },
+        {
+          "quarter": "2025Q2",
+          "period_end": "2025-06-30",
+          "revenue": 3886.0,
+          "profit": 563.0,
+          "profit_derived": false,
+          "reported_margin_pct": 14.5,
+          "fx_rate_to_sek": 9.66559,
+          "revenue_msek": 37560.5,
+          "profit_msek": 5441.7,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000040/ex991toformcat2q2026earnin.htm",
+            "title": "Caterpillar 2Q 2026 earnings release (Form 8-K Ex. 99.1, filed 2026-08-04)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $3,886m; 'Segment Profit' = $563m; 'Segment Profit Margin' = 14.5% — Second Quarter 2025 (current-quarter column)"
+          }
+        },
+        {
+          "quarter": "2025Q3",
+          "period_end": "2025-09-30",
+          "revenue": 3999.0,
+          "profit": 544.0,
+          "profit_derived": false,
+          "reported_margin_pct": 13.6,
+          "fx_rate_to_sek": 9.52099,
+          "revenue_msek": 38074.4,
+          "profit_msek": 5179.4,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000052/ex991toformcat3q2026earnin.htm",
+            "title": "Caterpillar 3Q 2026 earnings release (Form 8-K Ex. 99.1, filed 2026-10-29)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $3,999m; 'Segment Profit' = $544m; 'Segment Profit Margin' = 13.6% — Third Quarter 2025 (current-quarter column)"
+          }
+        },
+        {
+          "quarter": "2025Q4",
+          "period_end": "2025-12-31",
+          "revenue": 4374.0,
+          "profit": 421.0,
+          "profit_derived": false,
+          "reported_margin_pct": null,
+          "fx_rate_to_sek": 9.42179,
+          "revenue_msek": 41210.9,
+          "profit_msek": 3966.6,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000013/cat-20260326_d2.htm",
+            "title": "Caterpillar Form 8-K 2026-03-26, Ex. 99.1 'Unaudited Historical Financial Information' (segment recast for Rail realignment)",
+            "locator": "Ex. 99.1 segment tables (recast): 'Sales and Revenues by Geographic Region', Three months ended December 31, 2025, Resource Industries 'Total Sales and Revenues' = 4,374; 'Segment Profit' table, Three months ended December 31, 2025, Resource Industries column Segment Profit = 421. No margin printed."
+          }
+        },
+        {
+          "quarter": "2026Q1",
+          "period_end": "2026-03-31",
+          "revenue": 3797.0,
+          "profit": 378.0,
+          "profit_derived": false,
+          "reported_margin_pct": 10.0,
+          "fx_rate_to_sek": 9.13974,
+          "revenue_msek": 34703.6,
+          "profit_msek": 3454.8,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000017/ex991toformcat1q2026earnin.htm",
+            "title": "Caterpillar 1Q 2026 earnings release (Form 8-K Ex. 99.1, filed 2026-04-30)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $3,797m; 'Segment Profit' = $378m; 'Segment Profit Margin' = 10.0% — First Quarter 2026 (current-quarter column)"
+          }
+        },
+        {
+          "quarter": "2026Q2",
+          "period_end": "2026-06-30",
+          "revenue": 4648.0,
+          "profit": 693.0,
+          "profit_derived": false,
+          "reported_margin_pct": 14.9,
+          "fx_rate_to_sek": 9.35986,
+          "revenue_msek": 43504.6,
+          "profit_msek": 6486.4,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000040/ex991toformcat2q2026earnin.htm",
+            "title": "Caterpillar 2Q 2026 earnings release (Form 8-K Ex. 99.1, filed 2026-08-04)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $4,648m; 'Segment Profit' = $693m; 'Segment Profit Margin' = 14.9% — Second Quarter 2026 (current-quarter column)"
+          }
+        },
+        {
+          "quarter": "2026Q3",
+          "period_end": "2026-09-30",
+          "revenue": 4615.0,
+          "profit": 622.0,
+          "profit_derived": false,
+          "reported_margin_pct": 13.5,
+          "fx_rate_to_sek": 9.64939,
+          "revenue_msek": 44531.9,
+          "profit_msek": 6001.9,
+          "source": {
+            "url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000052/ex991toformcat3q2026earnin.htm",
+            "title": "Caterpillar 3Q 2026 earnings release (Form 8-K Ex. 99.1, filed 2026-10-29)",
+            "locator": "RESOURCE INDUSTRIES segment section: 'Total Sales' row = $4,615m; 'Segment Profit' = $622m; 'Segment Profit Margin' = 13.5% — Third Quarter 2026 (current-quarter column)"
+          }
+        }
+      ],
+      "comments": {
+        "quarter": "2026Q3",
+        "points": [
+          "Resource Industries total sales rose 15% to $4.615 billion in Q3 2026, driven mainly by $478 million of higher sales volume and $96 million of favorable price realization.",
+          "Segment profit rose 14% to $622 million, but the margin slipped to 13.5% from 13.6% as $208 million of unfavorable manufacturing costs, mainly higher material costs including tariffs, offset volume and price gains.",
+          "Caterpillar said Heavy Construction and Quarry & Aggregates sales rose mainly on changes in dealer inventories, while Rail sales fell on lower international locomotive deliveries."
+        ],
+        "source_url": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000052/ex991toformcat3q2026earnin.htm"
+      }
+    },
+    {
+      "slug": "komatsu",
+      "name": "Komatsu",
+      "segment": "Construction, Mining & Utility Equipment",
+      "reporting_currency": "JPY",
+      "profit_metric": "Segment profit",
+      "fiscal_year_note": "Komatsu's fiscal year starts 1 April (FY2026 = Apr 2026–Mar 2027). Fiscal quarters are mapped to the calendar quarter they end in: FY Q1 (Apr–Jun) = calendar Q2 of the same year, FY Q2 (Jul–Sep) = Q3, FY Q3 (Oct–Dec) = Q4, FY Q4 (Jan–Mar) = Q1 of the following calendar year. So 2021Q1 = FY2020 Q4 (labelled 'FY20/4Q' by Komatsu) and 2026Q3 = FY2026 Q2 ('FY26/2Q').",
+      "latest_quarter": "2026Q3",
+      "next_report_date": null,
+      "notes": [
+        "Profit metric: Komatsu reports no EBITA, EBIT or adjusted EBIT for its segments, so CMU 'Segment profit' is used for every quarter. It is net sales minus cost of sales and SG&A and excludes 'other operating income (expenses)'. The printed margin is 'Segment profit ratio'.",
+        "Revenue = CMU segment sales including inter-segment sales (the bracketed 'sales to outside customers' figures are not used); Komatsu's segment profit ratio is computed on this figure.",
+        "Values are in JPY millions, converted from Komatsu's printed JPY billions with 1 decimal (e.g. ¥594.2bn = 594,200).",
+        "No YTD derivation was needed: Komatsu prints single 3-month figures, both in its 3-month segment tables and in the appendix chart 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit'. Every quarter is taken from the latest deck whose chart covers it (FY2026 Q2 deck for FY23/1Q–FY26/2Q, FY2025 Q4 deck for FY22, FY2024 Q4 deck for FY21, FY2023 Q4 deck for FY20/4Q).",
+        "Restatement (minor, latest figures used): from the FY2022 decks onward, Komatsu shows slightly revised CMU figures for earlier quarters versus the originals. FY21 quarterly sales went from 594.3/591.0/660.1/718.8 to 594.3/591.0/660.2/718.9, FY21 segment profit from 53.6/64.9/73.2/83.8 to 53.7/65.0/73.3/83.9, and FY20/4Q sales from 594.1 to 594.2 (¥bn).",
+        "Next report date: Komatsu's IR calendar gives only 'Late Jan, 2027' for the FY2026 Q3 results (no exact day), so next_report_date is null.",
+        "FX: the Riksbank publishes the JPY rate as SEK per 100 JPY; fx_rate_to_sek is per 1 JPY (Riksbank SWEA series SEKJPYPMI quarterly average, equal to the per-100 quote / 100; e.g. 2026Q3 6.0598 SEK per 100 JPY = 0.060598 SEK per JPY)."
+      ],
+      "quarters": [
+        {
+          "quarter": "2021Q1",
+          "period_end": "2021-03-31",
+          "revenue": 594200.0,
+          "profit": 53800.0,
+          "profit_derived": false,
+          "reported_margin_pct": 9.1,
+          "fx_rate_to_sek": 0.079178,
+          "revenue_msek": 47047.6,
+          "profit_msek": 4259.8,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2023/en_fy23q4presentation.pdf",
+            "title": "Komatsu — Business Results for FY2023 (Apr 2023–Mar 2024) presentation",
+            "locator": "p.36 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY20/4Q (fiscal quarter): Quarterly Sales ¥594.2bn, Quarterly Segment Profit ¥53.8bn, Segment profit ratio 9.1%"
+          }
+        },
+        {
+          "quarter": "2021Q2",
+          "period_end": "2021-06-30",
+          "revenue": 594300.0,
+          "profit": 53700.0,
+          "profit_derived": false,
+          "reported_margin_pct": 9.0,
+          "fx_rate_to_sek": 0.076866,
+          "revenue_msek": 45681.5,
+          "profit_msek": 4127.7,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2024/en_fy24q4presentation.pdf",
+            "title": "Komatsu — Business Results for FY2024 (Apr 2024–Mar 2025) presentation",
+            "locator": "p.57 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY21/1Q (fiscal quarter): Quarterly Sales ¥594.3bn, Quarterly Segment Profit ¥53.7bn, Segment profit ratio 9.0%"
+          }
+        },
+        {
+          "quarter": "2021Q3",
+          "period_end": "2021-09-30",
+          "revenue": 591000.0,
+          "profit": 65000.0,
+          "profit_derived": false,
+          "reported_margin_pct": 11.0,
+          "fx_rate_to_sek": 0.078556,
+          "revenue_msek": 46426.6,
+          "profit_msek": 5106.1,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2024/en_fy24q4presentation.pdf",
+            "title": "Komatsu — Business Results for FY2024 (Apr 2024–Mar 2025) presentation",
+            "locator": "p.57 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY21/2Q (fiscal quarter): Quarterly Sales ¥591.0bn, Quarterly Segment Profit ¥65.0bn, Segment profit ratio 11.0%"
+          }
+        },
+        {
+          "quarter": "2021Q4",
+          "period_end": "2021-12-31",
+          "revenue": 660200.0,
+          "profit": 73300.0,
+          "profit_derived": false,
+          "reported_margin_pct": 11.1,
+          "fx_rate_to_sek": 0.077893,
+          "revenue_msek": 51425.0,
+          "profit_msek": 5709.6,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2024/en_fy24q4presentation.pdf",
+            "title": "Komatsu — Business Results for FY2024 (Apr 2024–Mar 2025) presentation",
+            "locator": "p.57 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY21/3Q (fiscal quarter): Quarterly Sales ¥660.2bn, Quarterly Segment Profit ¥73.3bn, Segment profit ratio 11.1%"
+          }
+        },
+        {
+          "quarter": "2022Q1",
+          "period_end": "2022-03-31",
+          "revenue": 718900.0,
+          "profit": 83900.0,
+          "profit_derived": false,
+          "reported_margin_pct": 11.7,
+          "fx_rate_to_sek": 0.080378,
+          "revenue_msek": 57783.7,
+          "profit_msek": 6743.7,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2024/en_fy24q4presentation.pdf",
+            "title": "Komatsu — Business Results for FY2024 (Apr 2024–Mar 2025) presentation",
+            "locator": "p.57 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY21/4Q (fiscal quarter): Quarterly Sales ¥718.9bn, Quarterly Segment Profit ¥83.9bn, Segment profit ratio 11.7%"
+          }
+        },
+        {
+          "quarter": "2022Q2",
+          "period_end": "2022-06-30",
+          "revenue": 715300.0,
+          "profit": 83300.0,
+          "profit_derived": false,
+          "reported_margin_pct": 11.6,
+          "fx_rate_to_sek": 0.075824,
+          "revenue_msek": 54236.9,
+          "profit_msek": 6316.1,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy254qpresentation.pdf",
+            "title": "Komatsu — Business Results for FY2025 (Apr 2025–Mar 2026) presentation",
+            "locator": "p.41 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY22/1Q (fiscal quarter): Quarterly Sales ¥715.3bn, Quarterly Segment Profit ¥83.3bn, Segment profit ratio 11.6%"
+          }
+        },
+        {
+          "quarter": "2022Q3",
+          "period_end": "2022-09-30",
+          "revenue": 790900.0,
+          "profit": 104200.0,
+          "profit_derived": false,
+          "reported_margin_pct": 13.2,
+          "fx_rate_to_sek": 0.076266,
+          "revenue_msek": 60318.8,
+          "profit_msek": 7946.9,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy254qpresentation.pdf",
+            "title": "Komatsu — Business Results for FY2025 (Apr 2025–Mar 2026) presentation",
+            "locator": "p.41 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY22/2Q (fiscal quarter): Quarterly Sales ¥790.9bn, Quarterly Segment Profit ¥104.2bn, Segment profit ratio 13.2%"
+          }
+        },
+        {
+          "quarter": "2022Q4",
+          "period_end": "2022-12-31",
+          "revenue": 863400.0,
+          "profit": 122000.0,
+          "profit_derived": false,
+          "reported_margin_pct": 14.1,
+          "fx_rate_to_sek": 0.075834,
+          "revenue_msek": 65475.1,
+          "profit_msek": 9251.7,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy254qpresentation.pdf",
+            "title": "Komatsu — Business Results for FY2025 (Apr 2025–Mar 2026) presentation",
+            "locator": "p.41 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY22/3Q (fiscal quarter): Quarterly Sales ¥863.4bn, Quarterly Segment Profit ¥122.0bn, Segment profit ratio 14.1%"
+          }
+        },
+        {
+          "quarter": "2023Q1",
+          "period_end": "2023-03-31",
+          "revenue": 926900.0,
+          "profit": 134100.0,
+          "profit_derived": false,
+          "reported_margin_pct": 14.5,
+          "fx_rate_to_sek": 0.078832,
+          "revenue_msek": 73069.4,
+          "profit_msek": 10571.4,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2025/en_fy254qpresentation.pdf",
+            "title": "Komatsu — Business Results for FY2025 (Apr 2025–Mar 2026) presentation",
+            "locator": "p.41 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY22/4Q (fiscal quarter): Quarterly Sales ¥926.9bn, Quarterly Segment Profit ¥134.1bn, Segment profit ratio 14.5%"
+          }
+        },
+        {
+          "quarter": "2023Q2",
+          "period_end": "2023-06-30",
+          "revenue": 846900.0,
+          "profit": 138400.0,
+          "profit_derived": false,
+          "reported_margin_pct": 16.3,
+          "fx_rate_to_sek": 0.076607,
+          "revenue_msek": 64878.5,
+          "profit_msek": 10602.4,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY23/1Q (fiscal quarter): Quarterly Sales ¥846.9bn, Quarterly Segment Profit ¥138.4bn, Segment profit ratio 16.3%"
+          }
+        },
+        {
+          "quarter": "2023Q3",
+          "period_end": "2023-09-30",
+          "revenue": 860700.0,
+          "profit": 142400.0,
+          "profit_derived": false,
+          "reported_margin_pct": 16.5,
+          "fx_rate_to_sek": 0.074815,
+          "revenue_msek": 64393.3,
+          "profit_msek": 10653.7,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY23/2Q (fiscal quarter): Quarterly Sales ¥860.7bn, Quarterly Segment Profit ¥142.4bn, Segment profit ratio 16.5%"
+          }
+        },
+        {
+          "quarter": "2023Q4",
+          "period_end": "2023-12-31",
+          "revenue": 918200.0,
+          "profit": 149100.0,
+          "profit_derived": false,
+          "reported_margin_pct": 16.2,
+          "fx_rate_to_sek": 0.072158,
+          "revenue_msek": 66255.5,
+          "profit_msek": 10758.8,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY23/3Q (fiscal quarter): Quarterly Sales ¥918.2bn, Quarterly Segment Profit ¥149.1bn, Segment profit ratio 16.2%"
+          }
+        },
+        {
+          "quarter": "2024Q1",
+          "period_end": "2024-03-31",
+          "revenue": 989400.0,
+          "profit": 144100.0,
+          "profit_derived": false,
+          "reported_margin_pct": 14.6,
+          "fx_rate_to_sek": 0.07,
+          "revenue_msek": 69258.0,
+          "profit_msek": 10087.0,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY23/4Q (fiscal quarter): Quarterly Sales ¥989.4bn, Quarterly Segment Profit ¥144.1bn, Segment profit ratio 14.6%"
+          }
+        },
+        {
+          "quarter": "2024Q2",
+          "period_end": "2024-06-30",
+          "revenue": 894300.0,
+          "profit": 142300.0,
+          "profit_derived": false,
+          "reported_margin_pct": 15.9,
+          "fx_rate_to_sek": 0.068637,
+          "revenue_msek": 61382.1,
+          "profit_msek": 9767.0,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY24/1Q (fiscal quarter): Quarterly Sales ¥894.3bn, Quarterly Segment Profit ¥142.3bn, Segment profit ratio 15.9%"
+          }
+        },
+        {
+          "quarter": "2024Q3",
+          "period_end": "2024-09-30",
+          "revenue": 935900.0,
+          "profit": 135700.0,
+          "profit_derived": false,
+          "reported_margin_pct": 14.5,
+          "fx_rate_to_sek": 0.069924,
+          "revenue_msek": 65441.9,
+          "profit_msek": 9488.7,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY24/2Q (fiscal quarter): Quarterly Sales ¥935.9bn, Quarterly Segment Profit ¥135.7bn, Segment profit ratio 14.5%"
+          }
+        },
+        {
+          "quarter": "2024Q4",
+          "period_end": "2024-12-31",
+          "revenue": 918200.0,
+          "profit": 147000.0,
+          "profit_derived": false,
+          "reported_margin_pct": 16.0,
+          "fx_rate_to_sek": 0.070732,
+          "revenue_msek": 64946.1,
+          "profit_msek": 10397.6,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY24/3Q (fiscal quarter): Quarterly Sales ¥918.2bn, Quarterly Segment Profit ¥147.0bn, Segment profit ratio 16.0%"
+          }
+        },
+        {
+          "quarter": "2025Q1",
+          "period_end": "2025-03-31",
+          "revenue": 1049900.0,
+          "profit": 173900.0,
+          "profit_derived": false,
+          "reported_margin_pct": 16.6,
+          "fx_rate_to_sek": 0.070028,
+          "revenue_msek": 73522.4,
+          "profit_msek": 12177.9,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY24/4Q (fiscal quarter): Quarterly Sales ¥1,049.9bn, Quarterly Segment Profit ¥173.9bn, Segment profit ratio 16.6%"
+          }
+        },
+        {
+          "quarter": "2025Q2",
+          "period_end": "2025-06-30",
+          "revenue": 844900.0,
+          "profit": 122300.0,
+          "profit_derived": false,
+          "reported_margin_pct": 14.5,
+          "fx_rate_to_sek": 0.066905,
+          "revenue_msek": 56528.0,
+          "profit_msek": 8182.5,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY25/1Q (fiscal quarter): Quarterly Sales ¥844.9bn, Quarterly Segment Profit ¥122.3bn, Segment profit ratio 14.5%"
+          }
+        },
+        {
+          "quarter": "2025Q3",
+          "period_end": "2025-09-30",
+          "revenue": 897300.0,
+          "profit": 119700.0,
+          "profit_derived": false,
+          "reported_margin_pct": 13.3,
+          "fx_rate_to_sek": 0.064552,
+          "revenue_msek": 57922.5,
+          "profit_msek": 7726.9,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY25/2Q (fiscal quarter): Quarterly Sales ¥897.3bn, Quarterly Segment Profit ¥119.7bn, Segment profit ratio 13.3%; also printed as prior-year column in the 3-month table p.5 (897.3 / 119.7)"
+          }
+        },
+        {
+          "quarter": "2025Q4",
+          "period_end": "2025-12-31",
+          "revenue": 945800.0,
+          "profit": 120700.0,
+          "profit_derived": false,
+          "reported_margin_pct": 12.8,
+          "fx_rate_to_sek": 0.061206,
+          "revenue_msek": 57888.6,
+          "profit_msek": 7387.6,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY25/3Q (fiscal quarter): Quarterly Sales ¥945.8bn, Quarterly Segment Profit ¥120.7bn, Segment profit ratio 12.8%; also printed in FY25 Q3 deck 3-month table p.5 (945.8 / 120.7)"
+          }
+        },
+        {
+          "quarter": "2026Q1",
+          "period_end": "2026-03-31",
+          "revenue": 1118000.0,
+          "profit": 128500.0,
+          "profit_derived": false,
+          "reported_margin_pct": 11.5,
+          "fx_rate_to_sek": 0.058245,
+          "revenue_msek": 65117.9,
+          "profit_msek": 7484.5,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY25/4Q (fiscal quarter): Quarterly Sales ¥1,118.0bn, Quarterly Segment Profit ¥128.5bn, Segment profit ratio 11.5%; also printed in FY25 Q4 deck 3-month table p.36 (1,118.0 / 128.5)"
+          }
+        },
+        {
+          "quarter": "2026Q2",
+          "period_end": "2026-06-30",
+          "revenue": 966900.0,
+          "profit": 130100.0,
+          "profit_derived": false,
+          "reported_margin_pct": 13.5,
+          "fx_rate_to_sek": 0.058724,
+          "revenue_msek": 56780.2,
+          "profit_msek": 7640.0,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY26/1Q (fiscal quarter): Quarterly Sales ¥966.9bn, Quarterly Segment Profit ¥130.1bn, Segment profit ratio 13.5%; also printed in FY26 Q1 deck 3-month table p.5 (966.9 / 130.1)"
+          }
+        },
+        {
+          "quarter": "2026Q3",
+          "period_end": "2026-09-30",
+          "revenue": 1032600.0,
+          "profit": 114300.0,
+          "profit_derived": false,
+          "reported_margin_pct": 11.1,
+          "fx_rate_to_sek": 0.060598,
+          "revenue_msek": 62573.5,
+          "profit_msek": 6926.4,
+          "source": {
+            "url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf",
+            "title": "Komatsu — Business Results for the Six Months ended September 30, 2026 (FY2026 Q2) presentation",
+            "locator": "p.37 <Appendix> 'Construction, Mining & Utility Equipment: Quarterly Sales and Segment Profit' chart, bar FY26/2Q (fiscal quarter): Quarterly Sales ¥1,032.6bn, Quarterly Segment Profit ¥114.3bn, Segment profit ratio 11.1%; also printed in the 3-month table 'Segment Sales and Profits for the Second 3-Month Period (Jul.-Sep. 2026)' p.5"
+          }
+        }
+      ],
+      "comments": {
+        "quarter": "2026Q3",
+        "points": [
+          "CMU sales rose 15.1% year on year to ¥1,032.6 billion in Jul–Sep 2026 (FY2026 Q2) on a weaker yen, higher volume and better selling prices.",
+          "CMU segment profit fell 4.5% to ¥114.3 billion and the segment profit ratio dropped to 11.1% as rising costs outweighed the positive effects of the weaker yen, higher volume and better selling prices.",
+          "Komatsu raised its FY2026 mining-equipment demand projection to 0% to −5% (from −5% to −10% in July) after Q2 demand grew 5%, with copper and gold mining in Latin America and Africa solid while coal in Asia stayed weak."
+        ],
+        "source_url": "https://www.komatsu.jp/en/-/media/home/ir/library/results/2026/en_fy262qpresentation.pdf"
+      }
     }
   ]
 }
