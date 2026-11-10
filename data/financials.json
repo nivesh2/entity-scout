@@ -1,0 +1,756 @@
+{
+  "generated": "2026-11-10",
+  "currency": "MSEK",
+  "fx_source": {
+    "name": "Sveriges Riksbank — quarterly average exchange rates",
+    "url": "https://www.riksbank.se/en-gb/statistics/interest-rates-and-exchange-rates/search-interest-rates-and-exchange-rates/"
+  },
+  "companies": [
+    {
+      "slug": "epiroc",
+      "name": "Epiroc",
+      "segment": "Group",
+      "reporting_currency": "SEK",
+      "profit_metric": "Adjusted operating profit (Adj. operating profit, EBIT)",
+      "fiscal_year_note": null,
+      "latest_quarter": "2026Q3",
+      "next_report_date": "2027-01-26",
+      "notes": [
+        "Reports in SEK, calendar fiscal year; fx_rate_to_sek = 1.0 for all quarters.",
+        "Metric choice: Epiroc does not report adjusted EBITA. It reports EBITA only from the Q1 2024 interim report (with 2023 comparatives), so EBITA is not available for 2021Q1–2022Q4; the highest metric reported for every quarter from 2021Q1 is adjusted operating profit (operating profit/EBIT excluding items affecting comparability, incl. change in provision for share-based LTI programs).",
+        "2021Q1 and 2021Q2: no interim report prints the adjusted operating profit in MSEK for these quarters, so it is calculated as reported Operating profit + reported Items affecting comparability (Q4 2022 report p.21, IAC shown with reverse sign): 1,867+149=2,016 and 2,182+15=2,197. Both match the reported adjusted operating margins (23.0% and 22.6%). All other quarters use a printed adjusted operating profit figure.",
+        "No restatement of Group revenues or adjusted operating profit was found: comparatives in later reports match the original figures (checked 2021–2025). The September 2025 change to two business areas (Equipment & Service, Tools & Attachments) does not affect Group figures.",
+        "Epiroc's historical key-figures Excel on epirocgroup.com is blocked by a Cloudflare challenge (not bypassed), so the series comes from the interim report PDFs on Epiroc's official Cision newsroom (mb.cision.com/Main/16899/...)."
+      ],
+      "quarters": [
+        {
+          "quarter": "2021Q1",
+          "period_end": "2021-03-31",
+          "revenue": 8773.0,
+          "profit": 2016.0,
+          "reported_margin_pct": 23.0,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 8773.0,
+          "profit_msek": 2016.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
+            "title": "Epiroc AB Interim Report Q4 2022",
+            "locator": "p.21 'Condensed segments quarterly', Epiroc Group: Revenues 8,773; adjusted operating profit derived = Operating profit 1,867 + items affecting comparability 149 (table shows IAC with reverse sign); Adjusted operating margin 23.0%"
+          }
+        },
+        {
+          "quarter": "2021Q2",
+          "period_end": "2021-06-30",
+          "revenue": 9733.0,
+          "profit": 2197.0,
+          "reported_margin_pct": 22.6,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 9733.0,
+          "profit_msek": 2197.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
+            "title": "Epiroc AB Interim Report Q4 2022",
+            "locator": "p.21 'Condensed segments quarterly', Epiroc Group: Revenues 9,733; adjusted operating profit derived = Operating profit 2,182 + items affecting comparability 15 (table shows IAC with reverse sign); Adjusted operating margin 22.6%"
+          }
+        },
+        {
+          "quarter": "2021Q3",
+          "period_end": "2021-09-30",
+          "revenue": 9966.0,
+          "profit": 2331.0,
+          "reported_margin_pct": 23.4,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 9966.0,
+          "profit_msek": 2331.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/3655304/1643879.pdf",
+            "title": "Epiroc AB Interim Report Q3 2022",
+            "locator": "p.3 highlights: 'Adjusted operating profit increased 31% to MSEK 3 064 (2 331)' (comparative = Q3 2021); revenues 9 966 (comparative) in p.3 Financial overview; adjusted operating margin 23.4% per Q4 2022 report p.21"
+          }
+        },
+        {
+          "quarter": "2021Q4",
+          "period_end": "2021-12-31",
+          "revenue": 11173.0,
+          "profit": 2554.0,
+          "reported_margin_pct": 22.9,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 11173.0,
+          "profit_msek": 2554.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
+            "title": "Epiroc AB Interim Report Q4 2022",
+            "locator": "p.6 chart 'Adjusted operating profit and margin' (Adj. operating profit, MSEK, Q421–Q422) = 2,554; Revenues 11,173 and Adjusted operating margin 22.9% from p.21 'Condensed segments quarterly', Epiroc Group"
+          }
+        },
+        {
+          "quarter": "2022Q1",
+          "period_end": "2022-03-31",
+          "revenue": 11088.0,
+          "profit": 2588.0,
+          "reported_margin_pct": 23.3,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 11088.0,
+          "profit_msek": 2588.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
+            "title": "Epiroc AB Interim Report Q4 2022",
+            "locator": "p.6 chart 'Adjusted operating profit and margin' (Adj. operating profit, MSEK, Q421–Q422) = 2,588; Revenues 11,088 and Adjusted operating margin 23.3% from p.21 'Condensed segments quarterly', Epiroc Group"
+          }
+        },
+        {
+          "quarter": "2022Q2",
+          "period_end": "2022-06-30",
+          "revenue": 11868.0,
+          "profit": 2801.0,
+          "reported_margin_pct": 23.6,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 11868.0,
+          "profit_msek": 2801.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
+            "title": "Epiroc AB Interim Report Q4 2022",
+            "locator": "p.6 chart 'Adjusted operating profit and margin' (Adj. operating profit, MSEK, Q421–Q422) = 2,801; Revenues 11,868 and Adjusted operating margin 23.6% from p.21 'Condensed segments quarterly', Epiroc Group"
+          }
+        },
+        {
+          "quarter": "2022Q3",
+          "period_end": "2022-09-30",
+          "revenue": 12802.0,
+          "profit": 3064.0,
+          "reported_margin_pct": 23.9,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 12802.0,
+          "profit_msek": 3064.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
+            "title": "Epiroc AB Interim Report Q4 2022",
+            "locator": "p.6 chart 'Adjusted operating profit and margin' (Adj. operating profit, MSEK, Q421–Q422) = 3,064; Revenues 12,802 and Adjusted operating margin 23.9% from p.21 'Condensed segments quarterly', Epiroc Group"
+          }
+        },
+        {
+          "quarter": "2022Q4",
+          "period_end": "2022-12-31",
+          "revenue": 13936.0,
+          "profit": 3302.0,
+          "reported_margin_pct": 23.7,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 13936.0,
+          "profit_msek": 3302.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/3706199/1816410.pdf",
+            "title": "Epiroc AB Interim Report Q4 2022",
+            "locator": "p.6 chart 'Adjusted operating profit and margin' (Adj. operating profit, MSEK, Q421–Q422) = 3,302; Revenues 13,936 and Adjusted operating margin 23.7% from p.21 'Condensed segments quarterly', Epiroc Group"
+          }
+        },
+        {
+          "quarter": "2023Q1",
+          "period_end": "2023-03-31",
+          "revenue": 13868.0,
+          "profit": 3187.0,
+          "reported_margin_pct": 23.0,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 13868.0,
+          "profit_msek": 3187.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/3965639/2750652.pdf",
+            "title": "Epiroc AB Interim Report Q1 2024",
+            "locator": "p.5 Group table, comparative (prior-year) column: Revenues 13,868; Adj. operating profit, EBIT 3,187; Adj. operating margin, EBIT 23.0%"
+          }
+        },
+        {
+          "quarter": "2023Q2",
+          "period_end": "2023-06-30",
+          "revenue": 15910.0,
+          "profit": 3429.0,
+          "reported_margin_pct": 21.6,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15910.0,
+          "profit_msek": 3429.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4016896/2921992.pdf",
+            "title": "Epiroc AB Interim Report Q2 2024",
+            "locator": "p.5 Group table, comparative (prior-year) column: Revenues 15,910; Adj. operating profit, EBIT 3,429; Adj. operating margin, EBIT 21.6%"
+          }
+        },
+        {
+          "quarter": "2023Q3",
+          "period_end": "2023-09-30",
+          "revenue": 14997.0,
+          "profit": 3272.0,
+          "reported_margin_pct": 21.8,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 14997.0,
+          "profit_msek": 3272.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4056559/3074713.pdf",
+            "title": "Epiroc AB Interim Report Q3 2024",
+            "locator": "p.5 Group table, comparative (prior-year) column: Revenues 14,997; Adj. operating profit, EBIT 3,272; Adj. operating margin, EBIT 21.8%"
+          }
+        },
+        {
+          "quarter": "2023Q4",
+          "period_end": "2023-12-31",
+          "revenue": 15568.0,
+          "profit": 3229.0,
+          "reported_margin_pct": 20.7,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15568.0,
+          "profit_msek": 3229.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4098313/3236648.pdf",
+            "title": "Epiroc AB Interim Report Q4 2024",
+            "locator": "p.5 Group table, comparative (prior-year) column: Revenues 15,568; Adj. operating profit, EBIT 3,229; Adj. operating margin, EBIT 20.7%"
+          }
+        },
+        {
+          "quarter": "2024Q1",
+          "period_end": "2024-03-31",
+          "revenue": 14143.0,
+          "profit": 2887.0,
+          "reported_margin_pct": 20.4,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 14143.0,
+          "profit_msek": 2887.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/3965639/2750652.pdf",
+            "title": "Epiroc AB Interim Report Q1 2024",
+            "locator": "p.5 Group table, current-quarter column: Revenues 14,143; Adj. operating profit, EBIT 2,887; Adj. operating margin, EBIT 20.4%"
+          }
+        },
+        {
+          "quarter": "2024Q2",
+          "period_end": "2024-06-30",
+          "revenue": 16511.0,
+          "profit": 3246.0,
+          "reported_margin_pct": 19.7,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 16511.0,
+          "profit_msek": 3246.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4016896/2921992.pdf",
+            "title": "Epiroc AB Interim Report Q2 2024",
+            "locator": "p.5 Group table, current-quarter column: Revenues 16,511; Adj. operating profit, EBIT 3,246; Adj. operating margin, EBIT 19.7%"
+          }
+        },
+        {
+          "quarter": "2024Q3",
+          "period_end": "2024-09-30",
+          "revenue": 15699.0,
+          "profit": 3086.0,
+          "reported_margin_pct": 19.7,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15699.0,
+          "profit_msek": 3086.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4056559/3074713.pdf",
+            "title": "Epiroc AB Interim Report Q3 2024",
+            "locator": "p.5 Group table, current-quarter column: Revenues 15,699; Adj. operating profit, EBIT 3,086; Adj. operating margin, EBIT 19.7%"
+          }
+        },
+        {
+          "quarter": "2024Q4",
+          "period_end": "2024-12-31",
+          "revenue": 17251.0,
+          "profit": 3405.0,
+          "reported_margin_pct": 19.7,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 17251.0,
+          "profit_msek": 3405.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4098313/3236648.pdf",
+            "title": "Epiroc AB Interim Report Q4 2024",
+            "locator": "p.5 Group table, current-quarter column: Revenues 17,251; Adj. operating profit, EBIT 3,405; Adj. operating margin, EBIT 19.7%"
+          }
+        },
+        {
+          "quarter": "2025Q1",
+          "period_end": "2025-03-31",
+          "revenue": 15536.0,
+          "profit": 3099.0,
+          "reported_margin_pct": 19.9,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15536.0,
+          "profit_msek": 3099.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4141917/3416218.pdf",
+            "title": "Epiroc AB Interim Report Q1 2025",
+            "locator": "p.5 Group table, current-quarter column: Revenues 15,536; Adj. operating profit, EBIT 3,099; Adj. operating margin, EBIT 19.9%"
+          }
+        },
+        {
+          "quarter": "2025Q2",
+          "period_end": "2025-06-30",
+          "revenue": 15130.0,
+          "profit": 2984.0,
+          "reported_margin_pct": 19.7,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15130.0,
+          "profit_msek": 2984.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4208784/3585253.pdf",
+            "title": "Epiroc AB Interim Report Q2 2025",
+            "locator": "p.5 Group table, current-quarter column: Revenues 15,130; Adj. operating profit, EBIT 2,984; Adj. operating margin, EBIT 19.7%"
+          }
+        },
+        {
+          "quarter": "2025Q3",
+          "period_end": "2025-09-30",
+          "revenue": 15242.0,
+          "profit": 2896.0,
+          "reported_margin_pct": 19.0,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15242.0,
+          "profit_msek": 2896.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4258152/3750117.pdf",
+            "title": "Epiroc AB Interim Report Q3 2025",
+            "locator": "p.5 Group table, current-quarter column: Revenues 15,242; Adj. operating profit, EBIT 2,896; Adj. operating margin, EBIT 19.0%"
+          }
+        },
+        {
+          "quarter": "2025Q4",
+          "period_end": "2025-12-31",
+          "revenue": 16090.0,
+          "profit": 3146.0,
+          "reported_margin_pct": 19.6,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 16090.0,
+          "profit_msek": 3146.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4297572/3896941.pdf",
+            "title": "Epiroc AB Interim Report Q4 2025",
+            "locator": "p.5 Group table, current-quarter column: Revenues 16,090; Adj. operating profit, EBIT 3,146; Adj. operating margin, EBIT 19.6%"
+          }
+        },
+        {
+          "quarter": "2026Q1",
+          "period_end": "2026-03-31",
+          "revenue": 14351.0,
+          "profit": 2868.0,
+          "reported_margin_pct": 20.0,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 14351.0,
+          "profit_msek": 2868.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4341697/4066139.pdf",
+            "title": "Epiroc AB Interim Report Q1 2026",
+            "locator": "p.5 Group table, current-quarter column: Revenues 14,351; Adj. operating profit, EBIT 2,868; Adj. operating margin, EBIT 20.0%"
+          }
+        },
+        {
+          "quarter": "2026Q2",
+          "period_end": "2026-06-30",
+          "revenue": 16702.0,
+          "profit": 3349.0,
+          "reported_margin_pct": 20.1,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 16702.0,
+          "profit_msek": 3349.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4375716/4197580.pdf",
+            "title": "Epiroc AB Interim Report Q2 2026",
+            "locator": "p.5 Group table, current-quarter column: Revenues 16,702; Adj. operating profit, EBIT 3,349; Adj. operating margin, EBIT 20.1%"
+          }
+        },
+        {
+          "quarter": "2026Q3",
+          "period_end": "2026-09-30",
+          "revenue": 16775.0,
+          "profit": 3426.0,
+          "reported_margin_pct": 20.4,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 16775.0,
+          "profit_msek": 3426.0,
+          "source": {
+            "url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
+            "title": "Epiroc AB Interim Report Q3 2026",
+            "locator": "p.5 Group table, current-quarter column: Revenues 16,775; Adj. operating profit, EBIT 3,426; Adj. operating margin, EBIT 20.4%"
+          }
+        }
+      ],
+      "comments": {
+        "quarter": "2026Q3",
+        "source_url": "https://mb.cision.com/Main/16899/4416462/4342795.pdf",
+        "points": [
+          "Mining demand was strong: mining customers made up 83% (78) of orders, orders rose 12% organically to MSEK 17,467, and infrastructure demand was stable.",
+          "Equipment orders rose 16% organically, with large orders of MSEK 790 including the second-largest order in Epiroc's history (MSEK 610, MMG Khoemacau copper mine, Botswana); service grew 13% organically, driven by mid-life upgrades.",
+          "Adjusted operating margin improved to 20.4% (19.0) on higher volumes and efficiency actions, and Epiroc expects mining demand to remain high and infrastructure demand to remain stable in the near term."
+        ]
+      }
+    },
+    {
+      "slug": "sandvik",
+      "name": "Sandvik",
+      "segment": "Mining and Rock Solutions business area (reported as 'Mining' since the Q4 2025 report)",
+      "reporting_currency": "SEK",
+      "profit_metric": "Adjusted EBITA",
+      "fiscal_year_note": null,
+      "latest_quarter": "2026Q3",
+      "next_report_date": "2027-01-27",
+      "notes": [
+        "Reports in SEK, calendar fiscal year; fx_rate_to_sek = 1.0 for all quarters.",
+        "The business area Sandvik Mining and Rock Solutions (SMR) has been reported under the name 'Mining' since the Q4 2025 report (the 2026 structure has four business areas: Mining, Rock Processing, Machining, Intelligent Manufacturing). The Mining history is identical to the SMR history (e.g. 2024Q1 revenue 14,312 / adj. EBITA 2,605 in both the Q1 2024 and Q3 2026 reports), so this is a rename and not a restatement.",
+        "Restatement used: SMR adjusted EBITA for the 2021 quarters was restated in the Q1 2022 report, when Sandvik Materials Technology/Alleima moved to discontinued operations (e.g. Q4 2021 2,782 originally, 2,825 restated; revenues unchanged). The restated figures, which are also in Sandvik's current financial-data Excel, are used.",
+        "Backfill 2021Q1–2025Q4 comes from Sandvik's quarterly financial-data Excel (2026 Q3 edition). Every quarter was checked against the business-area tables in the interim reports, and all revenue, adjusted EBITA and margin values match the reports to the rounded MSEK/0.1 pp. The 2026 quarters are sourced directly from the 2026 interim reports.",
+        "Mining figures are as reported, including bolt-on acquisitions from their consolidation dates; no restatement of Mining history has been published for the 2026 structure."
+      ],
+      "quarters": [
+        {
+          "quarter": "2021Q1",
+          "period_end": "2021-03-31",
+          "revenue": 8019.0,
+          "profit": 1687.0,
+          "reported_margin_pct": 21.0,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 8019.0,
+          "profit_msek": 1687.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AA (header AA5 = '2021 Q1'): Revenues AA9, Adjusted EBITA AA11, Adjusted EBITA margin AA12 (SEK, rounded to MSEK); verified against Q1 2022 interim report p.21–22 (restated comparatives)"
+          }
+        },
+        {
+          "quarter": "2021Q2",
+          "period_end": "2021-06-30",
+          "revenue": 9090.0,
+          "profit": 1876.0,
+          "reported_margin_pct": 20.6,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 9090.0,
+          "profit_msek": 1876.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AB (header AB5 = '2021 Q2'): Revenues AB9, Adjusted EBITA AB11, Adjusted EBITA margin AB12 (SEK, rounded to MSEK); verified against Q1 2022 interim report p.21–22 (restated comparatives)"
+          }
+        },
+        {
+          "quarter": "2021Q3",
+          "period_end": "2021-09-30",
+          "revenue": 11114.0,
+          "profit": 2365.0,
+          "reported_margin_pct": 21.3,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 11114.0,
+          "profit_msek": 2365.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AC (header AC5 = '2021 Q3'): Revenues AC9, Adjusted EBITA AC11, Adjusted EBITA margin AC12 (SEK, rounded to MSEK); verified against Q1 2022 interim report p.21–22 (restated comparatives)"
+          }
+        },
+        {
+          "quarter": "2021Q4",
+          "period_end": "2021-12-31",
+          "revenue": 13186.0,
+          "profit": 2825.0,
+          "reported_margin_pct": 21.4,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 13186.0,
+          "profit_msek": 2825.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AD (header AD5 = '2021 Q4'): Revenues AD9, Adjusted EBITA AD11, Adjusted EBITA margin AD12 (SEK, rounded to MSEK); verified against Q1 2022 interim report p.21–22 (restated comparatives)"
+          }
+        },
+        {
+          "quarter": "2022Q1",
+          "period_end": "2022-03-31",
+          "revenue": 12029.0,
+          "profit": 2413.0,
+          "reported_margin_pct": 20.1,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 12029.0,
+          "profit_msek": 2413.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AE (header AE5 = '2022 Q1'): Revenues AE9, Adjusted EBITA AE11, Adjusted EBITA margin AE12 (SEK, rounded to MSEK); verified against Q1 2023 interim report p.19–20"
+          }
+        },
+        {
+          "quarter": "2022Q2",
+          "period_end": "2022-06-30",
+          "revenue": 13658.0,
+          "profit": 2628.0,
+          "reported_margin_pct": 19.2,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 13658.0,
+          "profit_msek": 2628.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AF (header AF5 = '2022 Q2'): Revenues AF9, Adjusted EBITA AF11, Adjusted EBITA margin AF12 (SEK, rounded to MSEK); verified against Q1 2023 interim report p.19–20"
+          }
+        },
+        {
+          "quarter": "2022Q3",
+          "period_end": "2022-09-30",
+          "revenue": 15001.0,
+          "profit": 3046.0,
+          "reported_margin_pct": 20.3,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15001.0,
+          "profit_msek": 3046.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AG (header AG5 = '2022 Q3'): Revenues AG9, Adjusted EBITA AG11, Adjusted EBITA margin AG12 (SEK, rounded to MSEK); verified against Q1 2023 interim report p.19–20"
+          }
+        },
+        {
+          "quarter": "2022Q4",
+          "period_end": "2022-12-31",
+          "revenue": 16156.0,
+          "profit": 3557.0,
+          "reported_margin_pct": 22.0,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 16156.0,
+          "profit_msek": 3557.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AH (header AH5 = '2022 Q4'): Revenues AH9, Adjusted EBITA AH11, Adjusted EBITA margin AH12 (SEK, rounded to MSEK); verified against Q1 2023 interim report p.19–20"
+          }
+        },
+        {
+          "quarter": "2023Q1",
+          "period_end": "2023-03-31",
+          "revenue": 15366.0,
+          "profit": 3075.0,
+          "reported_margin_pct": 20.0,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15366.0,
+          "profit_msek": 3075.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AI (header AI5 = '2023 Q1'): Revenues AI9, Adjusted EBITA AI11, Adjusted EBITA margin AI12 (SEK, rounded to MSEK); verified against Q1 2024 interim report p.19–20"
+          }
+        },
+        {
+          "quarter": "2023Q2",
+          "period_end": "2023-06-30",
+          "revenue": 16755.0,
+          "profit": 3621.0,
+          "reported_margin_pct": 21.6,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 16755.0,
+          "profit_msek": 3621.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AJ (header AJ5 = '2023 Q2'): Revenues AJ9, Adjusted EBITA AJ11, Adjusted EBITA margin AJ12 (SEK, rounded to MSEK); verified against Q1 2024 interim report p.19–20"
+          }
+        },
+        {
+          "quarter": "2023Q3",
+          "period_end": "2023-09-30",
+          "revenue": 16674.0,
+          "profit": 3548.0,
+          "reported_margin_pct": 21.3,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 16674.0,
+          "profit_msek": 3548.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AK (header AK5 = '2023 Q3'): Revenues AK9, Adjusted EBITA AK11, Adjusted EBITA margin AK12 (SEK, rounded to MSEK); verified against Q1 2024 interim report p.19–20"
+          }
+        },
+        {
+          "quarter": "2023Q4",
+          "period_end": "2023-12-31",
+          "revenue": 16894.0,
+          "profit": 3472.0,
+          "reported_margin_pct": 20.6,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 16894.0,
+          "profit_msek": 3472.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AL (header AL5 = '2023 Q4'): Revenues AL9, Adjusted EBITA AL11, Adjusted EBITA margin AL12 (SEK, rounded to MSEK); verified against Q1 2024 interim report p.19–20"
+          }
+        },
+        {
+          "quarter": "2024Q1",
+          "period_end": "2024-03-31",
+          "revenue": 14312.0,
+          "profit": 2605.0,
+          "reported_margin_pct": 18.2,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 14312.0,
+          "profit_msek": 2605.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AM (header AM5 = '2024 Q1'): Revenues AM9, Adjusted EBITA AM11, Adjusted EBITA margin AM12 (SEK, rounded to MSEK); verified against Q4 2025 interim report p.19"
+          }
+        },
+        {
+          "quarter": "2024Q2",
+          "period_end": "2024-06-30",
+          "revenue": 16151.0,
+          "profit": 3356.0,
+          "reported_margin_pct": 20.8,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 16151.0,
+          "profit_msek": 3356.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AN (header AN5 = '2024 Q2'): Revenues AN9, Adjusted EBITA AN11, Adjusted EBITA margin AN12 (SEK, rounded to MSEK); verified against Q4 2025 interim report p.19"
+          }
+        },
+        {
+          "quarter": "2024Q3",
+          "period_end": "2024-09-30",
+          "revenue": 15838.0,
+          "profit": 3269.0,
+          "reported_margin_pct": 20.6,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15838.0,
+          "profit_msek": 3269.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AO (header AO5 = '2024 Q3'): Revenues AO9, Adjusted EBITA AO11, Adjusted EBITA margin AO12 (SEK, rounded to MSEK); verified against Q4 2025 interim report p.19"
+          }
+        },
+        {
+          "quarter": "2024Q4",
+          "period_end": "2024-12-31",
+          "revenue": 17306.0,
+          "profit": 3721.0,
+          "reported_margin_pct": 21.5,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 17306.0,
+          "profit_msek": 3721.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AP (header AP5 = '2024 Q4'): Revenues AP9, Adjusted EBITA AP11, Adjusted EBITA margin AP12 (SEK, rounded to MSEK); verified against Q4 2025 interim report p.19"
+          }
+        },
+        {
+          "quarter": "2025Q1",
+          "period_end": "2025-03-31",
+          "revenue": 14675.0,
+          "profit": 3058.0,
+          "reported_margin_pct": 20.8,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 14675.0,
+          "profit_msek": 3058.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AQ (header AQ5 = '2025 Q1'): Revenues AQ9, Adjusted EBITA AQ11, Adjusted EBITA margin AQ12 (SEK, rounded to MSEK); verified against Q4 2025 interim report p.19"
+          }
+        },
+        {
+          "quarter": "2025Q2",
+          "period_end": "2025-06-30",
+          "revenue": 15469.0,
+          "profit": 3144.0,
+          "reported_margin_pct": 20.3,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15469.0,
+          "profit_msek": 3144.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AR (header AR5 = '2025 Q2'): Revenues AR9, Adjusted EBITA AR11, Adjusted EBITA margin AR12 (SEK, rounded to MSEK); verified against Q4 2025 interim report p.19"
+          }
+        },
+        {
+          "quarter": "2025Q3",
+          "period_end": "2025-09-30",
+          "revenue": 15240.0,
+          "profit": 3059.0,
+          "reported_margin_pct": 20.1,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15240.0,
+          "profit_msek": 3059.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AS (header AS5 = '2025 Q3'): Revenues AS9, Adjusted EBITA AS11, Adjusted EBITA margin AS12 (SEK, rounded to MSEK); verified against Q4 2025 interim report p.19"
+          }
+        },
+        {
+          "quarter": "2025Q4",
+          "period_end": "2025-12-31",
+          "revenue": 17588.0,
+          "profit": 3784.0,
+          "reported_margin_pct": 21.5,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 17588.0,
+          "profit_msek": 3784.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/financial-data/financial-data-2026-q3.xlsx",
+            "title": "Sandvik financial data (quarterly key figures) 2026 Q3, Excel",
+            "locator": "sheet 'Business_area_information-Q', Mining block, column AT (header AT5 = '2025 Q4'): Revenues AT9, Adjusted EBITA AT11, Adjusted EBITA margin AT12 (SEK, rounded to MSEK); verified against Q4 2025 interim report p.19"
+          }
+        },
+        {
+          "quarter": "2026Q1",
+          "period_end": "2026-03-31",
+          "revenue": 15206.0,
+          "profit": 3004.0,
+          "reported_margin_pct": 19.8,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 15206.0,
+          "profit_msek": 3004.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-first-quarter-2026.pdf",
+            "title": "Sandvik Interim report Q1 2026",
+            "locator": "p.19 'Revenues' table, row Mining (15,206); p.20 'Adjusted EBITA' row Mining (3,004) and 'Adjusted EBITA margin' row Mining (19.8%); also in Excel financial-data-2026-q3.xlsx sheet Business_area_information-Q col AU"
+          }
+        },
+        {
+          "quarter": "2026Q2",
+          "period_end": "2026-06-30",
+          "revenue": 18527.0,
+          "profit": 3793.0,
+          "reported_margin_pct": 20.5,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 18527.0,
+          "profit_msek": 3793.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-second-quarter-2026.pdf",
+            "title": "Sandvik Interim report Q2 2026",
+            "locator": "p.19 'Revenues' table, row Mining (18,527); p.20 'Adjusted EBITA' row Mining (3,793) and 'Adjusted EBITA margin' row Mining (20.5%); also in Excel financial-data-2026-q3.xlsx sheet Business_area_information-Q col AV"
+          }
+        },
+        {
+          "quarter": "2026Q3",
+          "period_end": "2026-09-30",
+          "revenue": 19525.0,
+          "profit": 4259.0,
+          "reported_margin_pct": 21.8,
+          "fx_rate_to_sek": 1.0,
+          "revenue_msek": 19525.0,
+          "profit_msek": 4259.0,
+          "source": {
+            "url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+            "title": "Sandvik Interim report Q3 2026",
+            "locator": "p.19 'Revenues' table, row Mining (19,525); p.20 'Adjusted EBITA' row Mining (4,259) and 'Adjusted EBITA margin' row Mining (21.8%); also in Excel financial-data-2026-q3.xlsx sheet Business_area_information-Q col AW"
+          }
+        }
+      ],
+      "comments": {
+        "quarter": "2026Q3",
+        "source_url": "https://www.home.sandvik/siteassets/investors/reports--presentations/interim-reports/2026/interim-report-third-quarter-2026.pdf",
+        "points": [
+          "Mining demand stayed strong for both equipment and aftermarket: order intake rose 15% to SEK 19,402 million (+11% organic), with aftermarket orders up 16% while equipment orders were flat against high comparables.",
+          "Revenues reached a record SEK 19,525 million (+23% organic), which Sandvik credits to delivery capacity expanded over the past 18 months that turned backlog into revenue.",
+          "Adjusted EBITA rose to SEK 4,259 million, a 21.8% (20.1) margin, driven by 31% organic operating leverage despite a 40 bp margin dilution from currency."
+        ]
+      }
+    }
+  ]
+}
